@@ -1,0 +1,94 @@
+{
+  "confirmation_protocol_version": "experiment59-expansion-only-four-policy-confirmation-v1",
+  "files": [
+    {
+      "bytes": 1213,
+      "path": "EXP59_CONFIRMATION_AMENDMENT.md",
+      "sha256": "2e7a85a3b1982b6eed8e698292358a45db227bd5a6e62ba04b3f7642fa1b159d"
+    },
+    {
+      "bytes": 1944,
+      "path": "README_SERVER.md",
+      "sha256": "7139d509c4ed4e2638947cf8e440366cbbd0213764449ded0ae423579cd49edf"
+    },
+    {
+      "bytes": 11469,
+      "path": "analyze_experiment59_confirmation.py",
+      "sha256": "e6a072a83c54b471717d56b3977b31dc5926e8eb8bc29e0a05a1491447ee5fe2"
+    },
+    {
+      "bytes": 7127,
+      "path": "audit_experiment59_confirmation.py",
+      "sha256": "68cd5ff5b2c44eae3843376e17f98ab8c4132faaa3fd76735ff6d9825694aa65"
+    },
+    {
+      "bytes": 2103,
+      "path": "build_experiment59_confirmation_package.py",
+      "sha256": "1bb5fcfcae88eea433c5715eac278518b43ad2111fe0f7ae17e838164081755a"
+    },
+    {
+      "bytes": 10281,
+      "path": "experiment59_confirmation_live_worker.py",
+      "sha256": "4ed511c669a0d06688b39ad1db79b82e10949a6f3e3dcde35e3cd43f3a6a059d"
+    },
+    {
+      "bytes": 7040,
+      "path": "experiment59_confirmation_protocol.py",
+      "sha256": "042b796924765a2d49229658dc8c8e58c74385f82e575b385c48050bfbb3b412"
+    },
+    {
+      "bytes": 3184,
+      "path": "export_experiment59_confirmation.py",
+      "sha256": "ff19718f536360e75b08f939b349668a678ebe39070f77493c1417d699664a05"
+    },
+    {
+      "bytes": 5972,
+      "path": "finalize_experiment59_confirmation.py",
+      "sha256": "f36c93ec53c847ecb1a7390a37d7c75fc5f169afb2b450749818928a9eb1b870"
+    },
+    {
+      "bytes": 8763,
+      "path": "freeze_experiment59_confirmation_execution.py",
+      "sha256": "ea47c072f1f279cd0a8cecac3994b73852603803791550add984b294421f91f9"
+    },
+    {
+      "bytes": 3794,
+      "path": "launch_experiment59_confirmation.py",
+      "sha256": "abcd0b4542af9a8e373fd4dedfce24ed49768217501ffd7128f3c4bc3426e93e"
+    },
+    {
+      "bytes": 2006,
+      "path": "monitor_experiment59_confirmation.py",
+      "sha256": "41905c763384f929c7a77dc94aa5180a1cc013e3c485a0cf838278fedc3f2400"
+    },
+    {
+      "bytes": 2369,
+      "path": "preflight_experiment59_confirmation.py",
+      "sha256": "251a374b8e77c9a5c63f45afb005acc37fd8846f1324a6be0c36cb6ddf0697fb"
+    },
+    {
+      "bytes": 9829,
+      "path": "run_experiment59_confirmation_shards.py",
+      "sha256": "424faad5975176adc36a161d1b75a3a1819930dc5da13c9434640227854bda23"
+    },
+    {
+      "bytes": 3749,
+      "path": "test_experiment59_confirmation_static.py",
+      "sha256": "dba0bf9bf4abf136129b9ef2fc2b8f6ed26eeecf3d36e3b05fd726bcd41c7ae6"
+    }
+  ],
+  "mechanical_fix_id": "exp59-four-policy-confirmation-execution-v1",
+  "package": "experiment59-four-policy-confirmation-execution",
+  "python_only": true,
+  "static_test": {
+    "all_static_checks_passed": true,
+    "confirmation_cells_executed": 0,
+    "continuation_probes_executed": 0,
+    "lean_executed": false,
+    "package": "experiment59-four-policy-confirmation-execution",
+    "static_checks": 16,
+    "theorem_sources_elaborated": 0,
+    "version": 1
+  },
+  "version": 1
+}

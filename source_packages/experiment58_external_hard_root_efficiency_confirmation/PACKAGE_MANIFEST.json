@@ -1,0 +1,111 @@
+{
+  "code_only": true,
+  "contains_confirmation_execution_runner": false,
+  "contains_scientific_results": false,
+  "entries": [
+    {
+      "bytes": 5227,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/EXP58_PREREGISTRATION.md",
+      "sha256": "463df58f64268926c23394ca9934e82fb1d723b1c4f2129bc70c602cdb25a005"
+    },
+    {
+      "bytes": 4503,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/README_SERVER.md",
+      "sha256": "23818cdc1d1f2f1f00f4d9c877de4f363bccb27dc17fc4f08076a0f9aabd79ba"
+    },
+    {
+      "bytes": 935,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/THIRD_PARTY_AUDIT.csv",
+      "sha256": "51a9f0a92e8a40934b6724592648b2b2a85281c9997c5f48e1d6f46221c1d863"
+    },
+    {
+      "bytes": 7711,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/apply_experiment58_fix2.py",
+      "sha256": "1d9081dccb433139dbbaef68f6ef431341894c3178b78877ceb0be8d7b5818c3"
+    },
+    {
+      "bytes": 3005,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/build_experiment58_package.py",
+      "sha256": "c4a72516c27dfd53e3b94294c889eeae853ab02d620b809f757ceaffd4e466fc"
+    },
+    {
+      "bytes": 10156,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/enumerate_experiment58_targets.py",
+      "sha256": "e2c58b56cccd974351281eac0280c06c9c9a58b312c0c5f92b6b3a64a2048fc0"
+    },
+    {
+      "bytes": 10071,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/experiment58_candidate_worker.py",
+      "sha256": "dac25192b467c5882f1a850b9c2c130832ca1a69cf795161e0861dac11528220"
+    },
+    {
+      "bytes": 9485,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/experiment58_protocol.py",
+      "sha256": "635136e618db2aec9a421210bba2cd1bc8def32f521e9011cd159e51e76874b1"
+    },
+    {
+      "bytes": 5321,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/finalize_experiment58_candidate_screening.py",
+      "sha256": "2442efe26b5fc72029783bc7b6d7894e663019fc586dbad0b1c95623743d9e5d"
+    },
+    {
+      "bytes": 8486,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/freeze_experiment58.py",
+      "sha256": "237bab7b5ac9dda9af10cfd0fed7c5a859cda4dc161bfecf608bc3979ecefa86"
+    },
+    {
+      "bytes": 3333,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/freeze_experiment58_confirmation.py",
+      "sha256": "d4d5748872f71f536238c20e472da9c264e97a7cd23e563d6198e07fb69cbf26"
+    },
+    {
+      "bytes": 5221,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/freeze_experiment58_pilot.py",
+      "sha256": "a46b7580b7d2217a9c4d04a8bf660d2d6c7dae3f0f850e45ed155ef831d8afc9"
+    },
+    {
+      "bytes": 5017,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/plan_experiment58_power.py",
+      "sha256": "34ba31e0b54cc8c501950ac57659efcd1277c9f69ac6d887f8af733421b87c1b"
+    },
+    {
+      "bytes": 3529,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/preflight_experiment58.py",
+      "sha256": "c2ffdc8ba233d69dc669eefc439b79f34fa30a3f265e8ce9aca93c67da75f8ed"
+    },
+    {
+      "bytes": 5674,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/prepare_experiment58_benchmarks.py",
+      "sha256": "fc4b9c1939c8c51c4d893daf37efad31c46f12feaae4764811ef2de58ca5f83b"
+    },
+    {
+      "bytes": 92,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/requirements.txt",
+      "sha256": "0ec1219d4675c10a534a490aaf8c92041328a2d0049fb52c8d83c7a8dc6c4cc6"
+    },
+    {
+      "bytes": 4800,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/run_experiment58_candidate_screening.py",
+      "sha256": "fa772bdac4608107bf0f396dc2bcc7016443d26152252c0624fde2db73bc3e8b"
+    },
+    {
+      "bytes": 5513,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/test_experiment58_static.py",
+      "sha256": "afb88f1c1c444a506dc2218f07e01a54f16c2f8de3bc2d787f3a76b28ba29636"
+    },
+    {
+      "bytes": 13447,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/vendor/experiment49_protocol.py",
+      "sha256": "9faf4cd691a69238eba240cdd61d2ea05e48c11f5aad1a667142f7d89e136e55"
+    },
+    {
+      "bytes": 33596,
+      "path": "experiment58_external_hard_root_efficiency_confirmation/vendor/experiment49_strict_worker.py",
+      "sha256": "ae9fadc6b4b71712ec01cb2f027f77e0b72b77c737a8a97b46298d61a0190205"
+    }
+  ],
+  "entries_sha256": "79059c22369e3a5daa08ffd87ee81bd906b806fb8e06eb52d272754493ab05b6",
+  "package": "experiment58_external_hard_root_efficiency_confirmation",
+  "protocol_version": "experiment58-external-hard-root-efficiency-confirmation-v1",
+  "version": 1
+}

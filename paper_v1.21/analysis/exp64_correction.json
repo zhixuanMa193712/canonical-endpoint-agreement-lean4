@@ -1,0 +1,184 @@
+{
+  "archive_sha256": "2aaebc31501b5946a6dcfb7a279d2dda0cdd4cf20160f7e49ec63674e5411130",
+  "roots": 512,
+  "numpy_version": "2.3.5",
+  "protocol_constants_sha256": "07caeb848cf113cd1243304bfeca84c99e8090d615a2238e1b0573a423ea6d70",
+  "correction": "post-outcome lexical relabeling of stored executions; no new Lean calls",
+  "bootstrap": "NumPy PCG64 seed 20260918; 20000 two-level repository/root resamples; linear percentile",
+  "full": {
+    "positives": 355,
+    "mean": 0.693359375,
+    "ci": [
+      0.591796875,
+      0.7890625
+    ],
+    "median_repository": 0.71875,
+    "range": [
+      0.125,
+      1.0
+    ],
+    "nonzero_repositories": 32,
+    "cross": 196,
+    "nonterminal": 298,
+    "cross_repositories": 32,
+    "nonterminal_repositories": 30,
+    "distinct_pairs": 124,
+    "recurring_pairs": 87,
+    "equal_file_mean": 0.7058819970538721,
+    "loo_range": [
+      0.6834677419354839,
+      0.7116935483870968
+    ],
+    "distributions": {
+      "successful": {
+        "min": 0.0,
+        "q1": 2.0,
+        "median": 4.0,
+        "q3": 7.0,
+        "max": 15.0
+      },
+      "endpoint_classes": {
+        "min": 0.0,
+        "q1": 2.0,
+        "median": 3.0,
+        "q3": 3.0,
+        "max": 6.0
+      },
+      "pair_count": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 1.0,
+        "q3": 4.0,
+        "max": 67.0
+      },
+      "duplicate_successful": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 1.0,
+        "q3": 3.0,
+        "max": 12.0
+      }
+    }
+  },
+  "diverse": {
+    "positives": 141,
+    "mean": 0.275390625,
+    "ci": [
+      0.208984375,
+      0.34765625
+    ],
+    "median_repository": 0.28125,
+    "range": [
+      0.0625,
+      0.8125
+    ],
+    "nonzero_repositories": 32,
+    "cross": 140,
+    "nonterminal": 76,
+    "cross_repositories": 31,
+    "nonterminal_repositories": 21,
+    "distinct_pairs": 69,
+    "recurring_pairs": 38,
+    "equal_file_mean": 0.27260779295935544,
+    "loo_range": [
+      0.25806451612903225,
+      0.28225806451612906
+    ],
+    "distributions": {
+      "successful": {
+        "min": 0.0,
+        "q1": 1.0,
+        "median": 2.0,
+        "q3": 3.25,
+        "max": 11.0
+      },
+      "endpoint_classes": {
+        "min": 0.0,
+        "q1": 1.0,
+        "median": 2.0,
+        "q3": 3.0,
+        "max": 5.0
+      },
+      "pair_count": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 28.0
+      },
+      "duplicate_successful": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 7.0
+      }
+    }
+  },
+  "archived_positives": {
+    "full": 277,
+    "diverse": 141
+  },
+  "changed_labels": [
+    {
+      "tactic": "aesop",
+      "archived": "ae",
+      "corrected": "aesop",
+      "rows": 512
+    },
+    {
+      "tactic": "aesop?",
+      "archived": "ae",
+      "corrected": "aesop?",
+      "rows": 512
+    },
+    {
+      "tactic": "apply_assumption",
+      "archived": "apply_a",
+      "corrected": "apply_assumption",
+      "rows": 44
+    },
+    {
+      "tactic": "assumption",
+      "archived": "a",
+      "corrected": "assumption",
+      "rows": 512
+    },
+    {
+      "tactic": "constructor",
+      "archived": "con",
+      "corrected": "constructor",
+      "rows": 502
+    },
+    {
+      "tactic": "positivity",
+      "archived": "po",
+      "corrected": "positivity",
+      "rows": 512
+    },
+    {
+      "tactic": "simp",
+      "archived": "<empty>",
+      "corrected": "simp",
+      "rows": 511
+    },
+    {
+      "tactic": "simp_all",
+      "archived": "<empty>",
+      "corrected": "simp_all",
+      "rows": 512
+    },
+    {
+      "tactic": "simpa",
+      "archived": "<empty>",
+      "corrected": "simpa",
+      "rows": 512
+    },
+    {
+      "tactic": "solve_by_elim",
+      "archived": "<empty>",
+      "corrected": "solve_by_elim",
+      "rows": 512
+    }
+  ]
+}

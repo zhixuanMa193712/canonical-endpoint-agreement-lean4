@@ -1,0 +1,1 @@
+# Exp50 uses only the Python standard library. Lean/Lake v4.27.0 is required externally.

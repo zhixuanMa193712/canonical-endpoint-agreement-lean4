@@ -1,0 +1,16 @@
+{
+  "schema": "jar-portable-audit-revision-manifest-v1",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1969,
+      "sha256": "f23d3a791fba269e5df6d38b2c8788412b609b74886277d96d056b163d5d35bf"
+    },
+    {
+      "path": "portable_audit.py",
+      "bytes": 50647,
+      "sha256": "08e1d7f7d94ba0a0b5c93a6c1d14d631606cb4ae54111f343cb51b0f68d576e5"
+    }
+  ]
+}

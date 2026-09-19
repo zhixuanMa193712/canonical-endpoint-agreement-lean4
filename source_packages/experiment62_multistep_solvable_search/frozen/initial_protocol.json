@@ -1,0 +1,166 @@
+{
+  "benchmark": "leandojo_benchmark_4/random/test.json",
+  "benchmark_partition": "random/test",
+  "benchmark_rows": 2000,
+  "benchmark_sha256": "9f84ac4cbd5ea9031ab335d172e7a5b1873e4ac773721e60cb1a4cc5b4e2a0ae",
+  "candidate_frame_path": "frozen/candidate_frame.jsonl",
+  "candidate_frame_rows": 192,
+  "candidate_frame_sha256": "1c1d1deac6b2bddc28160d2af30e947139d273fc417875208beeb81dd15a1217",
+  "claim_boundary": [
+    "real LeanDojo interaction over theorem roots from random/test",
+    "every eligible root has an independently replayed authored multi-step witness",
+    "the witness action set is disclosed to every policy to remove candidate acquisition as a bottleneck",
+    "this is a controlled search-policy evaluation, not autonomous tactic generation",
+    "text48 endpoint identity is not proof-term or semantic state identity"
+  ],
+  "confirmation": {
+    "coverage_noninferiority_margin": 0.05,
+    "maximum_expanded_nodes": 32,
+    "maximum_search_depth": 6,
+    "maximum_tactic_invocations": 768,
+    "minimum_full_multistep_solves_information_gate": 48,
+    "operational_missing_coverage_rule": "worst-case loss imputation",
+    "policies": [
+      "full",
+      "effect_aware",
+      "head_dedup",
+      "fixed_budget_random"
+    ],
+    "policy_order": "target-hash cyclic Latin order; policies sequential within root",
+    "policy_timeout_seconds": 240,
+    "roots": 64,
+    "roots_per_stratum": 32
+  },
+  "design_type": "prospective_two-stage_witness_injected_multistep_search",
+  "effect_endpoint_canonicalizer": "text48_v1",
+  "implementation_locks": [
+    {
+      "bytes": 14466,
+      "path": "analyze_experiment62.py",
+      "sha256": "5712bc5bee1494810c6e061f13c398ea20fdd348509f1b20a84d3d2d21e86ee6"
+    },
+    {
+      "bytes": 4461,
+      "path": "audit_experiment62.py",
+      "sha256": "0c126bb822f9776c839877e153ec38f96495b809eb91644513897b2db0d7bd7a"
+    },
+    {
+      "bytes": 1572,
+      "path": "build_experiment62_package.py",
+      "sha256": "6258de09be472131a6cb3c6507c8443ffe1d5b00dff1df4f7bd5f90aee9658ab"
+    },
+    {
+      "bytes": 3924,
+      "path": "experiment62_dojo.py",
+      "sha256": "b45a878b5c302e5abedcb84d81991dc0d5343d8b1ab3bb0c6585196ec638e937"
+    },
+    {
+      "bytes": 11207,
+      "path": "experiment62_policy_worker.py",
+      "sha256": "a75dbc37f08f4ece7c6e8fd8640e21b2f98f5b03149b4bd88743efc5476584a9"
+    },
+    {
+      "bytes": 10810,
+      "path": "experiment62_protocol.py",
+      "sha256": "4f7abf27114fec0bcd47049acc935e6eea59e6c75a131c8db9500ea9b0e13b73"
+    },
+    {
+      "bytes": 7199,
+      "path": "experiment62_qualification_worker.py",
+      "sha256": "bae67012f3b0dd2cc83ff183ed30cb23afed5ebb4471d6716d052ef4f6049e27"
+    },
+    {
+      "bytes": 2772,
+      "path": "export_experiment62.py",
+      "sha256": "c7ce245bbaea3a242b2fc5041b62e96895834268bb6a41e0f27c0d6901c4e2cf"
+    },
+    {
+      "bytes": 10262,
+      "path": "freeze_experiment62.py",
+      "sha256": "7b6009a1596e64caeaaea68f75c98380d02cd2b2cf53520dc988d53fd64bb197"
+    },
+    {
+      "bytes": 7123,
+      "path": "freeze_experiment62_phase.py",
+      "sha256": "0a0f066b41ca2dfccb87060b60e6d6d109671aded42e61f42a9cb2b2e9286a80"
+    },
+    {
+      "bytes": 1907,
+      "path": "install_experiment62.py",
+      "sha256": "43f1d163e9f1ee8bca52a85d3fb49223e8ec5e4d5bbc7828d918bcef5eb0d2d5"
+    },
+    {
+      "bytes": 1654,
+      "path": "preflight_experiment62.py",
+      "sha256": "092422daa3e5bfa1a0f10d00e60b1c97f55652945b4f0e255a7fb7b482d1f591"
+    },
+    {
+      "bytes": 7885,
+      "path": "run_experiment62_phase.py",
+      "sha256": "0d67154fe641f1fc8f0e9fc6f45b31dd9af5f270c8678bc12f8e7281356e5fdf"
+    },
+    {
+      "bytes": 7620,
+      "path": "run_experiment62_qualification.py",
+      "sha256": "0d3e15ae6b6d7b0135d0edabc84b6651b828ffc70e71b6a234cd65fb332ea110"
+    },
+    {
+      "bytes": 3065,
+      "path": "test_experiment62_static.py",
+      "sha256": "ee4af72447ec5f67252aa10cb64b7f6011151a86bd0bf00ea8d2826c17dccdea"
+    }
+  ],
+  "next_step": "Install the frozen design on the server and run environment preflight.",
+  "offline_eligibility": {
+    "forbidden_tactics": [
+      "sorry",
+      "admit"
+    ],
+    "lean_tactics_executed": 0,
+    "maximum_authored_witness_depth": 6,
+    "minimum_authored_witness_depth": 2,
+    "shortest_path_over_recorded_state_transition_graph": true
+  },
+  "offline_eligible_by_stratum": {
+    "authored_depth_2": 248,
+    "authored_depth_3_to_6": 161
+  },
+  "offline_eligible_roots": 409,
+  "pilot": {
+    "budget_tuning_after_pilot": false,
+    "go_gate": "all 16 roots policy-complete and at least 12 full-policy proofs have two or more external tactic invocations",
+    "roots": 16,
+    "roots_per_stratum": 8
+  },
+  "primary_estimands": [
+    "root-level solve rate and multi-step solve rate by policy",
+    "effect-aware loss fraction relative to full with one-sided Wilson upper bound",
+    "paired full-minus-effect-aware Lean tactic-invocation count"
+  ],
+  "protocol_version": "experiment62-witness-injected-multistep-search-v1",
+  "qualification": {
+    "four_scientific_policies_executed": false,
+    "fresh_live_authored_witness_replay": true,
+    "root_candidate_panel_one_step_terminal_exclusion": true,
+    "selection_rule": "within each role and authored-depth stratum, select the first frozen-rank roots passing live witness replay and the no-one-step-terminal gate"
+  },
+  "record_sha256": "7ed4fc7d38f7a149f18e68714944237edde4098461f8a2166b8eefa24f79695c",
+  "repository_commit": "29dcec074de168ac2bf835a77ef68bbe069194c5",
+  "repository_url": "https://github.com/leanprover-community/mathlib4",
+  "roles": {
+    "confirmation": 128,
+    "pilot": 64
+  },
+  "scientific_policy_jobs_executed_before_freeze": 0,
+  "secondary_estimands": [
+    "expanded nodes",
+    "time-to-first-proof",
+    "wall-clock",
+    "endpoint coverage"
+  ],
+  "strata": {
+    "authored_depth_2": 96,
+    "authored_depth_3_to_6": 96
+  },
+  "version": 1
+}

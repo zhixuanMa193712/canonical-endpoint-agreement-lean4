@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "package": "experiment54-effect-aware-depth2-microbenchmark-fix3-python-only",
+  "protocol_version": "experiment54-effect-aware-depth2-microbenchmark-v1",
+  "execution_version": "experiment54-effect-aware-depth2-microbenchmark-fix3",
+  "mechanical_fix_id": "exp54-fix3-runtime-heartbeat-exception-boundary",
+  "source_exp49_archive_sha256": "f57f6938c5de6d32339f2ca9e8cb2789ceed1dd2263feb7155ee76b35caefdc2",
+  "files": {
+    "EXP54_FIX1_AMENDMENT.md": "556e90c03568e6235195227b491ca192ecdc8a5ddb9b867eb147e1bbe5a6153d",
+    "EXP54_FIX2_AMENDMENT.md": "975c285911c0dad324f48a2fbee50e86ecbae67a3d5106bd2d6fb75c46880272",
+    "EXP54_FIX3_AMENDMENT.md": "92a7746de113176aa5d318b02387a99f67fb9816ddc9ef2655bd592bd3b571b5",
+    "EXP54_PREREGISTRATION.md": "cb337b1b551a2bd49b654564b66a25eab1f2b1016167b1393c16c713331da28c",
+    "README_SERVER.md": "6c7d10de972dbd4127b9c147e440486ac22e72462d4367ce5e5bb754e82cb850",
+    "analyze_experiment54.py": "c0e7bab1f60cf32673aa259a5825bd037abd275036fc979310d3b8ddb7802cf5",
+    "audit_experiment54.py": "2c76976f2c335fecb383e87e8a43f4192bef7ef7fd0179819697e1ff13d55d69",
+    "experiment54_live_worker.py": "b1afb706e280b2204299e19568d48a40b9070ace2654c20c445dc59393e72f04",
+    "experiment54_protocol.py": "2ec6d7487592e9d3540e8576a63f2873e85d7415df8ace3fee9202001e8d863e",
+    "export_experiment54_bundle.py": "b395f5772b5730deee7bec2141c7c6df5a28f1069ec603fe794529747551aa88",
+    "finalize_experiment54_execution.py": "8dd98e34905dc83cd9ee7d15c10e277b7f25630ded6826c2ac18fcd289ce78f4",
+    "freeze_experiment54.py": "f5e805f0477af404c1d54c419f3374baed794bebbee603645920e7776e5fc387",
+    "preflight_experiment54.py": "5e9ea2292ab817d71b6868521a9080d1edfa3cc0bab3f35b99bf1b2bb4f85698",
+    "run_experiment54_shards.py": "e008b7f706891b2cb2e85209a0cc7dc3899b5fcb090bac1e4f15610506430ac7",
+    "test_experiment54_static.py": "aadbf3cef29596bbc2a9fd3494510300be6544b98bd4da2a946f6f4164c5c8a8"
+  },
+  "superseded_v1_fix1_and_fix2_executions_required_and_preserved": true,
+  "fix3_scientific_execution_in_package_build": 0
+}

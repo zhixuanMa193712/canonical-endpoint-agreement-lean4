@@ -1,0 +1,79 @@
+# Supplementary Table S3. Untouched-Confirmation Cross-Head Pair Frequencies
+
+Root occurrence is the sum of theorem-local occurrences across the four untouched confirmation repositories. Repository breadth is the number of those repositories containing at least one occurrence. The table is reconstructed from the four archived repository summaries and contains all 71 observed pairs.
+
+| Pair | Root occurrences | Repository breadth |
+|---|---:|---:|
+| `aesop` / `aesop?` | 48 | 4 |
+| `aesop` / `simp_all` | 24 | 4 |
+| `aesop?` / `simp_all` | 24 | 4 |
+| `simp` / `simp_all` | 23 | 4 |
+| `norm_num` / `simp` | 22 | 4 |
+| `norm_num` / `simp_all` | 21 | 4 |
+| `aesop` / `exact?` | 20 | 4 |
+| `aesop?` / `exact?` | 20 | 4 |
+| `aesop` / `simp` | 18 | 4 |
+| `aesop?` / `simp` | 18 | 4 |
+| `aesop` / `norm_num` | 17 | 4 |
+| `aesop?` / `norm_num` | 17 | 4 |
+| `exact?` / `simp_all` | 17 | 4 |
+| `ring` / `ring_nf` | 16 | 4 |
+| `aesop` / `simpa` | 12 | 4 |
+| `aesop?` / `simpa` | 12 | 4 |
+| `exact?` / `simpa` | 12 | 4 |
+| `simp_all` / `simpa` | 12 | 4 |
+| `exact?` / `norm_num` | 11 | 4 |
+| `exact?` / `simp` | 11 | 4 |
+| `norm_num` / `simpa` | 11 | 4 |
+| `simp` / `simpa` | 11 | 4 |
+| `exact?` / `trivial` | 8 | 4 |
+| `aesop` / `constructor` | 7 | 4 |
+| `aesop` / `solve_by_elim` | 7 | 4 |
+| `aesop` / `trivial` | 7 | 4 |
+| `aesop?` / `constructor` | 7 | 4 |
+| `aesop?` / `solve_by_elim` | 7 | 4 |
+| `aesop?` / `trivial` | 7 | 4 |
+| `constructor` / `exact?` | 7 | 4 |
+| `constructor` / `solve_by_elim` | 7 | 4 |
+| `constructor` / `trivial` | 7 | 4 |
+| `exact?` / `solve_by_elim` | 7 | 4 |
+| `solve_by_elim` / `trivial` | 7 | 4 |
+| `constructor` / `norm_num` | 4 | 4 |
+| `constructor` / `simp` | 4 | 4 |
+| `constructor` / `simp_all` | 4 | 4 |
+| `constructor` / `simpa` | 4 | 4 |
+| `norm_num` / `solve_by_elim` | 4 | 4 |
+| `norm_num` / `trivial` | 4 | 4 |
+| `simp` / `solve_by_elim` | 4 | 4 |
+| `simp` / `trivial` | 4 | 4 |
+| `simp_all` / `solve_by_elim` | 4 | 4 |
+| `simp_all` / `trivial` | 4 | 4 |
+| `simpa` / `solve_by_elim` | 4 | 4 |
+| `simpa` / `trivial` | 4 | 4 |
+| `aesop` / `rfl` | 4 | 3 |
+| `aesop?` / `rfl` | 4 | 3 |
+| `constructor` / `rfl` | 4 | 3 |
+| `exact?` / `rfl` | 4 | 3 |
+| `rfl` / `solve_by_elim` | 4 | 3 |
+| `rfl` / `trivial` | 4 | 3 |
+| `aesop` / `apply_assumption` | 3 | 3 |
+| `aesop?` / `apply_assumption` | 3 | 3 |
+| `apply_assumption` / `constructor` | 3 | 3 |
+| `apply_assumption` / `exact?` | 3 | 3 |
+| `apply_assumption` / `solve_by_elim` | 3 | 3 |
+| `apply_assumption` / `trivial` | 3 | 3 |
+| `norm_num` / `rfl` | 3 | 3 |
+| `rfl` / `simp` | 3 | 3 |
+| `rfl` / `simp_all` | 3 | 3 |
+| `rfl` / `simpa` | 3 | 3 |
+| `exact?` / `fun_prop` | 2 | 2 |
+| `apply_assumption` / `norm_num` | 1 | 1 |
+| `apply_assumption` / `simp` | 1 | 1 |
+| `apply_assumption` / `simp_all` | 1 | 1 |
+| `apply_assumption` / `simpa` | 1 | 1 |
+| `exact?` / `native_decide` | 1 | 1 |
+| `native_decide` / `trivial` | 1 | 1 |
+| `norm_num` / `ring` | 1 | 1 |
+| `norm_num` / `ring_nf` | 1 | 1 |
+
+Breadth distribution: 46 pairs in four repositories, 16 in three, one in two, and eight in one. Therefore 63 pairs meet the prespecified recurrence rule of at least two repositories.

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "package": "experiment51_exp52_scientific_freeze_alignment_fix2_python_only",
+  "alignment_version": "experiment51-exp52-scientific-freeze-alignment-fix2",
+  "mechanical_fix_id": "exp51-exp52-preregistration-v0.1-extension2-scientific-freeze-bridge-fix2-monadic-tactic-quotation",
+  "created_date": "2026-08-25",
+  "source_qualification": "experiment51-zero-candidate-frame-extension2-v1",
+  "scientific_artifact_root": "artifacts/v51/external_repository_replication_scientific",
+  "protected_files_overwritten": [],
+  "lean_executed_during_packaging": false,
+  "scientific_candidate_tactics_executed_during_packaging": 0,
+  "offline_tests_passed": 7,
+  "server_python_command": "python",
+  "files": [
+    {
+      "path": "experiment51_exp52_scientific_freeze_alignment/README_SERVER.md",
+      "role": "server_run_order",
+      "sha256": "38dc24d83588feb5464188132f4ffafc0497cc9a27ba81ff4e37fa4e98646a66",
+      "bytes": 5647
+    },
+    {
+      "path": "experiment51_exp52_scientific_freeze_alignment/experiment52_protocol.py",
+      "role": "aligned_exp52_machine_protocol",
+      "sha256": "cb78cfa9f1deac3fee0a3d1cda96a174d20a76f6125b2877b002340ade1a5335",
+      "bytes": 13206
+    },
+    {
+      "path": "experiment51_exp52_scientific_freeze_alignment/freeze_experiment51_scientific.py",
+      "role": "extension2_to_scientific_freeze_bridge",
+      "sha256": "bc780f38e074208a4065d549ac5e716fad44c96a63d0dba8a27dc6e16610c00d",
+      "bytes": 22215
+    },
+    {
+      "path": "experiment51_exp52_scientific_freeze_alignment/preflight_exp52_probe_surface.py",
+      "role": "zero-theorem_zero-candidate_compile_only_probe_preflight",
+      "sha256": "1b846209dd4da5643a052a2684d632c1c80c93e49f79ab6b789bab931cc983eb",
+      "bytes": 11686
+    },
+    {
+      "path": "experiment51_exp52_scientific_freeze_alignment/test_exp51_exp52_freeze_static.py",
+      "role": "offline_static_tests",
+      "sha256": "895bbe01f4eeed57ff785d11094e39b328d766333ddcffd1b3bf0b32175548be",
+      "bytes": 6703
+    },
+    {
+      "path": "experiment52_continuation_probe/EXP52_PREREGISTRATION.md",
+      "role": "content_locked_preregistration",
+      "sha256": "06495a35ff54c5cb1a5ef235f109ac8743c9ea21ba6698125c4f84f8219dd452",
+      "bytes": 18224
+    },
+    {
+      "path": "experiment52_continuation_probe/EXP52_FALSIFICATION_MATRIX.md",
+      "role": "content_locked_falsification_matrix",
+      "sha256": "9cc1da7fe3955085a6e9ee174d2eda173da7bf7464095ec66c6c19ccc55a493a",
+      "bytes": 13008
+    }
+  ]
+}

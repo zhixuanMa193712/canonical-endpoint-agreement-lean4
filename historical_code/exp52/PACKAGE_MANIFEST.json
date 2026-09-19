@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "package": "experiment52-pre-probe-compile-compatibility-fix4",
+  "files": [
+    {
+      "path": "README_SERVER.md",
+      "sha256": "28b6e0f32b0fc9157b7a7009e764e2909c76b1cca5e8d3c0d25775ffd9fc808b",
+      "bytes": 2757
+    },
+    {
+      "path": "alignment_protocol.py",
+      "sha256": "e02460850085c8a9cc0a6c0d8c8feb9ee6ae406d13b82df5bed4650bf2ce89ac",
+      "bytes": 13365
+    },
+    {
+      "path": "analyze_exp52.py",
+      "sha256": "be245cadcbbe266b8d58dab41bddf4d2c91aac1109ed2ca50479c88799717a6d",
+      "bytes": 45504
+    },
+    {
+      "path": "audit_exp52.py",
+      "sha256": "4e48d4831d6db099785eecb0ccfc036670a0cc4ad746a820fef0013af786eb7a",
+      "bytes": 58980
+    },
+    {
+      "path": "experiment52_live_worker.py",
+      "sha256": "076a0adf767e0447ce92d15f4d455fad534dd2bcc2b6f4557abf4d69a9e4af38",
+      "bytes": 38441
+    },
+    {
+      "path": "export_exp52_bundle.py",
+      "sha256": "a43a068d2a983b1888dce5a70b2d2697d421738bc8e05a19efb86f70975be667",
+      "bytes": 12282
+    },
+    {
+      "path": "finalize_exp52_execution.py",
+      "sha256": "06048cf2b390664c3690c6fe703d143699da514c6d54c47b422df4de59eafbd7",
+      "bytes": 16888
+    },
+    {
+      "path": "freeze_exp52_compile_fix4.py",
+      "sha256": "15e9ef5acd29b520d8b5e8997876428ac5e6941a1551b1965660ddf73e9739e0",
+      "bytes": 6888
+    },
+    {
+      "path": "preflight_exp52_execution.py",
+      "sha256": "bc7c4a8aa464b2826ca17c465697172bfe9a029e00e4908cfd707bc7d4fe61ee",
+      "bytes": 11019
+    },
+    {
+      "path": "run_exp52_shards.py",
+      "sha256": "bf56abcb180b84c9b80e1f48b6cb261bca0fd984ca675c30ff1e944f9b39aa0c",
+      "bytes": 25824
+    },
+    {
+      "path": "test_exp52_compile_fix4_static.py",
+      "sha256": "bc95174bba0b5d1451545507e6487ae82eebdcc343228ea638a8b120728beb27",
+      "bytes": 5818
+    }
+  ],
+  "files_sha256": "e71397a387438003b8a491f9bc92d3bda79d019b9aaf3208f60f3affb52faa2c"
+}

@@ -1,0 +1,2 @@
+# Python 3.10+ standard library only.
+# Lean/lake v4.27.0 and the frozen repository environments are external runtime requirements.

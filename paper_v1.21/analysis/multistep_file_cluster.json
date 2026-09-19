@@ -1,0 +1,15 @@
+{
+  "status": "post-outcome descriptive sensitivity",
+  "bootstrap": "20000 resamples of all 63 source files; both roots in the shared file retained together across strata; stratum means equally weighted; PCG64 seed 20260918",
+  "unique_files": 63,
+  "files_by_stratum": {
+    "authored_depth_2": 32,
+    "authored_depth_3_to_6": 32
+  },
+  "ci": [
+    8.890625,
+    30.75021551724136
+  ],
+  "mean": 18.859375,
+  "loss_note": "All observed losses are zero; an ordinary nonparametric cluster bootstrap is degenerate and cannot establish a zero upper risk bound."
+}

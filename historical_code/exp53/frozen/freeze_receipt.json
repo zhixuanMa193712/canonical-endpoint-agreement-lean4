@@ -1,0 +1,111 @@
+{
+  "code_lock": [
+    {
+      "bytes": 5475,
+      "path": "analyze_exp53.py",
+      "sha256": "4118348ef2daa08fe27df9b5d5dd6b0f172215bb13e4a7d7d3693c1462536b17"
+    },
+    {
+      "bytes": 9172,
+      "path": "exp53_protocol.py",
+      "sha256": "0f1f4cb879f091befa97a1d3b70244cde685bf659a40ce2d68c8d39165f2fc09"
+    },
+    {
+      "bytes": 3284,
+      "path": "export_exp53_bundle.py",
+      "sha256": "f3949b7cc8d0fdd258d04f451983f518abad2feb3f1fd3bc3cc345f0b7177061"
+    },
+    {
+      "bytes": 8096,
+      "path": "freeze_experiment53.py",
+      "sha256": "efb34b3a15cdee13070a494a6f00a5bb58ecc84593c6eae83eac3d617baf8e4c"
+    },
+    {
+      "bytes": 4158,
+      "path": "preflight_exp53.py",
+      "sha256": "903e33bef70e9cbbc0c3e46f7a18e60495b8e9f1706d65367ff5cb9d82d75fd9"
+    },
+    {
+      "bytes": 6228,
+      "path": "prepare_exp53_checkouts.py",
+      "sha256": "66fe58f177fb7e9296bd9268f06f0efe33e0e58f71bad56b03469e003bbd4ed9"
+    },
+    {
+      "bytes": 3257,
+      "path": "record_aborted_launch.py",
+      "sha256": "2d1de776b19546967232bf994e3f13197024f2f25b1d206345394a6443728ea5"
+    },
+    {
+      "bytes": 6736,
+      "path": "run_exp53.py",
+      "sha256": "56c22d863196ce4047bb2431504361de6ed8a856f499d86580f8175f8ef5eb68"
+    },
+    {
+      "bytes": 2758,
+      "path": "test_exp53_static.py",
+      "sha256": "13d1b7edc3913ab55bbeb427b874ca056d29241d0ab2ecbca9f5c3b9910828fb"
+    },
+    {
+      "bytes": 3201,
+      "path": "EXP53_PREREGISTRATION.md",
+      "sha256": "849399182eea57a7345cad24b361f4b03a24680e7e19b47b68bda18f502a43df"
+    },
+    {
+      "bytes": 2599,
+      "path": "README_SECOND_MACHINE.md",
+      "sha256": "d2426037fe97213b8e3ad2bcec5cdd8c3becc5b3270963a8082d03d0530e4a58"
+    },
+    {
+      "bytes": 5509,
+      "path": "frozen/FREEZE_AMENDMENT.md",
+      "sha256": "085c2534d757933027f98b12ac99c2efd5e7362c3bb14f684a1bf2266e74116e"
+    },
+    {
+      "bytes": 9688,
+      "path": "frozen/aborted_parallel_launch_ledger.json",
+      "sha256": "f30b62eac9af73e713acc59a8a228f87239a25fe46e4e51924f1fd2f6aa00c92"
+    },
+    {
+      "bytes": 776,
+      "path": "frozen/aborted_parallel_launch_receipt.json",
+      "sha256": "2fb6348a8066ad9ab2ab8b65b23e661930c65d23c7d6b093acc9fe58dc30399e"
+    },
+    {
+      "bytes": 26589,
+      "path": "vendor/experiment51_live_worker.py",
+      "sha256": "c472171177c29f48d9b633887656287a7f75fc54e8707bafb8205a925eb9e0b0"
+    },
+    {
+      "bytes": 18138,
+      "path": "vendor/experiment51_protocol.py",
+      "sha256": "7f813b35d47059dd4333aac4ab558cb3951faa25f829efaf0d2bf9d0858212e0"
+    }
+  ],
+  "freeze_gate": true,
+  "freeze_schema": "experiment53-portable-subset-freeze-v1",
+  "identity_sha256": "9d8706879f388f5c41e2894a78ac88e1e111c3a780f4f3b2b9c6957a04d57fcb",
+  "next_step": "Transfer the frozen package to a second machine and prepare exact checkouts.",
+  "prior_aborted_candidate_attempts_in_persisted_rows": 322,
+  "prior_aborted_comparison_analysis_executed": false,
+  "prior_aborted_launch_receipt_sha256": "2fb6348a8066ad9ab2ab8b65b23e661930c65d23c7d6b093acc9fe58dc30399e",
+  "prior_aborted_rows_persisted": 14,
+  "prior_aborted_scientific_launch": true,
+  "protocol_version": "experiment53-cross-machine-subset-reexecution-v1",
+  "reference_index_sha256": "8d332f2e94304939eae2605824bba5b7dbcc17f00912a9707a3236b36e31a044",
+  "reference_rows": 16,
+  "repository_counts": {
+    "AfonsoBitoque/LeanServer": 4,
+    "AmosNico/validator": 4,
+    "MichaelStollBayreuth/LegendreQF": 4,
+    "PatrickMassot/GlimpseOfLean": 4
+  },
+  "scientific_candidate_tactics_executed": 0,
+  "source_config_sha256": "d10796761be02e542af5a4b77d2307d0dd2df0d6be5764867664119a37b485ac",
+  "source_exp51_bundle": "experiment51_external_repository_replication_fix3_results.zip",
+  "source_exp51_bundle_sha256": "f8c84a92ef4a7dc025a9f7918a0f16af91160acb112bb0578ee0bf431057511b",
+  "source_row_index_sha256": "0371de1accdb1327787bd65a75e53aa73ab09c82220269aa03ec984bee5df8e1",
+  "source_targets_sha256": "723957673a2ebd7964afcfdb0be759168e76903f76f47ae970586a0cce5d14b7",
+  "subset_sha256": "43bbfe97461f3691bb0a9cb71f1f8f8e68db14d8c895252284d99910cf6d6309",
+  "theorem_sources_elaborated": 0,
+  "version": 1
+}

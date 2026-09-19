@@ -1,0 +1,162 @@
+[
+  {
+    "order": 0,
+    "path": "frozen/references/5109d59da7b13e0ece98.json",
+    "rid": "5109d59da7b13e0ece98",
+    "sha256": "ce7e53a1317589e90e934ccb2c2af0e41da7f3a31b99918c21f079b733bdb1cd",
+    "slug": "AfonsoBitoque/LeanServer",
+    "source_member": "artifacts/scientific/shards/shard-05/theorems/AfonsoBitoque__LeanServer/5109d59da7b13e0ece98.json",
+    "source_member_sha256": "eed37073fe192d3bf2942f80587e48620ab5ba97f168731749d45951aab2c044",
+    "theorem_id": "5109d59da7b13e0ece98e95aabfd9e1ada2e27c6de188bec29c652e63828e076"
+  },
+  {
+    "order": 1,
+    "path": "frozen/references/f03a7bb8519800108db8.json",
+    "rid": "f03a7bb8519800108db8",
+    "sha256": "f23d85fe1519386b81dcf2a2bcb99f2027ea312a694adf5ce3f67552c770c8fd",
+    "slug": "AfonsoBitoque/LeanServer",
+    "source_member": "artifacts/scientific/shards/shard-06/theorems/AfonsoBitoque__LeanServer/f03a7bb8519800108db8.json",
+    "source_member_sha256": "2819909a10fb6472cad6cf64678dcb8e870b2b35f630ebe0fc5dce879dd7c97f",
+    "theorem_id": "f03a7bb8519800108db89a0f516347ee905e8b614dc6622b0ce551ad2fac23ad"
+  },
+  {
+    "order": 2,
+    "path": "frozen/references/11f1a0b912932ed6b7c4.json",
+    "rid": "11f1a0b912932ed6b7c4",
+    "sha256": "31d8d959abaf25b30c6b9850b514b15a88f2a239d4d854a1bb97375612b19555",
+    "slug": "AfonsoBitoque/LeanServer",
+    "source_member": "artifacts/scientific/shards/shard-04/theorems/AfonsoBitoque__LeanServer/11f1a0b912932ed6b7c4.json",
+    "source_member_sha256": "15cd40dd7fbb7e34ada7bd1f1bc5e0dbd25d4f4c698e4d5b7da3454bf64ea12d",
+    "theorem_id": "11f1a0b912932ed6b7c430ed6c8237d1ddb7b39bf2cc2443959386411e554dce"
+  },
+  {
+    "order": 3,
+    "path": "frozen/references/a4f060e8d26b078fee71.json",
+    "rid": "a4f060e8d26b078fee71",
+    "sha256": "6c18e6555c4ced89ffd73558480d86584f95be67596903f967a60b31ebe54eef",
+    "slug": "AfonsoBitoque/LeanServer",
+    "source_member": "artifacts/scientific/shards/shard-10/theorems/AfonsoBitoque__LeanServer/a4f060e8d26b078fee71.json",
+    "source_member_sha256": "44b3b2b592c933581af5e3dd5f8dadf33632c1dadce46f09af5f3b1072294ff2",
+    "theorem_id": "a4f060e8d26b078fee717abe9f25000da0212566931d464faa53624c05dd0df5"
+  },
+  {
+    "order": 4,
+    "path": "frozen/references/3c522a117447e8979c97.json",
+    "rid": "3c522a117447e8979c97",
+    "sha256": "c1a79451d6e62f1080046487cfc78dc05a86006e04328e10463cfa42afb014e2",
+    "slug": "AmosNico/validator",
+    "source_member": "artifacts/scientific/shards/shard-06/theorems/AmosNico__validator/3c522a117447e8979c97.json",
+    "source_member_sha256": "4b4368882a6bbf2d4e2f598084b5ffd9a5e1880498b85ae7228c8b85eded036f",
+    "theorem_id": "3c522a117447e8979c97df3cceb8333953aa4cf7df75c115173e19bca0c4ec20"
+  },
+  {
+    "order": 5,
+    "path": "frozen/references/ef3245be4746e69aa8c4.json",
+    "rid": "ef3245be4746e69aa8c4",
+    "sha256": "b290a00bb2d95d84066458c892f1923d0456017ca0976ccb1e78d30655ce7d40",
+    "slug": "AmosNico/validator",
+    "source_member": "artifacts/scientific/shards/shard-05/theorems/AmosNico__validator/ef3245be4746e69aa8c4.json",
+    "source_member_sha256": "2135079e68be443738f78c9e5116cd6e81607f5e4b8e17d00a07f168fbcbb194",
+    "theorem_id": "ef3245be4746e69aa8c46549364924cd9a78f677077486d297a63dcc3f30cb99"
+  },
+  {
+    "order": 6,
+    "path": "frozen/references/e6688f04d61246059f5b.json",
+    "rid": "e6688f04d61246059f5b",
+    "sha256": "6e6c1e4f64a56c502d30522f3bf6bbdf415952f5fa30a253c47bf85427df9e79",
+    "slug": "AmosNico/validator",
+    "source_member": "artifacts/scientific/shards/shard-03/theorems/AmosNico__validator/e6688f04d61246059f5b.json",
+    "source_member_sha256": "d498835869ba3c6e0570c1a3c5bbecb0a97c7cbf31c4afd11b79a4475e78e372",
+    "theorem_id": "e6688f04d61246059f5bc8a5422af132a9069ea091fff47b992b09162e511196"
+  },
+  {
+    "order": 7,
+    "path": "frozen/references/94b69e28995e03918219.json",
+    "rid": "94b69e28995e03918219",
+    "sha256": "0353119d48c379f75461556885537e93578c2d61d535e62e29874f42937ca360",
+    "slug": "AmosNico/validator",
+    "source_member": "artifacts/scientific/shards/shard-12/theorems/AmosNico__validator/94b69e28995e03918219.json",
+    "source_member_sha256": "2f5787ed493673b2b6a81a94cb9a8bab564523829287ac20e472b4790e834824",
+    "theorem_id": "94b69e28995e03918219983a33baf16f31cccdc842d24dd1d13191dbe9d13658"
+  },
+  {
+    "order": 8,
+    "path": "frozen/references/2298b7661b738156e19a.json",
+    "rid": "2298b7661b738156e19a",
+    "sha256": "3969b8e1642d17f9118b0f32d5762bb0f56fe146f4ccbda74492afbb4e2be761",
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "source_member": "artifacts/scientific/shards/shard-07/theorems/MichaelStollBayreuth__LegendreQF/2298b7661b738156e19a.json",
+    "source_member_sha256": "16eca139203dd5a2e950b7d3f8d6e9f15cb7184c2a2f4239a7f73363548c00a3",
+    "theorem_id": "2298b7661b738156e19a7008483001c228cee18486d94f7d3eb868b1c933614e"
+  },
+  {
+    "order": 9,
+    "path": "frozen/references/2fdf7c6cdd0caa766b0b.json",
+    "rid": "2fdf7c6cdd0caa766b0b",
+    "sha256": "8ee24a8a0d85f4934b051ae77360892d7578d0912d0b86bd0e7e02235a988f55",
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "source_member": "artifacts/scientific/shards/shard-06/theorems/MichaelStollBayreuth__LegendreQF/2fdf7c6cdd0caa766b0b.json",
+    "source_member_sha256": "6d7be4df16740650cc4150d100d184877f568e2f3fe3f2a100638f4f24dc2763",
+    "theorem_id": "2fdf7c6cdd0caa766b0ba91ddfa50871a856dd06545b0144e26bf0258c1d85cf"
+  },
+  {
+    "order": 10,
+    "path": "frozen/references/c3c257778634a9b5f210.json",
+    "rid": "c3c257778634a9b5f210",
+    "sha256": "821d2300ea1081c6f85de7cef513457d7e1b638fbdc52115095a780d63b53adf",
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "source_member": "artifacts/scientific/shards/shard-13/theorems/MichaelStollBayreuth__LegendreQF/c3c257778634a9b5f210.json",
+    "source_member_sha256": "b89529698e79d4ff104d2d7dcfc9ae2c58117a0062b8677f22d59010fc8c6d09",
+    "theorem_id": "c3c257778634a9b5f21045fb1178a461872b9150f00858cbf3ff6b598a9e6f02"
+  },
+  {
+    "order": 11,
+    "path": "frozen/references/8cb8f63c3e1ac5a2ccf9.json",
+    "rid": "8cb8f63c3e1ac5a2ccf9",
+    "sha256": "37fca65717cad47fe7aa27142c3d5f22e284bddfd951dab6c80accd40a4ca613",
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "source_member": "artifacts/scientific/shards/shard-10/theorems/MichaelStollBayreuth__LegendreQF/8cb8f63c3e1ac5a2ccf9.json",
+    "source_member_sha256": "44b27555dbcc87a731ae3c6ac73b05a82d93e6c361d3a9db2c7cd3ca773e3f26",
+    "theorem_id": "8cb8f63c3e1ac5a2ccf9749c81792cd0fd13b455674ab4500feea565633ffcb9"
+  },
+  {
+    "order": 12,
+    "path": "frozen/references/d263b0cd5df1e09fe670.json",
+    "rid": "d263b0cd5df1e09fe670",
+    "sha256": "357df646fea70077e5f22fcf3557c22b5b47983ca23367aeaa2bbad15889bc48",
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "source_member": "artifacts/scientific/shards/shard-00/theorems/PatrickMassot__GlimpseOfLean/d263b0cd5df1e09fe670.json",
+    "source_member_sha256": "8893051b5da0ce87648fa3e225204594f72680a2e0f298c7fd2bde928f9a9902",
+    "theorem_id": "d263b0cd5df1e09fe670b5c7c0ba8c947117c7e4e881b94f9bfc971fac1a5f11"
+  },
+  {
+    "order": 13,
+    "path": "frozen/references/1b8077a5062210c15101.json",
+    "rid": "1b8077a5062210c15101",
+    "sha256": "965032929e625a6b4b53c3d49dd1273c128bcf8e2562a0b7806b6b6148ed185e",
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "source_member": "artifacts/scientific/shards/shard-10/theorems/PatrickMassot__GlimpseOfLean/1b8077a5062210c15101.json",
+    "source_member_sha256": "0314c6e3d2a33a971117ae78d44f5ce313875541903620c129fc6a1958943511",
+    "theorem_id": "1b8077a5062210c15101a6ebb212eeedd64cb3a68994fd2ffe27c8b578c99008"
+  },
+  {
+    "order": 14,
+    "path": "frozen/references/ce5d5d97780bda2d693c.json",
+    "rid": "ce5d5d97780bda2d693c",
+    "sha256": "69ec9254d97a6945d43a8ba865aebca4ad3f1077e42ec533c4a35b28bfb9589f",
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "source_member": "artifacts/scientific/shards/shard-12/theorems/PatrickMassot__GlimpseOfLean/ce5d5d97780bda2d693c.json",
+    "source_member_sha256": "09e32158265e60ebb6a08911a0b9fbdfb4d354fefe5d75a0f5011579240bf3a0",
+    "theorem_id": "ce5d5d97780bda2d693c89307911647c9b31c95cd726fee5b8fd6bae4c43539d"
+  },
+  {
+    "order": 15,
+    "path": "frozen/references/4c7e98e98df8770e2e3c.json",
+    "rid": "4c7e98e98df8770e2e3c",
+    "sha256": "9fe7bbeefe2a5915459bce7888b00d9de7f55a106b465cd9481cb8d941bb8fad",
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "source_member": "artifacts/scientific/shards/shard-15/theorems/PatrickMassot__GlimpseOfLean/4c7e98e98df8770e2e3c.json",
+    "source_member_sha256": "ec9d3cbf827a2e03fc4b9ad25d902bd04b07c3b5119a4a02abbdc3246a2ce2b4",
+    "theorem_id": "4c7e98e98df8770e2e3c4d71572e3fb98740873d91e1937000e2bb9a8cd0473a"
+  }
+]

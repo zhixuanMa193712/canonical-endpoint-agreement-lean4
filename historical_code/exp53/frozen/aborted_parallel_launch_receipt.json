@@ -1,0 +1,17 @@
+{
+  "candidate_attempts_in_persisted_rows": 322,
+  "claims_created": 15,
+  "comparison_analysis_executed": false,
+  "disposition": "aborted_not_a_completed_exp53_run",
+  "freeze_identity_sha256": "f641f68ae49bbfbf7bf81bc2c6745175cc3e6b43e7359f8e7872ebe3903991ed",
+  "ledger_entries": 47,
+  "ledger_identity_sha256": "e6c3da4f6aadf589f0307507218a3539b27fea0c64d59a3010f55a1e07e4c86e",
+  "ledger_sha256": "f30b62eac9af73e713acc59a8a228f87239a25fe46e4e51924f1fd2f6aa00c92",
+  "manual_reconciliation_count": 0,
+  "missing_row_theorem_id": "2298b7661b738156e19a7008483001c228cee18486d94f7d3eb868b1c933614e",
+  "rows_persisted": 14,
+  "schema": "experiment53-aborted-parallel-launch-receipt-v1",
+  "scientific_root_process_without_row": 1,
+  "shards_completed": 3,
+  "version": 1
+}

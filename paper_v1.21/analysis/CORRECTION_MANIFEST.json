@@ -1,0 +1,13 @@
+{
+  "paper_v1.21/reanalyze_heads.py": "e8052c95c496093150cf3997203e5e8dca4d3ee66b25496c2c7583a0fc05ad53",
+  "paper_v1.21/figure4.py": "c715e72076dc82e2e582d814b71887e7fd6d7f7f81f1663fa3c505d9e5e5f611",
+  "paper_v1.21/REVISION_NOTES.md": "5ae1b9aa12f2457d819c4f39310e3ee190dc5d9f6a800a6befb255e913918f8a",
+  "paper_v1.21/analysis/exp64_corrected_rows.jsonl": "0587ef419b9c539315edeb38cb301578b3b83654daf05fdf6545b1d9b079610a",
+  "paper_v1.21/analysis/figure4_collision.json": "bfce842b62ec7837fb8ba04d006679a7b40b6c0aeab98d5c5109dda452fdcb35",
+  "paper_v1.21/analysis/figure4_source.csv": "a0445fade432f9f53b58b118ede6d9ff6d26b68156343cad4cd308b3b81151a3",
+  "paper_v1.21/analysis/multistep_file_cluster.json": "8908be4823155da8409bc9b1e92fac6d2ae4fe0c44dd8beb57499ba74fb3f01f",
+  "paper_v1.21/analysis/exp51_corrected_rows.jsonl": "dde7c31ab885618a5b857fc7835f54baae833a9e6901804a3545fc3e90ebd70e",
+  "paper_v1.21/analysis/exp51_correction.json": "1e9520237f33c6a008fca5aae62140140507aeae1e3ce26fa7a57feb3ff06eda",
+  "paper_v1.21/analysis/exp64_correction.json": "6e1e912811ace87cd3f10216305809104cd1df74861b5b733e719289b1421b05",
+  "experiment51_external_repository_replication/experiment51_protocol.py": "6c8ded7b453d3f5bfe75fc916d9c990368f54b20e81e4d54915376d20a88655f"
+}

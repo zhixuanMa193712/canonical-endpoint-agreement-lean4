@@ -1,0 +1,99 @@
+{
+  "files": [
+    {
+      "bytes": 1594,
+      "path": "EXP59_PILOT_AMENDMENT.md",
+      "sha256": "4c43b92cf5ee86edaf35b97148e444e05095251cfe153eb0736257013a26b55d"
+    },
+    {
+      "bytes": 2614,
+      "path": "README_SERVER.md",
+      "sha256": "b89759dd117a19b9b839536cc79618e71a6c0df1f77e9bc17730de08a3708223"
+    },
+    {
+      "bytes": 12358,
+      "path": "analyze_experiment59_pilot.py",
+      "sha256": "87950db45004daecb7b8e6bd15868eab2ea0b83bc531486f7f8b9b0a0e489a50"
+    },
+    {
+      "bytes": 7295,
+      "path": "audit_experiment59_pilot.py",
+      "sha256": "62809dd4a9b3153caa80803c03f71b7efb8f764d5bb93e434587a6c69b7eec22"
+    },
+    {
+      "bytes": 2288,
+      "path": "build_experiment59_pilot_package.py",
+      "sha256": "695ae065355bb5891a5607f4f289c4f7700cc6972c5e4545436ab90268720005"
+    },
+    {
+      "bytes": 11397,
+      "path": "experiment59_pilot_live_worker.py",
+      "sha256": "e05ce272cd6a1cb52d8e3f49e67be533db4886e54f7d63b5daa53e672b540164"
+    },
+    {
+      "bytes": 7798,
+      "path": "experiment59_pilot_protocol.py",
+      "sha256": "2b53246acfb84471161f2ab8d5bcc105cba74a5bcdc40128204170b70ff9f387"
+    },
+    {
+      "bytes": 8231,
+      "path": "finalize_experiment59_pilot.py",
+      "sha256": "cb23b27bccacbb3d8775ffff8037cad56831419357ae2d8db6e007cc71c3a87f"
+    },
+    {
+      "bytes": 4941,
+      "path": "freeze_experiment59_confirmation.py",
+      "sha256": "c0e5be6f44769434937023020bf00d4ade87cc13397c2c5a2c5cc149c4f8145e"
+    },
+    {
+      "bytes": 11122,
+      "path": "freeze_experiment59_pilot.py",
+      "sha256": "28e86b188331605ef3bcdb5dd2d45b5377ccd9464656e5e35255ffbb4e109bcd"
+    },
+    {
+      "bytes": 3933,
+      "path": "launch_experiment59_pilot.py",
+      "sha256": "bd681c778f396a27f97c2727dae6787b88d7206b03de28a7cc71d2d18c1c9e5b"
+    },
+    {
+      "bytes": 2220,
+      "path": "monitor_experiment59_pilot.py",
+      "sha256": "dfc5224420b0070643c8aba7e9a75d055400b82444360dadc6a4a8538c77505b"
+    },
+    {
+      "bytes": 5765,
+      "path": "plan_experiment59_power.py",
+      "sha256": "35aab0985e7f438d5f18829d0e52adb9270997281969ba7b4f9b732efd562d45"
+    },
+    {
+      "bytes": 2378,
+      "path": "preflight_experiment59_pilot.py",
+      "sha256": "4305c74f407770f9ed4eee89199d40592c10bd2db44b1f4b5cf638a7cdf56930"
+    },
+    {
+      "bytes": 10862,
+      "path": "run_experiment59_pilot_shards.py",
+      "sha256": "f53e981e00dd8f8edcc58ef3c4cb2d8363e732f2ee21c29f6b788024465822f4"
+    },
+    {
+      "bytes": 4979,
+      "path": "test_experiment59_pilot_static.py",
+      "sha256": "c7ccffbe1c0bd0434171b5c8267fd8391f99e97825d6469b925fc35bdc3ed11e"
+    }
+  ],
+  "mechanical_fix_id": "exp59-four-policy-pilot-fresh-process-call-accounting-v1",
+  "package": "experiment59-four-policy-pilot-execution",
+  "pilot_protocol_version": "experiment59-expansion-only-four-policy-pilot-v1",
+  "python_only": true,
+  "static_test": {
+    "all_static_checks_passed": true,
+    "candidate_only_tactics_executed": 0,
+    "continuation_probes_executed": 0,
+    "lean_executed": false,
+    "package": "experiment59-four-policy-pilot-execution",
+    "static_checks": 20,
+    "theorem_sources_elaborated": 0,
+    "version": 1
+  },
+  "version": 1
+}

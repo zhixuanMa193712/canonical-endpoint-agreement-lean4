@@ -1,0 +1,184 @@
+{
+  "archive_sha256": "f8c84a92ef4a7dc025a9f7918a0f16af91160acb112bb0578ee0bf431057511b",
+  "roots": 576,
+  "numpy_version": "2.3.5",
+  "protocol_constants_sha256": "07caeb848cf113cd1243304bfeca84c99e8090d615a2238e1b0573a423ea6d70",
+  "correction": "post-outcome lexical relabeling of stored executions; no new Lean calls",
+  "bootstrap": "NumPy PCG64 seed 20260918; 20000 two-level repository/root resamples; linear percentile",
+  "full": {
+    "positives": 350,
+    "mean": 0.6076388888888888,
+    "ci": [
+      0.4913194444444444,
+      0.7222222222222222
+    ],
+    "median_repository": 0.6041666666666666,
+    "range": [
+      0.22916666666666666,
+      0.9583333333333334
+    ],
+    "nonzero_repositories": 12,
+    "cross": 202,
+    "nonterminal": 240,
+    "cross_repositories": 12,
+    "nonterminal_repositories": 12,
+    "distinct_pairs": 117,
+    "recurring_pairs": 76,
+    "equal_file_mean": 0.5994622896245493,
+    "loo_range": [
+      0.5757575757575758,
+      0.6420454545454546
+    ],
+    "distributions": {
+      "successful": {
+        "min": 0.0,
+        "q1": 2.0,
+        "median": 4.0,
+        "q3": 6.0,
+        "max": 12.0
+      },
+      "endpoint_classes": {
+        "min": 0.0,
+        "q1": 2.0,
+        "median": 2.0,
+        "q3": 3.0,
+        "max": 6.0
+      },
+      "pair_count": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 1.0,
+        "q3": 5.0,
+        "max": 55.0
+      },
+      "duplicate_successful": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 1.0,
+        "q3": 3.0,
+        "max": 10.0
+      }
+    }
+  },
+  "diverse": {
+    "positives": 142,
+    "mean": 0.2465277777777778,
+    "ci": [
+      0.1388888888888889,
+      0.3767361111111111
+    ],
+    "median_repository": 0.22916666666666666,
+    "range": [
+      0.041666666666666664,
+      0.7916666666666666
+    ],
+    "nonzero_repositories": 12,
+    "cross": 141,
+    "nonterminal": 40,
+    "cross_repositories": 12,
+    "nonterminal_repositories": 7,
+    "distinct_pairs": 58,
+    "recurring_pairs": 32,
+    "equal_file_mean": 0.2513279416198372,
+    "loo_range": [
+      0.1969696969696969,
+      0.2651515151515151
+    ],
+    "distributions": {
+      "successful": {
+        "min": 0.0,
+        "q1": 1.0,
+        "median": 2.0,
+        "q3": 3.0,
+        "max": 8.0
+      },
+      "endpoint_classes": {
+        "min": 0.0,
+        "q1": 1.0,
+        "median": 2.0,
+        "q3": 2.0,
+        "max": 4.0
+      },
+      "pair_count": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 0.0,
+        "max": 21.0
+      },
+      "duplicate_successful": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 0.0,
+        "max": 6.0
+      }
+    }
+  },
+  "archived_positives": {
+    "full": 259,
+    "diverse": 142
+  },
+  "changed_labels": [
+    {
+      "tactic": "aesop",
+      "archived": "ae",
+      "corrected": "aesop",
+      "rows": 570
+    },
+    {
+      "tactic": "aesop?",
+      "archived": "ae",
+      "corrected": "aesop?",
+      "rows": 576
+    },
+    {
+      "tactic": "apply_assumption",
+      "archived": "apply_a",
+      "corrected": "apply_assumption",
+      "rows": 49
+    },
+    {
+      "tactic": "assumption",
+      "archived": "a",
+      "corrected": "assumption",
+      "rows": 576
+    },
+    {
+      "tactic": "constructor",
+      "archived": "con",
+      "corrected": "constructor",
+      "rows": 567
+    },
+    {
+      "tactic": "positivity",
+      "archived": "po",
+      "corrected": "positivity",
+      "rows": 576
+    },
+    {
+      "tactic": "simp",
+      "archived": "<empty>",
+      "corrected": "simp",
+      "rows": 571
+    },
+    {
+      "tactic": "simp_all",
+      "archived": "<empty>",
+      "corrected": "simp_all",
+      "rows": 576
+    },
+    {
+      "tactic": "simpa",
+      "archived": "<empty>",
+      "corrected": "simpa",
+      "rows": 576
+    },
+    {
+      "tactic": "solve_by_elim",
+      "archived": "<empty>",
+      "corrected": "solve_by_elim",
+      "rows": 576
+    }
+  ]
+}

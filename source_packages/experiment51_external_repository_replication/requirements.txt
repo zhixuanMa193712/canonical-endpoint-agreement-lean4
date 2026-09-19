@@ -1,0 +1,5 @@
+loguru
+networkx
+tqdm
+lxml
+lean-dojo==4.20.0

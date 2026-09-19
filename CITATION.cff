@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the versioned dataset and this source release."
+title: "Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: reproducibility code"
+type: software
+version: "1.22.0"
+authors:
+  - family-names: Ma
+    given-names: Zhixuan
+    orcid: "https://orcid.org/0009-0006-9513-6745"
+    affiliation: University of Science and Technology Beijing
+  - family-names: Shen
+    given-names: Zhengwei
+    affiliation: University of Science and Technology Beijing
+# Add repository-code and the confirmed identifier only after assignment.

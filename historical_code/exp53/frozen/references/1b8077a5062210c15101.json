@@ -1,0 +1,564 @@
+{
+  "ast_sha256": "d82c9bcf14004478f5a6aee445793bcf26a0b399a7c334658e3df3a3416c8e1d",
+  "authored": {
+    "endpoints": {
+      "raw": {
+        "metadata": {
+          "goal_count": 1,
+          "schema": "exp51-raw-endpoint-v1",
+          "terminal": false
+        },
+        "sha256": "99ef98213d98a1db72c1ee4b6c1f5bd7fcc26333eef853ac192485a732300bbd",
+        "state": {
+          "bytes": 73,
+          "sha256": "cfe774a3e7a4ab7f06d0b7d63804d7015cf6fa0cbf262a9705959b8aea8b2d23"
+        }
+      },
+      "struct": {
+        "metadata": {
+          "goal_count": 1,
+          "schema": "exp49-strict-goal-structure-v1",
+          "terminal": false
+        },
+        "sha256": "d08ca7f33f03cf759149f8e509bd7038c38276797e8fbca3460173d70a3daeaf",
+        "state": {
+          "bytes": 1702,
+          "sha256": "44308092870b6dd05da6ebd80da7121f26e3bf8f4f1b0ce1cdfb95493782602a"
+        }
+      },
+      "text48": {
+        "metadata": {
+          "goal_count": 1,
+          "schema": "exp49-text48-endpoint-v1",
+          "terminal": false
+        },
+        "sha256": "1044fb3f00ee71c1ec64cd087b537da917642e301ee6b3ac0436de5f4c9ff946",
+        "state": {
+          "bytes": 71,
+          "sha256": "61b52d589f64ccd126ad4b0bd02478cf64f302ad89771655182caf3b32cff380"
+        }
+      }
+    },
+    "executable": true,
+    "failure_category": null,
+    "family": "other:apply weakening h",
+    "goal_count": 1,
+    "head": "apply weakening h",
+    "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+    "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+    "tactic": "apply weakening h",
+    "terminal": false
+  },
+  "authored_replay_ok": true,
+  "candidate_order": [
+    "rfl",
+    "assumption",
+    "trivial",
+    "contradiction",
+    "simp",
+    "simpa",
+    "simp_all",
+    "aesop",
+    "aesop?",
+    "norm_num",
+    "omega",
+    "linarith",
+    "nlinarith",
+    "ring",
+    "ring_nf",
+    "positivity",
+    "decide",
+    "native_decide",
+    "constructor",
+    "ext",
+    "fun_prop",
+    "solve_by_elim",
+    "exact?"
+  ],
+  "candidates": [
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "reflexive_closure",
+      "goal_count": null,
+      "head": "rfl",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "rfl",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:a",
+      "goal_count": null,
+      "head": "a",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "assumption",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "context_closure",
+      "goal_count": null,
+      "head": "trivial",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "trivial",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "context_closure",
+      "goal_count": null,
+      "head": "contradiction",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "contradiction",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:<empty>",
+      "goal_count": null,
+      "head": "<empty>",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "simp",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:<empty>",
+      "goal_count": null,
+      "head": "<empty>",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "simpa",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:<empty>",
+      "goal_count": null,
+      "head": "<empty>",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "simp_all",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:ae",
+      "goal_count": null,
+      "head": "ae",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "aesop",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:ae",
+      "goal_count": null,
+      "head": "ae",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "aesop?",
+      "terminal": null
+    },
+    {
+      "endpoints": {
+        "raw": {
+          "metadata": {
+            "goal_count": 1,
+            "schema": "exp51-raw-endpoint-v1",
+            "terminal": false
+          },
+          "sha256": "0f64f3b7b2dfb11b2151b95d1561771d3f22caff97d40a3b6ba70439b93e86aa",
+          "state": {
+            "bytes": 72,
+            "sha256": "c93d160a467f4f66dc0253eb6c5d8965e7abeb2bce3ed7df6dc8f5b3baac7964"
+          }
+        },
+        "struct": {
+          "metadata": {
+            "goal_count": 1,
+            "schema": "exp49-strict-goal-structure-v1",
+            "terminal": false
+          },
+          "sha256": "f64c94c40abd96b05b0510eb0446fa9c58481fc5809eb124b66695040febc801",
+          "state": {
+            "bytes": 1526,
+            "sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de"
+          }
+        },
+        "text48": {
+          "metadata": {
+            "goal_count": 1,
+            "schema": "exp49-text48-endpoint-v1",
+            "terminal": false
+          },
+          "sha256": "ced3969652c322ed6796f56500ed8a963806f89c8c39192ab751bec407a37327",
+          "state": {
+            "bytes": 70,
+            "sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7"
+          }
+        }
+      },
+      "executable": true,
+      "failure_category": null,
+      "family": "arithmetic_normalization",
+      "goal_count": 1,
+      "head": "norm_num",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "norm_num",
+      "terminal": false
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "arithmetic_decision",
+      "goal_count": null,
+      "head": "omega",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "omega",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "linear_arithmetic",
+      "goal_count": null,
+      "head": "linarith",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "linarith",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "nonlinear_arithmetic",
+      "goal_count": null,
+      "head": "nlinarith",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "nlinarith",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "ring_normalization",
+      "goal_count": null,
+      "head": "ring",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "ring",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "ring_normalization",
+      "goal_count": null,
+      "head": "ring_nf",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "ring_nf",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:po",
+      "goal_count": null,
+      "head": "po",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "positivity",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "decision",
+      "goal_count": null,
+      "head": "decide",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "decide",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "decision",
+      "goal_count": null,
+      "head": "native_decide",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "native_decide",
+      "terminal": null
+    },
+    {
+      "endpoints": {
+        "raw": {
+          "metadata": {
+            "goal_count": 1,
+            "schema": "exp51-raw-endpoint-v1",
+            "terminal": false
+          },
+          "sha256": "d28a86161773382bb9f5a6a6631960b252d8116288bbe067b7a6afd73428fb4e",
+          "state": {
+            "bytes": 79,
+            "sha256": "38dfcc5fccebc6e1818d31c3df9063b39ee94d747dd9f06db1785f3e0d4ec531"
+          }
+        },
+        "struct": {
+          "metadata": {
+            "goal_count": 1,
+            "schema": "exp49-strict-goal-structure-v1",
+            "terminal": false
+          },
+          "sha256": "aaf0c529ba78814ea1c0191a3ca16b930dc780b0fc33013b67749ddf813b7ca2",
+          "state": {
+            "bytes": 1770,
+            "sha256": "d08d26767318666dd3138076419d059a1969e9f9da5b5260f33db20619f997df"
+          }
+        },
+        "text48": {
+          "metadata": {
+            "goal_count": 1,
+            "schema": "exp49-text48-endpoint-v1",
+            "terminal": false
+          },
+          "sha256": "db254e69c39093eca907b2405e752768534be88845d423f32da24caec4e6d1b5",
+          "state": {
+            "bytes": 77,
+            "sha256": "379f7c50bf2d4a4e6d32bb8a8f0f5bd28d5bafa814982c83b957a48c3b70c081"
+          }
+        }
+      },
+      "executable": true,
+      "failure_category": null,
+      "family": "other:con",
+      "goal_count": 1,
+      "head": "con",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "constructor",
+      "terminal": false
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "extensionality",
+      "goal_count": null,
+      "head": "ext",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "ext",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "function_property",
+      "goal_count": null,
+      "head": "fun_prop",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "fun_prop",
+      "terminal": null
+    },
+    {
+      "endpoints": null,
+      "executable": false,
+      "failure_category": "tactic_failure",
+      "family": "other:<empty>",
+      "goal_count": null,
+      "head": "<empty>",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "solve_by_elim",
+      "terminal": null
+    },
+    {
+      "endpoints": {
+        "raw": {
+          "metadata": {
+            "goal_count": 0,
+            "schema": "exp51-raw-endpoint-v1",
+            "terminal": true
+          },
+          "sha256": "ba71256c2b73428c63ef78a4a00b640ced5fba39d59a2010b40a167d1ea5552a",
+          "state": {
+            "bytes": 8,
+            "sha256": "d7064e63adc3d44cf9cf59b8d4bc453382f705da6e9d1ad9cc82503563a0a981"
+          }
+        },
+        "struct": {
+          "metadata": {
+            "goal_count": 0,
+            "schema": "exp49-strict-goal-structure-v1",
+            "terminal": true
+          },
+          "sha256": "197067fcdc714c7a903eaf556a5483c224911a106b37758c514dc0f8551b9a78",
+          "state": {
+            "bytes": 15,
+            "sha256": "038e2094ccf099157309f0a091697a0df9d4b0c78f5ba033a8160eda7a532a34"
+          }
+        },
+        "text48": {
+          "metadata": {
+            "goal_count": 0,
+            "schema": "exp49-text48-endpoint-v1",
+            "terminal": true
+          },
+          "sha256": "230ffde7e041f3e1ba09e50d4c2c7f5f0ecd0511025a802572ac6021b677d54f",
+          "state": {
+            "bytes": 8,
+            "sha256": "d7064e63adc3d44cf9cf59b8d4bc453382f705da6e9d1ad9cc82503563a0a981"
+          }
+        }
+      },
+      "executable": true,
+      "failure_category": null,
+      "family": "suggestion",
+      "goal_count": 0,
+      "head": "exact?",
+      "pre_struct_sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de",
+      "pre_text_sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7",
+      "tactic": "exact?",
+      "terminal": true
+    }
+  ],
+  "commit": "7dc816910638406f4232d23977bbcc59a335393c",
+  "file_path": "GlimpseOfLean/Solutions/Topics/IntuitionisticPropositionalLogic.lean",
+  "full_name": "IntuitionisticPropositionalLogic.ProvableFrom.insert",
+  "initial_endpoints": {
+    "raw": {
+      "metadata": {
+        "goal_count": 1,
+        "schema": "exp51-raw-endpoint-v1",
+        "terminal": false
+      },
+      "sha256": "0f64f3b7b2dfb11b2151b95d1561771d3f22caff97d40a3b6ba70439b93e86aa",
+      "state": {
+        "bytes": 72,
+        "sha256": "c93d160a467f4f66dc0253eb6c5d8965e7abeb2bce3ed7df6dc8f5b3baac7964"
+      }
+    },
+    "struct": {
+      "metadata": {
+        "goal_count": 1,
+        "schema": "exp49-strict-goal-structure-v1",
+        "terminal": false
+      },
+      "sha256": "f64c94c40abd96b05b0510eb0446fa9c58481fc5809eb124b66695040febc801",
+      "state": {
+        "bytes": 1526,
+        "sha256": "157ef7fe983b5ca47056040f9aaa5b58371e91d6c2f0328fbf20c03929e679de"
+      }
+    },
+    "text48": {
+      "metadata": {
+        "goal_count": 1,
+        "schema": "exp49-text48-endpoint-v1",
+        "terminal": false
+      },
+      "sha256": "ced3969652c322ed6796f56500ed8a963806f89c8c39192ab751bec407a37327",
+      "state": {
+        "bytes": 70,
+        "sha256": "240941ae6691bfdecec3b9a147067e457212d9602db86a7e09eea471e40037f7"
+      }
+    }
+  },
+  "live_tacticinfo_prestate_identity": {
+    "goals_before_count": 1,
+    "raw_goal_state_sha256": "c93d160a467f4f66dc0253eb6c5d8965e7abeb2bce3ed7df6dc8f5b3baac7964",
+    "source": "ContextInfo with TacticInfo.mctxBefore and TacticInfo.goalsBefore",
+    "strict_goal_structure_sha256": "f64c94c40abd96b05b0510eb0446fa9c58481fc5809eb124b66695040febc801",
+    "text48_endpoint_sha256": "ced3969652c322ed6796f56500ed8a963806f89c8c39192ab751bec407a37327"
+  },
+  "original_authored_endpoints": {
+    "raw": {
+      "metadata": {
+        "goal_count": 1,
+        "schema": "exp51-raw-endpoint-v1",
+        "terminal": false
+      },
+      "sha256": "99ef98213d98a1db72c1ee4b6c1f5bd7fcc26333eef853ac192485a732300bbd",
+      "state": {
+        "bytes": 73,
+        "sha256": "cfe774a3e7a4ab7f06d0b7d63804d7015cf6fa0cbf262a9705959b8aea8b2d23"
+      }
+    },
+    "struct": {
+      "metadata": {
+        "goal_count": 1,
+        "schema": "exp49-strict-goal-structure-v1",
+        "terminal": false
+      },
+      "sha256": "d08ca7f33f03cf759149f8e509bd7038c38276797e8fbca3460173d70a3daeaf",
+      "state": {
+        "bytes": 1702,
+        "sha256": "44308092870b6dd05da6ebd80da7121f26e3bf8f4f1b0ce1cdfb95493782602a"
+      }
+    },
+    "text48": {
+      "metadata": {
+        "goal_count": 1,
+        "schema": "exp49-text48-endpoint-v1",
+        "terminal": false
+      },
+      "sha256": "1044fb3f00ee71c1ec64cd087b537da917642e301ee6b3ac0436de5f4c9ff946",
+      "state": {
+        "bytes": 71,
+        "sha256": "61b52d589f64ccd126ad4b0bd02478cf64f302ad89771655182caf3b32cff380"
+      }
+    }
+  },
+  "reference_projection_sha256": "0475f7de0fa02596e69b53313152db9664d9d5f790f9d6c1c2edd53753633e10",
+  "same_pre_state_all_branches": true,
+  "schema": "experiment53-exp51-reference-projection-v1",
+  "slug": "PatrickMassot/GlimpseOfLean",
+  "source_file_sha256": "1405bb8b73a6612a205276fbd91ed7b60c827390fafb0e9e043ecb38ec36e32e",
+  "target_end_pos": 7250,
+  "target_found": true,
+  "target_pos": 7233,
+  "theorem_id": "1b8077a5062210c15101a6ebb212eeedd64cb3a68994fd2ffe27c8b578c99008",
+  "trace_root_match": true,
+  "worker_ok": true
+}

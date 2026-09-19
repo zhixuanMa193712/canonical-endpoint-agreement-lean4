@@ -1,0 +1,112 @@
+{
+  "files": [
+    {
+      "bytes": 8428,
+      "path": "experiment51_exp52_execution_alignment_fix3/README_SERVER.md",
+      "sha256": "f602c008d3f3f8341f90f05b272cd480e76c0ed550ebdbd076dc103b37a52907"
+    },
+    {
+      "bytes": 25320,
+      "path": "experiment51_exp52_execution_alignment_fix3/alignment_protocol.py",
+      "sha256": "9885fd6c73a5c314dc3132fe87630594fdcf21dcec85359aedd2699171575b68"
+    },
+    {
+      "bytes": 13392,
+      "path": "experiment51_exp52_execution_alignment_fix3/analyze_exp51_fix3.py",
+      "sha256": "a7fdfb1e74d361f3bd46fde78c1982ce2e51111af2dd90ef83db9954df84cd71"
+    },
+    {
+      "bytes": 45337,
+      "path": "experiment51_exp52_execution_alignment_fix3/analyze_exp52.py",
+      "sha256": "d1b45f8c0d58433d761fcc2175a19db94da9d924ff855d3a413f7deb88cac4c2"
+    },
+    {
+      "bytes": 14954,
+      "path": "experiment51_exp52_execution_alignment_fix3/audit_exp51_fix3.py",
+      "sha256": "88a263e3374495fa16b24646996ebf2073b7ddb1a4000ff12746a4d2736fd101"
+    },
+    {
+      "bytes": 58591,
+      "path": "experiment51_exp52_execution_alignment_fix3/audit_exp52.py",
+      "sha256": "6779f23126b161b09d85e184e76c7fe00852c62b292c9824eebfeb418304a3df"
+    },
+    {
+      "bytes": 6798,
+      "path": "experiment51_exp52_execution_alignment_fix3/capture_exp51_environment.py",
+      "sha256": "1fbdf26255baa6e0c9d690d21a83afc83bcbd034deba88265dc1087199d63138"
+    },
+    {
+      "bytes": 38460,
+      "path": "experiment51_exp52_execution_alignment_fix3/experiment52_live_worker.py",
+      "sha256": "95f805043c317d00895e0f070f0f73db0170d0287ae9eb1857f18933328e8a29"
+    },
+    {
+      "bytes": 15835,
+      "path": "experiment51_exp52_execution_alignment_fix3/export_exp51_fix3.py",
+      "sha256": "d59228b477f3a9b9b578351e5dabe5758f4487a20bbd784a3d0ebc764fe73404"
+    },
+    {
+      "bytes": 11297,
+      "path": "experiment51_exp52_execution_alignment_fix3/export_exp52_bundle.py",
+      "sha256": "7ee97ec5c55223719c77c9f27bf300168a44741e581478a19cdf076994676525"
+    },
+    {
+      "bytes": 10967,
+      "path": "experiment51_exp52_execution_alignment_fix3/finalize_exp51_execution.py",
+      "sha256": "a7d483cf43f6e118dc8acd6879d795a477dff4793defef2f5f2af8268eda118b"
+    },
+    {
+      "bytes": 16759,
+      "path": "experiment51_exp52_execution_alignment_fix3/finalize_exp52_execution.py",
+      "sha256": "804439b34575f611b0a50d42fa78a5a94fa7c83855ce6e3e7f04bf8fa5f3fee4"
+    },
+    {
+      "bytes": 9834,
+      "path": "experiment51_exp52_execution_alignment_fix3/freeze_execution_alignment.py",
+      "sha256": "e7361932f8320c9fac7d75dd9761ac64cfb5f5dd427e1e821c0f51d693cdb534"
+    },
+    {
+      "bytes": 4568,
+      "path": "experiment51_exp52_execution_alignment_fix3/preflight_exp51_execution.py",
+      "sha256": "7a21973c50b318b5606b2223e07a2231e28a8e800ff9dd1e47446086f82d3edb"
+    },
+    {
+      "bytes": 10772,
+      "path": "experiment51_exp52_execution_alignment_fix3/preflight_exp52_execution.py",
+      "sha256": "d6a64082eb9343064c9c04646b1ab0973d127ef9393579a91e32fb7613c9b5c2"
+    },
+    {
+      "bytes": 18144,
+      "path": "experiment51_exp52_execution_alignment_fix3/run_exp51_shards.py",
+      "sha256": "976b3542c3dee82a4ee594e4368c449e28f4b62fd936399b3993eba5aaa70c4c"
+    },
+    {
+      "bytes": 25854,
+      "path": "experiment51_exp52_execution_alignment_fix3/run_exp52_shards.py",
+      "sha256": "d97ad9e57b50f73f846bd3b888bd525f8c47437ad98737c545e85f10ec795fa6"
+    },
+    {
+      "bytes": 33480,
+      "path": "experiment51_exp52_execution_alignment_fix3/select_exp52_pairs.py",
+      "sha256": "06ff877e4a3b2bd0b15a7c537584d85c850203ec2d3c03b34cce0b9884acc346"
+    },
+    {
+      "bytes": 8233,
+      "path": "experiment51_exp52_execution_alignment_fix3/test_execution_alignment_fix3_static.py",
+      "sha256": "bf449e5894ba984defaa3968b7a85eb3eae82d2c6cb37ff32a02c72a09a382a9"
+    },
+    {
+      "bytes": 13008,
+      "path": "experiment52_continuation_probe/EXP52_FALSIFICATION_MATRIX.md",
+      "sha256": "9cc1da7fe3955085a6e9ee174d2eda173da7bf7464095ec66c6c19ccc55a493a"
+    },
+    {
+      "bytes": 18224,
+      "path": "experiment52_continuation_probe/EXP52_PREREGISTRATION.md",
+      "sha256": "06495a35ff54c5cb1a5ef235f109ac8743c9ea21ba6698125c4f84f8219dd452"
+    }
+  ],
+  "files_sha256": "6241de6ef38f913589258941197a4f0ff0b28d7def944e70d906cfa4424ffd12",
+  "schema": "exp51-exp52-fix3-package-manifest-v1",
+  "version": 1
+}

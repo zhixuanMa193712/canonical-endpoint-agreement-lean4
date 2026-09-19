@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "extension_version": "experiment51-zero-candidate-frame-extension2-v1",
+  "frame_date_utc": "2026-08-24",
+  "extension_trigger": "The protected Extension1 No-Go executed zero scientific candidates and produced 11 build/trace passes against a preregistered minimum of 12.",
+  "source_registry": {
+    "type": "preregistered-public-github-discovery-snapshot",
+    "snapshot_date_utc": "2026-08-24",
+    "queries": [
+      "site:github.com leanprover/lean4:v4.27.0 Lean formalization",
+      "site:github.com Lean 4.27.0 formalization theorem",
+      "site:github.com leanprover/lean4:v4.27.0 lakefile.toml proof"
+    ],
+    "verification_surface": [
+      "public GitHub commit endpoint",
+      "public GitHub recursive tree endpoint",
+      "content-addressed lean-toolchain file"
+    ]
+  },
+  "selection_rule": "Carry forward all eleven archive-exact Extension1 build/trace passes in frozen order; screen every Extension2 candidate in the listed frozen order; require at least twelve combined build/trace passes before authored replay and at least twelve lineage-filtered authored-replay passes before any scientific alternative execution.",
+  "ordering_rule": "Candidates are ordered by case-insensitive GitHub slug before screening; the order is not updated from qualification outcomes.",
+  "curation_inclusions": [
+    "public GitHub repository containing repository-authored Lean proof sources",
+    "full public commit recorded before screening",
+    "project lean-toolchain content observed as exactly leanprover/lean4:v4.27.0",
+    "root archival license file observed",
+    "not present in the historical scientific set, original recruitment frame, or Extension1 frame"
+  ],
+  "curation_exclusions": [
+    "statement-only and benchmark corpora",
+    "proof-search, tactic, REPL, documentation, package-template, binding, and build infrastructure repositories",
+    "release candidates and every toolchain other than the final Lean v4.27.0 release",
+    "repositories without a root archival license file",
+    "all repositories used by earlier Exp51 recruitment frames"
+  ],
+  "source_overlap_threshold": 0.2,
+  "scientific_candidate_tactics_permitted": 0,
+  "candidates": [
+    {
+      "order": 1,
+      "slug": "DCLXAI/a303639-counterexample",
+      "url": "https://github.com/DCLXAI/a303639-counterexample.git",
+      "ref": "8e21c57c622b05a1815bcf9927458ebb3973ef2e",
+      "subdir": "lean",
+      "domain": "combinatorics_counterexample",
+      "license": "MIT",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "lean/lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    },
+    {
+      "order": 2,
+      "slug": "Jostamon/erdos274-hs-abelian",
+      "url": "https://github.com/Jostamon/erdos274-hs-abelian.git",
+      "ref": "2ab8a2e39e7dd7836adf577b52555f069244466f",
+      "subdir": ".",
+      "domain": "additive_combinatorics",
+      "license": "root-license-file-unclassified",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    },
+    {
+      "order": 3,
+      "slug": "KitaKen1/monochromatic-quantum-graph-sharp-bound-lean",
+      "url": "https://github.com/KitaKen1/monochromatic-quantum-graph-sharp-bound-lean.git",
+      "ref": "6c5340384479dbb36129b2e0084449be2458cce2",
+      "subdir": "lean",
+      "domain": "quantum_graphs",
+      "license": "root-license-file-unclassified",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "lean/lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    },
+    {
+      "order": 4,
+      "slug": "KitaKen1/vcdim-convex-counterexample",
+      "url": "https://github.com/KitaKen1/vcdim-convex-counterexample.git",
+      "ref": "ad7ffff1514843c886633f5408c6456dfb2e2a49",
+      "subdir": "formal-conjectures-v4.27.0",
+      "domain": "convex_geometry",
+      "license": "Apache-2.0",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "formal-conjectures-v4.27.0/lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    },
+    {
+      "order": 5,
+      "slug": "KitaKen1/weak-tiling-counterexample",
+      "url": "https://github.com/KitaKen1/weak-tiling-counterexample.git",
+      "ref": "09597e1307cd05bda701569340c793443911a35e",
+      "subdir": "formal-conjectures-v4.27.0",
+      "domain": "discrete_geometry",
+      "license": "root-license-file-unclassified",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "formal-conjectures-v4.27.0/lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    },
+    {
+      "order": 6,
+      "slug": "KitaKen1/wowii-graph-conjecture-2-lean",
+      "url": "https://github.com/KitaKen1/wowii-graph-conjecture-2-lean.git",
+      "ref": "fc6cc1f5b857e9c3f9693b98587660eb09606abc",
+      "subdir": "lean",
+      "domain": "graph_theory",
+      "license": "root-license-file-unclassified",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "lean/lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    },
+    {
+      "order": 7,
+      "slug": "spectra-research/asymptotic-tensor-rank-semicontinuity",
+      "url": "https://github.com/spectra-research/asymptotic-tensor-rank-semicontinuity.git",
+      "ref": "f3a83b4e862c84ab718163d063093ad64644c9ef",
+      "subdir": ".",
+      "domain": "algebraic_complexity",
+      "license": "root-license-file-unclassified",
+      "license_evidence": "LICENSE",
+      "toolchain_evidence": "lean-toolchain",
+      "target_toolchain": "leanprover/lean4:v4.27.0"
+    }
+  ]
+}

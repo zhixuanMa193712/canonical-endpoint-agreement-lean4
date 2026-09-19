@@ -1,0 +1,78 @@
+{
+  "code_only": true,
+  "contains_exp58_scientific_reinterpretation": false,
+  "contains_exp59_candidate_execution_runner": true,
+  "contains_exp59_continuation_runner": false,
+  "entries": [
+    {
+      "bytes": 2800,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/EXP59_PREREGISTRATION.md",
+      "sha256": "2b5483af505f2325a0d653a30ea5c4b8cd93d456870501ffba74cfbe43bf1a5d"
+    },
+    {
+      "bytes": 4323,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/README_SERVER.md",
+      "sha256": "65e2b276babffaeed8d79945f5bc1ed96e348ad23c86a0d611f5ca3f050b3c42"
+    },
+    {
+      "bytes": 823,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/THIRD_PARTY_AUDIT.csv",
+      "sha256": "6898e5d4b221929d172beaefedd71a7bfa4f9f1447f90d6f2f31b0100b521ef6"
+    },
+    {
+      "bytes": 3033,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/build_transition_package.py",
+      "sha256": "8faea288aa48d1044c40761c91ccc46e5941a64febaf24a119615bc27d75a950"
+    },
+    {
+      "bytes": 9321,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/experiment59_candidate_worker.py",
+      "sha256": "5ef216fe04255b7737f014520df592a9e274609cf807d79febffc3ebff7a4ade"
+    },
+    {
+      "bytes": 7899,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/experiment59_protocol.py",
+      "sha256": "3bb48febdd5a313d91882723d03a77d7a3656a48658c15cb5b20f4126c7b9002"
+    },
+    {
+      "bytes": 4729,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/export_exp58_recruitment_nogo.py",
+      "sha256": "b2e46cc0eeabbff4d1243356345f5cd836ce3a17ec881a9d083cac7a871f4f31"
+    },
+    {
+      "bytes": 11712,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/finalize_exp58_recruitment_nogo.py",
+      "sha256": "b4d32ff8835fdbd5358224c6a10806b78c76de0e33566fbb308b103a5272480c"
+    },
+    {
+      "bytes": 7154,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/finalize_experiment59_candidate_screening.py",
+      "sha256": "02de4d3d15031d97e2d168d3b565f48509bdcea74cdb84288496dd5cb3e8360a"
+    },
+    {
+      "bytes": 11915,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/freeze_experiment59.py",
+      "sha256": "d1ee42dc410c1bbf7147d0aa3248b20fcdcbebd41381906312df773b87ab75ee"
+    },
+    {
+      "bytes": 3321,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/preflight_experiment59.py",
+      "sha256": "6c37e1764238976471efe0aa4667bab0a6a38e934c161cf0ca14cf85933e3e4f"
+    },
+    {
+      "bytes": 6662,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/run_experiment59_candidate_screening.py",
+      "sha256": "24c3ed5737f5a58e3cb5a9b3edeeb12842c21b11ff4f772e55158652af6c6bf8"
+    },
+    {
+      "bytes": 4441,
+      "path": "experiment59_expansion_only_hard_root_efficiency_confirmation/test_experiment59_static.py",
+      "sha256": "ba237d324ce00c5ff3e51f9c0cca2ccfd0971e77aa6358b5b9b270a181da44b3"
+    }
+  ],
+  "entries_sha256": "089112b80ecdbf20a8506e1b686d40a90b1c642e490cf61747c30843a7028b2e",
+  "mechanical_fix_id": "exp59-pre-candidate-disjoint-direct-suggestion-separation-v1",
+  "package": "experiment59_expansion_only_hard_root_efficiency_confirmation",
+  "protocol_version": "experiment59-expansion-only-hard-root-efficiency-confirmation-v1",
+  "version": 1
+}

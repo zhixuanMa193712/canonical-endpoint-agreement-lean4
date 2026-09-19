@@ -1,0 +1,5 @@
+component,upstream_url,pinned_commit,license,redistribution_in_transition_bundle,notes
+miniF2F,https://github.com/google-deepmind/miniF2F.git,f0a20e14c1eeccd859d51bb4c2b3ee487889c303,Apache-2.0,aggregate and provenance only,No generated proof text is exported
+PutnamBench,https://github.com/trishullab/PutnamBench.git,34eba93650f2fa803ca6aae6dfd2c9f22d46c00d,Apache-2.0,aggregate and provenance only,No target-to-successful-tactic rows or generated proofs are exported
+Lean 4,https://github.com/leanprover/lean4.git,db93fe1608548721853390a10cd40580fe7d22ae,Apache-2.0,hash and version metadata only,Toolchain leanprover/lean4:v4.27.0
+LeanDojo,https://github.com/lean-dojo/LeanDojo,package-local locked source hashes,MIT,code hash references only,Exp49 endpoint worker sources are reused from the existing protected package

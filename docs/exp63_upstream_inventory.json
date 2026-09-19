@@ -1,0 +1,418 @@
+[
+  {
+    "slug": "qscqesze/graffiti-pc-conjecture-141",
+    "commit": "d86f3c5f41191c9447ea8162d34cb116013b85a1",
+    "url": "https://github.com/qscqesze/graffiti-pc-conjecture-141.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "Paraxiom/scheming-proofs",
+    "commit": "02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc",
+    "url": "https://github.com/Paraxiom/scheming-proofs.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "AIDoctrine/CollatzLayerA",
+    "commit": "5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd",
+    "url": "https://github.com/AIDoctrine/CollatzLayerA.git",
+    "classification": "definitive_ineligible",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "taeyool/lean-flag-algebras-release",
+    "commit": "06423a2e6c6f8d9435a8956e2b7409e210154b8c",
+    "url": "https://github.com/taeyool/lean-flag-algebras-release.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "MechMath/MechGeoBench",
+    "commit": "ef1ef410ee2bc9844108f71d23e0a5aebecd6488",
+    "url": "https://github.com/MechMath/MechGeoBench.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "alexoltean61/msphml-lean",
+    "commit": "9d6559db6502bc9813dcf028d7ea26ae80e9dc93",
+    "url": "https://github.com/alexoltean61/msphml-lean.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "korbexmachina/GlimpseOfLean",
+    "commit": "7d99667f124922bc047dc0bbb2ca6cf63edd90f8",
+    "url": "https://github.com/korbexmachina/GlimpseOfLean.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "google-deepmind/alphaproof-nexus-results",
+    "commit": "0647711a71183c1ea492ad60860776617ce1ea88",
+    "url": "https://github.com/google-deepmind/alphaproof-nexus-results.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "abcrtzyn/sudoku_prover",
+    "commit": "38bd5d3321af47bac8a0774e8dbd44d368cb9193",
+    "url": "https://github.com/abcrtzyn/sudoku_prover.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "fc0web/lean-d-fumt8",
+    "commit": "2f4c97aee73b53378b8554b46297fb98f3a2b3c0",
+    "url": "https://github.com/fc0web/lean-d-fumt8.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "GasStationManager/ArtificialAlgorithms",
+    "commit": "0d78ca4b92004fd539d97661e3c2eeef5099d0a8",
+    "url": "https://github.com/GasStationManager/ArtificialAlgorithms.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "tamura70/lean_study",
+    "commit": "addb8e51bf0d78285bf38dff8c18d994436d6f96",
+    "url": "https://github.com/tamura70/lean_study.git",
+    "classification": "definitive_ineligible",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "rupakm/leslie",
+    "commit": "58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d",
+    "url": "https://github.com/rupakm/leslie.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "galvusdamor/lean4-search-algorithms",
+    "commit": "cffe2a8136e7f45de1d3507f2397d9decc0d6424",
+    "url": "https://github.com/galvusdamor/lean4-search-algorithms.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "danuaemx/lean-257-2",
+    "commit": "53fd59dcf68dfcfbc93e213ed888ef72e6f150ba",
+    "url": "https://github.com/danuaemx/lean-257-2.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "TPColor/bastien-khormali-conjecture",
+    "commit": "ba950f184f1a682e3bc7d59391b4a126818d7f34",
+    "url": "https://github.com/TPColor/bastien-khormali-conjecture.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "AxiomMath/erdos-public",
+    "commit": "3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab",
+    "url": "https://github.com/AxiomMath/erdos-public.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "LoganEvans/litlib4",
+    "commit": "c689568887fbd8a7ff59c032af486c930053e77b",
+    "url": "https://github.com/LoganEvans/litlib4.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "atvrager/Shoumei-RTL",
+    "commit": "10b3686647f1d76c853c196026cde45709c698b4",
+    "url": "https://github.com/atvrager/Shoumei-RTL.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "ilyasergey/lean-move",
+    "commit": "ca5dbc9a6606bc60f5b57a82b733accbd8241b96",
+    "url": "https://github.com/ilyasergey/lean-move.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "mathTensor/AI4Math-Putnam2025",
+    "commit": "35279ef7f469f002aa2cbe90e8b3f7e5a849567b",
+    "url": "https://github.com/mathTensor/AI4Math-Putnam2025.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "repowazdogz-droid/omega-lean-proof",
+    "commit": "2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf",
+    "url": "https://github.com/repowazdogz-droid/omega-lean-proof.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "galvusdamor/lean4-planner",
+    "commit": "0c4ed9d804d52420b3a8842d03ab38500ba25861",
+    "url": "https://github.com/galvusdamor/lean4-planner.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "ericmerle3789/collatz-nocycle-lean4",
+    "commit": "4ec239deeea642315fcb431ca0d22a09727911f3",
+    "url": "https://github.com/ericmerle3789/collatz-nocycle-lean4.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "mirajcs/IsoperimetricInequality",
+    "commit": "300de78eafd39002343aa507630639f52347d335",
+    "url": "https://github.com/mirajcs/IsoperimetricInequality.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "ericmerle3789/collatz-conditional-cycles",
+    "commit": "c24633cc8999ec509782125d664b47396cb89593",
+    "url": "https://github.com/ericmerle3789/collatz-conditional-cycles.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "Kuberwastaken/wowii-63-85-counterexample",
+    "commit": "aec1307942b2aaaf248694822def1a4a1289fa47",
+    "url": "https://github.com/Kuberwastaken/wowii-63-85-counterexample.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "RobertoZunino/ITPCourse",
+    "commit": "258f979cc736fc2845e90ac7e0dd78c9b43ed798",
+    "url": "https://github.com/RobertoZunino/ITPCourse.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "katydid/paper-2026-verified-filter-lean",
+    "commit": "742e142a028c4af82e3055a08289195b1f3f1761",
+    "url": "https://github.com/katydid/paper-2026-verified-filter-lean.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "VTrelat/BEer",
+    "commit": "d846712bf296520d4f4b39d0e0ae48211a7e4e15",
+    "url": "https://github.com/VTrelat/BEer.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "tobiasosborne/ProjSeminorm",
+    "commit": "b614563b9e1ceb5e9828646c975d8c57fee9e44a",
+    "url": "https://github.com/tobiasosborne/ProjSeminorm.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "manman4/LeanMathAtlas",
+    "commit": "c6ec93594f406562eafe3a4a8d12b5006486ca78",
+    "url": "https://github.com/manman4/LeanMathAtlas.git",
+    "classification": "definitive_ineligible",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "Pjotr5/IndependentTransversals",
+    "commit": "205372fe2b4b17ec77ef3f4629c43686223c1028",
+    "url": "https://github.com/Pjotr5/IndependentTransversals.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "scidonia/vericode",
+    "commit": "5ecd4ccc09bb133f7c34a73264d9a2291a99fb22",
+    "url": "https://github.com/scidonia/vericode.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "pablo-vs/discrete-game-theory",
+    "commit": "b12b2d88409864306299b03fa0c14b771fe47327",
+    "url": "https://github.com/pablo-vs/discrete-game-theory.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "mike1729/goedel-workbook-lean427",
+    "commit": "3c2afe6bfc6bdeca6b78d1f257468164bba56966",
+    "url": "https://github.com/mike1729/goedel-workbook-lean427.git",
+    "classification": "definitive_ineligible",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "ronut01/erdos1002-lean",
+    "commit": "b7c9e7db433a64de629989c31a344f5220fe360e",
+    "url": "https://github.com/ronut01/erdos1002-lean.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "akakabrian/WOW-146",
+    "commit": "18201d492b52a2f82a2966551aed1640c45ec13b",
+    "url": "https://github.com/akakabrian/WOW-146.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "primateria/erdos608",
+    "commit": "b50849234b8de6cb5c642b5cb0479cab2e9e9908",
+    "url": "https://github.com/primateria/erdos608.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "beowulf127/wowii144-lean",
+    "commit": "046429d509b28c90ee2ec38ae27c1ad377c6a5fc",
+    "url": "https://github.com/beowulf127/wowii144-lean.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "Robertboy18/aint26-lean-solutions",
+    "commit": "feb939008bbd1f0dd2b24fd40ab0e592062d9717",
+    "url": "https://github.com/Robertboy18/aint26-lean-solutions.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "mkwatson/unique-sums-notes",
+    "commit": "b982a044dc0806bcecaf111f2d72c24697bd78e9",
+    "url": "https://github.com/mkwatson/unique-sums-notes.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "Shashi456/erdos-formalizations",
+    "commit": "286f856aa3fc08957b80950fd18a45aab8d045ea",
+    "url": "https://github.com/Shashi456/erdos-formalizations.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "YijunYuan/HarderNarasimhan",
+    "commit": "e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f",
+    "url": "https://github.com/YijunYuan/HarderNarasimhan.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "NethermindEth/poseidon2-fv",
+    "commit": "ab3d3c4a567ee9fc99005b1527cca91c6c41edc6",
+    "url": "https://github.com/NethermindEth/poseidon2-fv.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "paolino/keri-lean",
+    "commit": "e54b668e546545db4dfe20b62bb2f21d417b5763",
+    "url": "https://github.com/paolino/keri-lean.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "LoganEvans/chiral-gauge-dynamics",
+    "commit": "f05834b9272518ab2c885ba9dda4d5e359ab6977",
+    "url": "https://github.com/LoganEvans/chiral-gauge-dynamics.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "grenewode/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "url": "https://github.com/grenewode/LeanServer.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "MaskoMys/Collatz-Binary-Topology",
+    "commit": "a9a5167830f0cd0f2b98a2afd339b46234253fd9",
+    "url": "https://github.com/MaskoMys/Collatz-Binary-Topology.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "Jostamon/erdos274-hs-abelian",
+    "commit": "2ab8a2e39e7dd7836adf577b52555f069244466f",
+    "url": "https://github.com/Jostamon/erdos274-hs-abelian.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "schmittj/prop51-formal",
+    "commit": "02bd8cc32582f54d36e9a0ff471a44d4d0461017",
+    "url": "https://github.com/schmittj/prop51-formal.git",
+    "classification": "operationally_unresolved",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  },
+  {
+    "slug": "KitaKen1/bezier-bernstein-voronovskaja-lean",
+    "commit": "3f35c631d215b3841242275bf3ed2c59ea153a2d",
+    "url": "https://github.com/KitaKen1/bezier-bernstein-voronovskaja-lean.git",
+    "classification": "qualified",
+    "root_license_observed": true,
+    "permission_review": "PENDING: presence is not a redistribution licence"
+  }
+]
