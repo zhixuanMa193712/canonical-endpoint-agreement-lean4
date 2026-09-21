@@ -1,10 +1,12 @@
+> Historical audit, not current clearance. See ../../third_party/THIRD_PARTY_NOTICES.md.
+
 # Third-party notices
 
 Licence review date: **2026-08-26**. Licence identifiers and URLs were checked
 against the GitHub licence endpoint at the exact commits used by the frozen
 experiments. GitHub reported `NOASSERTION` for `bergmannjg/Regex`; inspection of
 the fixed licence text identified the MIT licence reproduced in
-`licenses/MIT-Regex.txt`.
+`../license_reference_texts/MIT-Regex.txt`.
 
 The deposited evidence bundles do not contain complete repository checkouts or
 compiled dependencies. They contain bounded, source-derived experimental
@@ -30,9 +32,9 @@ applicable upstream licence.
 | `verse-lab/Lentil@7f83b7493c3aa839d1aeeeeacc5b3711116c2856` | Apache-2.0 | <https://github.com/verse-lab/Lentil/blob/7f83b7493c3aa839d1aeeeeacc5b3711116c2856/LICENSE> |
 | `YaelDillies/misc-yd@10837040a49ab7580877d652dea7c172f69adbbf` | Apache-2.0 | <https://github.com/YaelDillies/misc-yd/blob/10837040a49ab7580877d652dea7c172f69adbbf/LICENSE> |
 | `google-deepmind/miniF2F@f0a20e14c1eeccd859d51bb4c2b3ee487889c303` | Apache-2.0 | <https://github.com/google-deepmind/miniF2F/blob/f0a20e14c1eeccd859d51bb4c2b3ee487889c303/LICENSE> |
-| `trishullab/PutnamBench@34eba93650f2fa803ca6aae6dfd2c9f22d46c00d` | Apache-2.0 | <https://github.com/trishullab/PutnamBench/blob/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/LICENSE> |
+| `trishullab/PutnamBench@34eba93650f2fa803ca6aae6dfd2c9f22d46c00d` | Apache-2.0 | <https://github.com/trishullab/PutnamBench/blob/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/lean4/LICENSE> |
 
-Apache-2.0 and GPL-2.0-only licence texts are included under `licenses/`.
+Apache-2.0 and GPL-2.0-only licence texts are included under `../license_reference_texts/`.
 The MIT notice for Regex is included verbatim. CC BY 4.0 attribution and licence
 links are preserved. The release does not claim ownership of any upstream
 project.

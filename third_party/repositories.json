@@ -1,0 +1,2857 @@
+[
+  {
+    "slug": "qscqesze/graffiti-pc-conjecture-141",
+    "commit": "d86f3c5f41191c9447ea8162d34cb116013b85a1",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/qscqesze/graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Jun Qing"
+    ],
+    "upstream_root_NOTICE_observed": true,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/qscqesze__graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/LICENSE",
+      "licenses/qscqesze__graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/NOTICE"
+    ]
+  },
+  {
+    "slug": "Paraxiom/scheming-proofs",
+    "commit": "02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/Paraxiom/scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Paraxiom Technologies Inc."
+    ],
+    "upstream_root_NOTICE_observed": true,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Paraxiom__scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/LICENSE",
+      "licenses/Paraxiom__scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/NOTICE"
+    ]
+  },
+  {
+    "slug": "AIDoctrine/CollatzLayerA",
+    "commit": "5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd",
+    "origins": [
+      "Exp63 qualification: definitive_ineligible",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/AIDoctrine/CollatzLayerA/5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/AIDoctrine__CollatzLayerA/5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd/LICENSE"
+    ]
+  },
+  {
+    "slug": "taeyool/lean-flag-algebras-release",
+    "commit": "06423a2e6c6f8d9435a8956e2b7409e210154b8c",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/taeyool/lean-flag-algebras-release/06423a2e6c6f8d9435a8956e2b7409e210154b8c/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright {yyyy} {name of copyright owner}"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/taeyool__lean-flag-algebras-release/06423a2e6c6f8d9435a8956e2b7409e210154b8c/LICENSE"
+    ]
+  },
+  {
+    "slug": "MechMath/MechGeoBench",
+    "commit": "ef1ef410ee2bc9844108f71d23e0a5aebecd6488",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/MechMath/MechGeoBench/ef1ef410ee2bc9844108f71d23e0a5aebecd6488/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/MechMath__MechGeoBench/ef1ef410ee2bc9844108f71d23e0a5aebecd6488/LICENSE"
+    ]
+  },
+  {
+    "slug": "alexoltean61/msphml-lean",
+    "commit": "9d6559db6502bc9813dcf028d7ea26ae80e9dc93",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/alexoltean61/msphml-lean/9d6559db6502bc9813dcf028d7ea26ae80e9dc93/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/alexoltean61__msphml-lean/9d6559db6502bc9813dcf028d7ea26ae80e9dc93/LICENSE"
+    ]
+  },
+  {
+    "slug": "korbexmachina/GlimpseOfLean",
+    "commit": "7d99667f124922bc047dc0bbb2ca6cf63edd90f8",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/korbexmachina/GlimpseOfLean/7d99667f124922bc047dc0bbb2ca6cf63edd90f8/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/korbexmachina__GlimpseOfLean/7d99667f124922bc047dc0bbb2ca6cf63edd90f8/LICENSE"
+    ]
+  },
+  {
+    "slug": "google-deepmind/alphaproof-nexus-results",
+    "commit": "0647711a71183c1ea492ad60860776617ce1ea88",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/google-deepmind/alphaproof-nexus-results/0647711a71183c1ea492ad60860776617ce1ea88/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/google-deepmind__alphaproof-nexus-results/0647711a71183c1ea492ad60860776617ce1ea88/LICENSE"
+    ]
+  },
+  {
+    "slug": "abcrtzyn/sudoku_prover",
+    "commit": "38bd5d3321af47bac8a0774e8dbd44d368cb9193",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/abcrtzyn/sudoku_prover/38bd5d3321af47bac8a0774e8dbd44d368cb9193/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/abcrtzyn__sudoku_prover/38bd5d3321af47bac8a0774e8dbd44d368cb9193/LICENSE"
+    ]
+  },
+  {
+    "slug": "fc0web/lean-d-fumt8",
+    "commit": "2f4c97aee73b53378b8554b46297fb98f3a2b3c0",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/fc0web/lean-d-fumt8/2f4c97aee73b53378b8554b46297fb98f3a2b3c0/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/fc0web__lean-d-fumt8/2f4c97aee73b53378b8554b46297fb98f3a2b3c0/LICENSE"
+    ]
+  },
+  {
+    "slug": "GasStationManager/ArtificialAlgorithms",
+    "commit": "0d78ca4b92004fd539d97661e3c2eeef5099d0a8",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/GasStationManager/ArtificialAlgorithms/0d78ca4b92004fd539d97661e3c2eeef5099d0a8/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/GasStationManager__ArtificialAlgorithms/0d78ca4b92004fd539d97661e3c2eeef5099d0a8/LICENSE"
+    ]
+  },
+  {
+    "slug": "tamura70/lean_study",
+    "commit": "addb8e51bf0d78285bf38dff8c18d994436d6f96",
+    "origins": [
+      "Exp63 qualification: definitive_ineligible",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/tamura70/lean_study/addb8e51bf0d78285bf38dff8c18d994436d6f96/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Naoyuki Tamura"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/tamura70__lean_study/addb8e51bf0d78285bf38dff8c18d994436d6f96/LICENSE"
+    ]
+  },
+  {
+    "slug": "rupakm/leslie",
+    "commit": "58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/rupakm/leslie/58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright [2026] [Rupak Majumdar]"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/rupakm__leslie/58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d/LICENSE"
+    ]
+  },
+  {
+    "slug": "galvusdamor/lean4-search-algorithms",
+    "commit": "cffe2a8136e7f45de1d3507f2397d9decc0d6424",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/galvusdamor/lean4-search-algorithms/cffe2a8136e7f45de1d3507f2397d9decc0d6424/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright {yyyy} {name of copyright owner}"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/galvusdamor__lean4-search-algorithms/cffe2a8136e7f45de1d3507f2397d9decc0d6424/LICENSE"
+    ]
+  },
+  {
+    "slug": "danuaemx/lean-257-2",
+    "commit": "53fd59dcf68dfcfbc93e213ed888ef72e6f150ba",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/danuaemx/lean-257-2/53fd59dcf68dfcfbc93e213ed888ef72e6f150ba/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Dantiq",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/danuaemx__lean-257-2/53fd59dcf68dfcfbc93e213ed888ef72e6f150ba/LICENSE"
+    ]
+  },
+  {
+    "slug": "TPColor/bastien-khormali-conjecture",
+    "commit": "ba950f184f1a682e3bc7d59391b4a126818d7f34",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/TPColor/bastien-khormali-conjecture/ba950f184f1a682e3bc7d59391b4a126818d7f34/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Lily Zhang",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/TPColor__bastien-khormali-conjecture/ba950f184f1a682e3bc7d59391b4a126818d7f34/LICENSE"
+    ]
+  },
+  {
+    "slug": "AxiomMath/erdos-public",
+    "commit": "3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/AxiomMath/erdos-public/3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Axiom Math.",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/AxiomMath__erdos-public/3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab/LICENSE"
+    ]
+  },
+  {
+    "slug": "LoganEvans/litlib4",
+    "commit": "c689568887fbd8a7ff59c032af486c930053e77b",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/LoganEvans/litlib4/c689568887fbd8a7ff59c032af486c930053e77b/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Logan P. Evans"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/LoganEvans__litlib4/c689568887fbd8a7ff59c032af486c930053e77b/LICENSE"
+    ]
+  },
+  {
+    "slug": "atvrager/Shoumei-RTL",
+    "commit": "10b3686647f1d76c853c196026cde45709c698b4",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "AGPL v3 文本；源码适用范围另核",
+    "license_url": "https://raw.githubusercontent.com/atvrager/Shoumei-RTL/10b3686647f1d76c853c196026cde45709c698b4/LICENSE",
+    "copyright_lines": [
+      "Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+      "with two steps: (1) assert copyright on the software, and (2) offer",
+      "\"Copyright\" also means copyright-like laws that apply to other kinds of",
+      "\"The Program\" refers to any copyrightable work licensed under this",
+      "in a fashion requiring copyright permission, other than the making of an",
+      "infringement under applicable copyright law, except executing it on a",
+      "feature that (1) displays an appropriate copyright notice, and (2)",
+      "copyright on the Program, and are irrevocable provided the stated",
+      "rights of fair use or other equivalent, as provided by copyright law.",
+      "not control copyright.  Those thus making or running the covered works",
+      "your copyrighted material outside their relationship with you.",
+      "11 of the WIPO copyright treaty adopted on 20 December 1996, or",
+      "appropriately publish on each copy an appropriate copyright notice;",
+      "\"aggregate\" if the compilation and its resulting copyright are not",
+      "for which you have or can give appropriate copyright permission.",
+      "add to a covered work, you may (if authorized by the copyright holders of",
+      "license from a particular copyright holder is reinstated (a)",
+      "provisionally, unless and until the copyright holder explicitly and",
+      "finally terminates your license, and (b) permanently, if the copyright",
+      "Moreover, your license from a particular copyright holder is",
+      "reinstated permanently if the copyright holder notifies you of the",
+      "copyright holder, and you cure the violation prior to 30 days after",
+      "modify any covered work.  These actions infringe copyright if you do",
+      "A \"contributor\" is a copyright holder who authorizes use under this",
+      "author or copyright holder as a result of your choosing to follow a",
+      "APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT",
+      "WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS",
+      "the \"copyright\" line and a pointer to where the full notice is found.",
+      "Copyright (C) <year>  <name of author>",
+      "if any, to sign a \"copyright disclaimer\" for the program, if necessary."
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/atvrager__Shoumei-RTL/10b3686647f1d76c853c196026cde45709c698b4/LICENSE"
+    ]
+  },
+  {
+    "slug": "ilyasergey/lean-move",
+    "commit": "ca5dbc9a6606bc60f5b57a82b733accbd8241b96",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/ilyasergey/lean-move/ca5dbc9a6606bc60f5b57a82b733accbd8241b96/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/ilyasergey__lean-move/ca5dbc9a6606bc60f5b57a82b733accbd8241b96/LICENSE"
+    ]
+  },
+  {
+    "slug": "mathTensor/AI4Math-Putnam2025",
+    "commit": "35279ef7f469f002aa2cbe90e8b3f7e5a849567b",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/mathTensor/AI4Math-Putnam2025/35279ef7f469f002aa2cbe90e8b3f7e5a849567b/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 MathTensor",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/mathTensor__AI4Math-Putnam2025/35279ef7f469f002aa2cbe90e8b3f7e5a849567b/LICENSE"
+    ]
+  },
+  {
+    "slug": "repowazdogz-droid/omega-lean-proof",
+    "commit": "2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/repowazdogz-droid/omega-lean-proof/2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Warren Smith",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/repowazdogz-droid__omega-lean-proof/2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf/LICENSE"
+    ]
+  },
+  {
+    "slug": "galvusdamor/lean4-planner",
+    "commit": "0c4ed9d804d52420b3a8842d03ab38500ba25861",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/galvusdamor/lean4-planner/0c4ed9d804d52420b3a8842d03ab38500ba25861/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright {yyyy} {name of copyright owner}"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/galvusdamor__lean4-planner/0c4ed9d804d52420b3a8842d03ab38500ba25861/LICENSE"
+    ]
+  },
+  {
+    "slug": "ericmerle3789/collatz-nocycle-lean4",
+    "commit": "4ec239deeea642315fcb431ca0d22a09727911f3",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/ericmerle3789/collatz-nocycle-lean4/4ec239deeea642315fcb431ca0d22a09727911f3/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Eric Merle",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/ericmerle3789__collatz-nocycle-lean4/4ec239deeea642315fcb431ca0d22a09727911f3/LICENSE"
+    ]
+  },
+  {
+    "slug": "mirajcs/IsoperimetricInequality",
+    "commit": "300de78eafd39002343aa507630639f52347d335",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/mirajcs/IsoperimetricInequality/300de78eafd39002343aa507630639f52347d335/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Miraj Samarakkody",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/mirajcs__IsoperimetricInequality/300de78eafd39002343aa507630639f52347d335/LICENSE"
+    ]
+  },
+  {
+    "slug": "ericmerle3789/collatz-conditional-cycles",
+    "commit": "c24633cc8999ec509782125d664b47396cb89593",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "CC BY 4.0",
+    "license_url": "https://raw.githubusercontent.com/ericmerle3789/collatz-conditional-cycles/c24633cc8999ec509782125d664b47396cb89593/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Eric Merle"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/ericmerle3789__collatz-conditional-cycles/c24633cc8999ec509782125d664b47396cb89593/LICENSE"
+    ]
+  },
+  {
+    "slug": "Kuberwastaken/wowii-63-85-counterexample",
+    "commit": "aec1307942b2aaaf248694822def1a4a1289fa47",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/Kuberwastaken/wowii-63-85-counterexample/aec1307942b2aaaf248694822def1a4a1289fa47/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Kuberwastaken__wowii-63-85-counterexample/aec1307942b2aaaf248694822def1a4a1289fa47/LICENSE"
+    ]
+  },
+  {
+    "slug": "RobertoZunino/ITPCourse",
+    "commit": "258f979cc736fc2845e90ac7e0dd78c9b43ed798",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/RobertoZunino/ITPCourse/258f979cc736fc2845e90ac7e0dd78c9b43ed798/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/RobertoZunino__ITPCourse/258f979cc736fc2845e90ac7e0dd78c9b43ed798/LICENSE"
+    ]
+  },
+  {
+    "slug": "katydid/paper-2026-verified-filter-lean",
+    "commit": "742e142a028c4af82e3055a08289195b1f3f1761",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/katydid/paper-2026-verified-filter-lean/742e142a028c4af82e3055a08289195b1f3f1761/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2025 Walter Schulze"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/katydid__paper-2026-verified-filter-lean/742e142a028c4af82e3055a08289195b1f3f1761/LICENSE"
+    ]
+  },
+  {
+    "slug": "VTrelat/BEer",
+    "commit": "d846712bf296520d4f4b39d0e0ae48211a7e4e15",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/VTrelat/BEer/d846712bf296520d4f4b39d0e0ae48211a7e4e15/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/VTrelat__BEer/d846712bf296520d4f4b39d0e0ae48211a7e4e15/LICENSE"
+    ]
+  },
+  {
+    "slug": "tobiasosborne/ProjSeminorm",
+    "commit": "b614563b9e1ceb5e9828646c975d8c57fee9e44a",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/tobiasosborne/ProjSeminorm/b614563b9e1ceb5e9828646c975d8c57fee9e44a/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work.",
+      "submitted to the Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "Copyright 2025 Tobias Osborne"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/tobiasosborne__ProjSeminorm/b614563b9e1ceb5e9828646c975d8c57fee9e44a/LICENSE"
+    ]
+  },
+  {
+    "slug": "manman4/LeanMathAtlas",
+    "commit": "c6ec93594f406562eafe3a4a8d12b5006486ca78",
+    "origins": [
+      "Exp63 qualification: definitive_ineligible",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/manman4/LeanMathAtlas/c6ec93594f406562eafe3a4a8d12b5006486ca78/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 manman4",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/manman4__LeanMathAtlas/c6ec93594f406562eafe3a4a8d12b5006486ca78/LICENSE"
+    ]
+  },
+  {
+    "slug": "Pjotr5/IndependentTransversals",
+    "commit": "205372fe2b4b17ec77ef3f4629c43686223c1028",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/Pjotr5/IndependentTransversals/205372fe2b4b17ec77ef3f4629c43686223c1028/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.",
+      "\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).",
+      "\"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.",
+      "(c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and",
+      "You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.",
+      "To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets \"[]\" replaced with your own identifying information. (Don't include the brackets!)  The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same \"printed page\" as the copyright notice for easier identification within third-party archives."
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Pjotr5__IndependentTransversals/205372fe2b4b17ec77ef3f4629c43686223c1028/LICENSE"
+    ]
+  },
+  {
+    "slug": "scidonia/vericode",
+    "commit": "5ecd4ccc09bb133f7c34a73264d9a2291a99fb22",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/scidonia/vericode/5ecd4ccc09bb133f7c34a73264d9a2291a99fb22/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Scidonia Limited"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/scidonia__vericode/5ecd4ccc09bb133f7c34a73264d9a2291a99fb22/LICENSE"
+    ]
+  },
+  {
+    "slug": "pablo-vs/discrete-game-theory",
+    "commit": "b12b2d88409864306299b03fa0c14b771fe47327",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/pablo-vs/discrete-game-theory/b12b2d88409864306299b03fa0c14b771fe47327/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/pablo-vs__discrete-game-theory/b12b2d88409864306299b03fa0c14b771fe47327/LICENSE"
+    ]
+  },
+  {
+    "slug": "mike1729/goedel-workbook-lean427",
+    "commit": "3c2afe6bfc6bdeca6b78d1f257468164bba56966",
+    "origins": [
+      "Exp63 qualification: definitive_ineligible",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/mike1729/goedel-workbook-lean427/3c2afe6bfc6bdeca6b78d1f257468164bba56966/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/mike1729__goedel-workbook-lean427/3c2afe6bfc6bdeca6b78d1f257468164bba56966/LICENSE"
+    ]
+  },
+  {
+    "slug": "ronut01/erdos1002-lean",
+    "commit": "b7c9e7db433a64de629989c31a344f5220fe360e",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/ronut01/erdos1002-lean/b7c9e7db433a64de629989c31a344f5220fe360e/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/ronut01__erdos1002-lean/b7c9e7db433a64de629989c31a344f5220fe360e/LICENSE"
+    ]
+  },
+  {
+    "slug": "akakabrian/WOW-146",
+    "commit": "18201d492b52a2f82a2966551aed1640c45ec13b",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/akakabrian/WOW-146/18201d492b52a2f82a2966551aed1640c45ec13b/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/akakabrian__WOW-146/18201d492b52a2f82a2966551aed1640c45ec13b/LICENSE"
+    ]
+  },
+  {
+    "slug": "primateria/erdos608",
+    "commit": "b50849234b8de6cb5c642b5cb0479cab2e9e9908",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/primateria/erdos608/b50849234b8de6cb5c642b5cb0479cab2e9e9908/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/primateria__erdos608/b50849234b8de6cb5c642b5cb0479cab2e9e9908/LICENSE"
+    ]
+  },
+  {
+    "slug": "beowulf127/wowii144-lean",
+    "commit": "046429d509b28c90ee2ec38ae27c1ad377c6a5fc",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/beowulf127/wowii144-lean/046429d509b28c90ee2ec38ae27c1ad377c6a5fc/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/beowulf127__wowii144-lean/046429d509b28c90ee2ec38ae27c1ad377c6a5fc/LICENSE"
+    ]
+  },
+  {
+    "slug": "Robertboy18/aint26-lean-solutions",
+    "commit": "feb939008bbd1f0dd2b24fd40ab0e592062d9717",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/Robertboy18/aint26-lean-solutions/feb939008bbd1f0dd2b24fd40ab0e592062d9717/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Robert Joseph",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Robertboy18__aint26-lean-solutions/feb939008bbd1f0dd2b24fd40ab0e592062d9717/LICENSE"
+    ]
+  },
+  {
+    "slug": "mkwatson/unique-sums-notes",
+    "commit": "b982a044dc0806bcecaf111f2d72c24697bd78e9",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/mkwatson/unique-sums-notes/b982a044dc0806bcecaf111f2d72c24697bd78e9/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Mark Watson",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/mkwatson__unique-sums-notes/b982a044dc0806bcecaf111f2d72c24697bd78e9/LICENSE"
+    ]
+  },
+  {
+    "slug": "Shashi456/erdos-formalizations",
+    "commit": "286f856aa3fc08957b80950fd18a45aab8d045ea",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/Shashi456/erdos-formalizations/286f856aa3fc08957b80950fd18a45aab8d045ea/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Shashi456__erdos-formalizations/286f856aa3fc08957b80950fd18a45aab8d045ea/LICENSE"
+    ]
+  },
+  {
+    "slug": "YijunYuan/HarderNarasimhan",
+    "commit": "e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/YijunYuan/HarderNarasimhan/e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright {yyyy} {name of copyright owner}"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/YijunYuan__HarderNarasimhan/e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f/LICENSE"
+    ]
+  },
+  {
+    "slug": "NethermindEth/poseidon2-fv",
+    "commit": "ab3d3c4a567ee9fc99005b1527cca91c6c41edc6",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/NethermindEth/poseidon2-fv/ab3d3c4a567ee9fc99005b1527cca91c6c41edc6/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Demerzel Solutions Ltd (t/a Nethermind)"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/NethermindEth__poseidon2-fv/ab3d3c4a567ee9fc99005b1527cca91c6c41edc6/LICENSE"
+    ]
+  },
+  {
+    "slug": "paolino/keri-lean",
+    "commit": "e54b668e546545db4dfe20b62bb2f21d417b5763",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/paolino/keri-lean/e54b668e546545db4dfe20b62bb2f21d417b5763/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by the copyright",
+      "available under the License, as indicated by a copyright notice that is included",
+      "Work by the copyright owner or by an individual or Legal Entity authorized to",
+      "submit on behalf of the copyright owner. For the purposes of this definition,",
+      "that is conspicuously marked or otherwise designated in writing by the copyright",
+      "2. Grant of Copyright License. Subject to the terms and conditions of this",
+      "non-exclusive, no-charge, royalty-free, irrevocable copyright license to",
+      "distribute, all copyright, patent, trademark, and attribution notices from the",
+      "You may add Your own copyright statement to Your modifications and may provide",
+      "Copyright 2026 Paolo Veronelli"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/paolino__keri-lean/e54b668e546545db4dfe20b62bb2f21d417b5763/LICENSE"
+    ]
+  },
+  {
+    "slug": "LoganEvans/chiral-gauge-dynamics",
+    "commit": "f05834b9272518ab2c885ba9dda4d5e359ab6977",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/LoganEvans/chiral-gauge-dynamics/f05834b9272518ab2c885ba9dda4d5e359ab6977/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright 2026 Logan P. Evans"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/LoganEvans__chiral-gauge-dynamics/f05834b9272518ab2c885ba9dda4d5e359ab6977/LICENSE"
+    ]
+  },
+  {
+    "slug": "grenewode/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/grenewode/LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to the Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "Copyright 2024-2026 LeanServer6 Contributors"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/grenewode__LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE"
+    ]
+  },
+  {
+    "slug": "MaskoMys/Collatz-Binary-Topology",
+    "commit": "a9a5167830f0cd0f2b98a2afd339b46234253fd9",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/MaskoMys/Collatz-Binary-Topology/a9a5167830f0cd0f2b98a2afd339b46234253fd9/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2026 Author Name",
+      "The above copyright notice and this permission notice shall be included in all",
+      "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/MaskoMys__Collatz-Binary-Topology/a9a5167830f0cd0f2b98a2afd339b46234253fd9/LICENSE"
+    ]
+  },
+  {
+    "slug": "Jostamon/erdos274-hs-abelian",
+    "commit": "2ab8a2e39e7dd7836adf577b52555f069244466f",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/Jostamon/erdos274-hs-abelian/2ab8a2e39e7dd7836adf577b52555f069244466f/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Jostamon__erdos274-hs-abelian/2ab8a2e39e7dd7836adf577b52555f069244466f/LICENSE"
+    ]
+  },
+  {
+    "slug": "schmittj/prop51-formal",
+    "commit": "02bd8cc32582f54d36e9a0ff471a44d4d0461017",
+    "origins": [
+      "Exp63 qualification: operationally_unresolved",
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/schmittj/prop51-formal/02bd8cc32582f54d36e9a0ff471a44d4d0461017/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/schmittj__prop51-formal/02bd8cc32582f54d36e9a0ff471a44d4d0461017/LICENSE"
+    ]
+  },
+  {
+    "slug": "KitaKen1/bezier-bernstein-voronovskaja-lean",
+    "commit": "3f35c631d215b3841242275bf3ed2c59ea153a2d",
+    "origins": [
+      "Exp63 qualification: qualified",
+      "Exp63 static metadata",
+      "Exp64 scientific"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/KitaKen1/bezier-bernstein-voronovskaja-lean/3f35c631d215b3841242275bf3ed2c59ea153a2d/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/KitaKen1__bezier-bernstein-voronovskaja-lean/3f35c631d215b3841242275bf3ed2c59ea153a2d/LICENSE"
+    ]
+  },
+  {
+    "slug": "taterowney/DSLean",
+    "commit": "7f819f4e861bccddefb2697d28ec9bf235bbce4f",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE.md"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "jlebar/vir",
+    "commit": "c61e3517a12921395b3c043805844863901a0d60",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "provables/synthetic",
+    "commit": "d041860f3211cd7e21d2ba3207a11a2f8fd48c40",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "acherm/agentic-chessengine-lean-codex",
+    "commit": "071b6c32536de04f0df9a4589557ea50494ca2b7",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "gdncc/Cryptography",
+    "commit": "883139dc0cd152a0f6f219b23aae35cbf6d67223",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "erhant/dnalang",
+    "commit": "e729848590040942d64c4e405bfa01a42f9c485f",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "google-deepmind/formal-imo",
+    "commit": "a85d84b97c8e88a352c136b1e29c355139609bea",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "sdiehl/kitty-cats",
+    "commit": "81d93fa60002e115c6866d93e96490739237c524",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "google-deepmind/miniF2F",
+    "commit": "f0a20e14c1eeccd859d51bb4c2b3ee487889c303",
+    "origins": [
+      "Exp63 static metadata",
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/google-deepmind/miniF2F/f0a20e14c1eeccd859d51bb4c2b3ee487889c303/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/google-deepmind__miniF2F/f0a20e14c1eeccd859d51bb4c2b3ee487889c303/LICENSE"
+    ]
+  },
+  {
+    "slug": "initsecret/lightmode",
+    "commit": "803ad4affc786dec4f85222bdd5103c7ff7cdae0",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "pimotte/verbose-lean4-testrepo",
+    "commit": "cb9ad5b522b1f6b5560c10752231d485a42487f5",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "jkleid/erdos945-equivalence",
+    "commit": "a8ec707e749946646455ecd749afd45169098840",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "kevinsullivan/DMT1F25",
+    "commit": "c3559a0acb2f92732893e02f277a77c285570e7b",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "JoshuaPurtell/lithe",
+    "commit": "67fc8d0ada1fa17430005cb0eb60e86bae853594",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "google-deepmind/formal-putnam-like",
+    "commit": "636c2d46b3a7d7e77a9f58209b0c17816f8d172b",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "MdRahman22/CS6501-Final-Project",
+    "commit": "884eea90efe72ab581f973b459832990e58c89a0",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "kaito2/lean-http",
+    "commit": "56b7523bc2e194843a035cbdb99679628523b320",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "josephmckinsey/lean-uri",
+    "commit": "4d717ff58f42b229ac08815855087344a62ec613",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "beowulf127/wowii322-lean",
+    "commit": "c364a407badee491944eecdde05133fd6b936309",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "Kuberwastaken/conway99-c3-orbit-restriction",
+    "commit": "be7b0ae3394721a4c3a1375008a1dbfca44981fc",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "ClockworksCompute/ccc",
+    "commit": "cf2f0a503c0269d47bc6467e088dd8681570944c",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "heartpunk/formalized-papers",
+    "commit": "565872c49d22c3c4ddcafa12b189e35ea14d6511",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "Qiu233/uri",
+    "commit": "7035449c026bc2e2b3e278b6c67ef5b7b50ef90c",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "demath-ai/formal-statements-lean",
+    "commit": "ba7d54b8e7ee342f203313251fc5ca8cb649769c",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "JWKennington/LoopGroup",
+    "commit": "c777923e0aff88f45c12bfdaf25a001855d85c0e",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "kaito2/lean-pq",
+    "commit": "b6a9ed8db1ed18793f6f81f9349eead988f6cbd2",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "Paraxiom/identity-architecture-lean",
+    "commit": "d2cf92fb6efe4d43923ce162c27a46eae9c145a0",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "ChemistMikeLam/Lean4Gists",
+    "commit": "a316a3c81821c51be27a0e617135565d857200b7",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "MiskinAleksandr23/WOWII-1",
+    "commit": "eda16f6e96b313bd112351ae9859133b77d537c9",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "pandaman64/LeanToDo",
+    "commit": "a6f118af9176fdbe0e2bcc4f073ca982dcbbb172",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "GasStationManager/SafeVerify",
+    "commit": "b291b588a53999a7e837dda61c7dbfe8c550c814",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE.txt"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "josefs/logict-lean",
+    "commit": "207120d4275ebdb4af496a38d06695a28320c1e4",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "artie2000/intro-to-lean",
+    "commit": "cea6f0984aaea0cfc303d954cc2ce266111d9b80",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "OathTech/lean-tcb",
+    "commit": "79d49148076114dcd3a18e11bcb82e00448cee92",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "bergmannjg/leanCurl",
+    "commit": "d725fede14f67acc746c18eaec962f6461dee5cb",
+    "origins": [
+      "Exp63 static metadata"
+    ],
+    "license_paths": [
+      "LICENSE.md"
+    ],
+    "historical_license": null,
+    "license_identification": "未在本轮抓取（仅静态元数据）",
+    "license_url": "",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": []
+  },
+  {
+    "slug": "trishullab/PutnamBench",
+    "commit": "34eba93650f2fa803ca6aae6dfd2c9f22d46c00d",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0（已核对 lean4/LICENSE）",
+    "license_url": "https://raw.githubusercontent.com/trishullab/PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/lean4/LICENSE",
+    "audit_correction": "历史清单根目录 LICENSE URL 错误；不是无许可证。",
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/trishullab__PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/lean4/LICENSE"
+    ]
+  },
+  {
+    "slug": "AfonsoBitoque/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/AfonsoBitoque/LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to the Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "Copyright 2024-2026 LeanServer6 Contributors"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/AfonsoBitoque__LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE"
+    ]
+  },
+  {
+    "slug": "AmosNico/validator",
+    "commit": "97e2990e74972b8d9f0769be6903cdff4b12cec6",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/AmosNico/validator/97e2990e74972b8d9f0769be6903cdff4b12cec6/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/AmosNico__validator/97e2990e74972b8d9f0769be6903cdff4b12cec6/LICENSE"
+    ]
+  },
+  {
+    "slug": "bergmannjg/Regex",
+    "commit": "1dc9404d9533e6888d30f1ec1807664f3620bbf4",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "MIT",
+    "license_identification": "MIT",
+    "license_url": "https://raw.githubusercontent.com/bergmannjg/Regex/1dc9404d9533e6888d30f1ec1807664f3620bbf4/LICENSE",
+    "copyright_lines": [
+      "Copyright (c) 2024 Jürgen Bergmann",
+      "The above copyright notice and this permission notice",
+      "SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/bergmannjg__Regex/1dc9404d9533e6888d30f1ec1807664f3620bbf4/LICENSE"
+    ]
+  },
+  {
+    "slug": "dissensus-ai/lean-formalizations",
+    "commit": "b25f4583f497a0473dc43a36f04dd6dedc0b6fd6",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "CC-BY-4.0",
+    "license_identification": "CC BY 4.0",
+    "license_url": "https://raw.githubusercontent.com/dissensus-ai/lean-formalizations/b25f4583f497a0473dc43a36f04dd6dedc0b6fd6/LICENSE",
+    "copyright_lines": [
+      "original works of authorship and other material subject to copyright",
+      "copyright and certain other rights. Our licenses are",
+      "limitation to copyright. More considerations for licensors:",
+      "copyright--then that use is not regulated by the license. Our",
+      "licenses grant only permissions under copyright and certain",
+      "reasons, including because others have copyright or other",
+      "a. Adapted Material means material subject to Copyright and Similar",
+      "permission under the Copyright and Similar Rights held by the",
+      "b. Adapter's License means the license You apply to Your Copyright",
+      "c. Copyright and Similar Rights means copyright and/or similar rights",
+      "closely related to copyright including, without limitation,",
+      "specified in Section 2(b)(1)-(2) are not Copyright and Similar",
+      "fulfilling obligations under Article 11 of the WIPO Copyright",
+      "any other exception or limitation to Copyright and Similar Rights",
+      "all Copyright and Similar Rights that apply to Your use of the",
+      "j. Sui Generis Database Rights means rights other than copyright",
+      "ii. a copyright notice;",
+      "Rights include other Copyright and Similar Rights.",
+      "a. This Public License applies for the term of the Copyright and"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/dissensus-ai__lean-formalizations/b25f4583f497a0473dc43a36f04dd6dedc0b6fd6/LICENSE"
+    ]
+  },
+  {
+    "slug": "fpvandoorn/carleson",
+    "commit": "0ddd15b3b35b21a6ae175011f02fda5d1a0abd69",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/fpvandoorn/carleson/0ddd15b3b35b21a6ae175011f02fda5d1a0abd69/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/fpvandoorn__carleson/0ddd15b3b35b21a6ae175011f02fda5d1a0abd69/LICENSE"
+    ]
+  },
+  {
+    "slug": "ImperialCollegeLondon/FLT",
+    "commit": "1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/ImperialCollegeLondon/FLT/1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/ImperialCollegeLondon__FLT/1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966/LICENSE"
+    ]
+  },
+  {
+    "slug": "leanprover-community/batteries",
+    "commit": "b25b36a7caf8e237e7d1e6121543078a06777c8a",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/leanprover-community/batteries/b25b36a7caf8e237e7d1e6121543078a06777c8a/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__batteries/b25b36a7caf8e237e7d1e6121543078a06777c8a/LICENSE"
+    ]
+  },
+  {
+    "slug": "leanprover-community/lean-auto",
+    "commit": "7e8f3ab431d4790bd803e467d661b1be2522bfd3",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/leanprover-community/lean-auto/7e8f3ab431d4790bd803e467d661b1be2522bfd3/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__lean-auto/7e8f3ab431d4790bd803e467d661b1be2522bfd3/LICENSE"
+    ]
+  },
+  {
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "commit": "ffc076a15ac2da4f165746160677ec6b4f8b98cf",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "GPL-2.0-only",
+    "license_identification": "GPL v2 文本；only/or-later 须结合源文件",
+    "license_url": "https://raw.githubusercontent.com/MichaelStollBayreuth/LegendreQF/ffc076a15ac2da4f165746160677ec6b4f8b98cf/LICENSE",
+    "copyright_lines": [
+      "Copyright (C) 1989, 1991 Free Software Foundation, Inc.,",
+      "We protect your rights with two steps: (1) copyright the software, and",
+      "a notice placed by the copyright holder saying it may be distributed",
+      "means either the Program or any derivative work under copyright law:",
+      "copyright notice and disclaimer of warranty; keep intact all the",
+      "announcement including an appropriate copyright notice and a",
+      "certain countries either by patents or by copyrighted interfaces, the",
+      "original copyright holder who places the Program under this License",
+      "to ask for permission.  For software which is copyrighted by the Free",
+      "OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES",
+      "WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR",
+      "the \"copyright\" line and a pointer to where the full notice is found.",
+      "Copyright (C) <year>  <name of author>",
+      "Gnomovision version 69, Copyright (C) year name of author",
+      "school, if any, to sign a \"copyright disclaimer\" for the program, if",
+      "Yoyodyne, Inc., hereby disclaims all copyright interest in the program"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/MichaelStollBayreuth__LegendreQF/ffc076a15ac2da4f165746160677ec6b4f8b98cf/LICENSE"
+    ]
+  },
+  {
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "commit": "7dc816910638406f4232d23977bbcc59a335393c",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/PatrickMassot/GlimpseOfLean/7dc816910638406f4232d23977bbcc59a335393c/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/PatrickMassot__GlimpseOfLean/7dc816910638406f4232d23977bbcc59a335393c/LICENSE"
+    ]
+  },
+  {
+    "slug": "RemyDegenne/brownian-motion",
+    "commit": "f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/RemyDegenne/brownian-motion/f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/RemyDegenne__brownian-motion/f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d/LICENSE"
+    ]
+  },
+  {
+    "slug": "spectra-research/asymptotic-tensor-rank-semicontinuity",
+    "commit": "f3a83b4e862c84ab718163d063093ad64644c9ef",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/spectra-research/asymptotic-tensor-rank-semicontinuity/f3a83b4e862c84ab718163d063093ad64644c9ef/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "Copyright 2026 Jeroen Zuiddam"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/spectra-research__asymptotic-tensor-rank-semicontinuity/f3a83b4e862c84ab718163d063093ad64644c9ef/LICENSE"
+    ]
+  },
+  {
+    "slug": "thefundamentaltheor3m/Sphere-Packing-Lean",
+    "commit": "4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/thefundamentaltheor3m/Sphere-Packing-Lean/4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/thefundamentaltheor3m__Sphere-Packing-Lean/4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7/LICENSE"
+    ]
+  },
+  {
+    "slug": "Verified-zkEVM/VCVio",
+    "commit": "0dbb0a202445c14219f505d20eb523012f78a31c",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/Verified-zkEVM/VCVio/0dbb0a202445c14219f505d20eb523012f78a31c/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright {yyyy} {name of copyright owner}"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/Verified-zkEVM__VCVio/0dbb0a202445c14219f505d20eb523012f78a31c/LICENSE"
+    ]
+  },
+  {
+    "slug": "verse-lab/Lentil",
+    "commit": "7f83b7493c3aa839d1aeeeeacc5b3711116c2856",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/verse-lab/Lentil/7f83b7493c3aa839d1aeeeeacc5b3711116c2856/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/verse-lab__Lentil/7f83b7493c3aa839d1aeeeeacc5b3711116c2856/LICENSE"
+    ]
+  },
+  {
+    "slug": "YaelDillies/misc-yd",
+    "commit": "10837040a49ab7580877d652dea7c172f69adbbf",
+    "origins": [
+      "historical_audit"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": "Apache-2.0",
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/YaelDillies/misc-yd/10837040a49ab7580877d652dea7c172f69adbbf/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/YaelDillies__misc-yd/10837040a49ab7580877d652dea7c172f69adbbf/LICENSE"
+    ]
+  },
+  {
+    "slug": "leanprover-community/mathlib4",
+    "commit": "29dcec074de168ac2bf835a77ef68bbe069194c5",
+    "origins": [
+      "Exp62 benchmark"
+    ],
+    "license_paths": [
+      "LICENSE"
+    ],
+    "historical_license": null,
+    "license_identification": "Apache-2.0",
+    "license_url": "https://raw.githubusercontent.com/leanprover-community/mathlib4/29dcec074de168ac2bf835a77ef68bbe069194c5/LICENSE",
+    "copyright_lines": [
+      "\"Licensor\" shall mean the copyright owner or entity authorized by",
+      "the copyright owner that is granting the License.",
+      "copyright notice that is included in or attached to the work",
+      "submitted to Licensor for inclusion in the Work by the copyright owner",
+      "the copyright owner. For the purposes of this definition, \"submitted\"",
+      "designated in writing by the copyright owner as \"Not a Contribution.\"",
+      "2. Grant of Copyright License. Subject to the terms and conditions of",
+      "copyright license to reproduce, prepare Derivative Works of,",
+      "that You distribute, all copyright, patent, trademark, and",
+      "You may add Your own copyright statement to Your modifications and",
+      "same \"printed page\" as the copyright notice for easier",
+      "Copyright {yyyy} {name of copyright owner}"
+    ],
+    "upstream_root_NOTICE_observed": false,
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification.",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__mathlib4/29dcec074de168ac2bf835a77ef68bbe069194c5/LICENSE"
+    ]
+  },
+  {
+    "slug": "teorth/pfr",
+    "commit": "e7278b10821f3b0fef1ed500f6666ef414931dbb",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/teorth__pfr/e7278b10821f3b0fef1ed500f6666ef414931dbb/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "leanprover-community/physlib",
+    "commit": "08d3f3388230601397afab0b3a2ce4e64cc1eaae",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__physlib/08d3f3388230601397afab0b3a2ce4e64cc1eaae/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "leanprover-community/sphere-eversion",
+    "commit": "5ebc398fb50f29879811ad29f54ed47d4116bfe8",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__sphere-eversion/5ebc398fb50f29879811ad29f54ed47d4116bfe8/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "leanprover-community/flt-regular",
+    "commit": "4e2d2985158da1db38a220229a1fe8ea47dd2555",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__flt-regular/4e2d2985158da1db38a220229a1fe8ea47dd2555/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "james18lpc/GibbsMeasure",
+    "commit": "ac72864b90fbf034b8cff207cc3b1d8564c4c582",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/james18lpc__GibbsMeasure/ac72864b90fbf034b8cff207cc3b1d8564c4c582/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "kbuzzard/ClassFieldTheory",
+    "commit": "7af4d9fe773ce82d84fe2c3230f2d4f89c50922b",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/kbuzzard__ClassFieldTheory/7af4d9fe773ce82d84fe2c3230f2d4f89c50922b/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "Paul-Lez/PersistentDecomp",
+    "commit": "ca97f19a836af9f83b0728a29268bc24eea75c33",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/Paul-Lez__PersistentDecomp/ca97f19a836af9f83b0728a29268bc24eea75c33/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "lean-dojo/LeanDojo",
+    "commit": "3bbc4c02fb8a058b282c8d3982a02d6563f3b08a",
+    "origins": [
+      "LeanDojo 4.20.0 adapter fragments; MIT"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/lean-dojo__LeanDojo/3bbc4c02fb8a058b282c8d3982a02d6563f3b08a/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  },
+  {
+    "slug": "leanprover-community/batteries",
+    "commit": "bba0af6e930ebcbabfacf021b21dd881d58aaa9d",
+    "origins": [
+      "Exp62 benchmark dependency; Apache-2.0"
+    ],
+    "license_identification": "See archived upstream text",
+    "included_license_and_notice_paths": [
+      "licenses/leanprover-community__batteries/bba0af6e930ebcbabfacf021b21dd881d58aaa9d/LICENSE"
+    ],
+    "clearance": "Source/version/notice inventory only; not a legal clearance certification."
+  }
+]

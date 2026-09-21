@@ -1,11 +1,11 @@
 # Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4
 
-Local release candidate accompanying manuscript v1.22. No public DOI or tag has
-yet been verified. Read `RELEASE_STATUS.md` before publishing.
+Reproducibility package accompanying manuscript v1.22. Dataset DOI (reserved):
+https://doi.org/10.5281/zenodo.22110052. See RELEASE_STATUS.md for publication status.
 
 ## Results and data
 
-Data DOI: [ZENODO_DOI]. Code repository: [GITHUB_URL].
+Data DOI: https://doi.org/10.5281/zenodo.22110052. Code repository: https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4.
 The Zenodo dataset contains eleven immutable evidence archives and a matching
 source snapshot. Original execution archives are not rewritten. The additional
 `paper_v1.21` correction layer is required for the final external-study values:
@@ -56,3 +56,11 @@ Full execution has not been rerun for this packaging task.
 See `LICENSE_STATUS.md`. No blanket third-party relicensing is intended.
 Author metadata is in `CITATION.cff`; DOI and public release URL remain pending.
 Technical archive labels are provenance identifiers, not additional experiments.
+
+## Licence supplement 1.22.1
+
+Read THIRD_PARTY_NOTICES.md. Fixed-commit licences, upstream NOTICE files and source-file attribution now accompany the unchanged experiment archives. This supplement changes packaging, not the manuscript or experimental results.
+
+## Original software licence, version 1.22.2
+
+Copyright 2026 Zhixuan Ma (马梽轩) and Zhengwei Shen (沈政伟). Original software contributions are licensed under Apache-2.0; see LICENSE and SOFTWARE_LICENSE_SCOPE.md. Third-party content retains upstream terms; original data organization and documentation remain CC BY 4.0.

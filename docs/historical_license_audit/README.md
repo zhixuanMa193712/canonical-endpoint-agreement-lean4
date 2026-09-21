@@ -1,0 +1,1 @@
+Historical CSV assertions are preserved for provenance, not endorsed as present legal clearance. The current notice inventory is ../../third_party/THIRD_PARTY_NOTICES.md. The historical PutnamBench root LICENSE link is superseded by lean4/LICENSE at the same commit.

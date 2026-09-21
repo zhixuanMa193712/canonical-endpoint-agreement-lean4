@@ -1,15 +1,13 @@
-# Release status — local candidate, not yet public
+# Release status
 
-Local packaging checks do not constitute public-download verification.
-Before publishing:
-1. Confirm authors, affiliation, ORCID, author consent, and public-release authority.
-2. Confirm the licence for original software and documentation/data. Earlier drafts
-   proposed Apache-2.0 and CC BY 4.0; the current manuscript leaves this pending.
-3. Review third-party redistribution for all datasets, especially new Exp63/64
-   sources. A root LICENSE file passing recruitment is not a full rights audit.
-4. Assign the GitHub URL and reserve the Zenodo version DOI; update citation metadata.
-5. Replace manuscript placeholders and regenerate submission PDFs separately.
-6. Refresh manifests and the matching source snapshot after any release edits.
-7. Publish, independently download, verify checksums, and rerun offline analysis.
+Packaging version 1.22.2, accompanying manuscript v1.22. Prepared 2026-09-21.
+This is a third-party licence/attribution supplement to packaging 1.22.0.
+Scientific results and eleven original experiment ZIPs are unchanged.
+Previously reserved record DOI: https://doi.org/10.5281/zenodo.22110052 .
+Whether that record is now published has not been verified. If Zenodo creates a new
+version-specific DOI, update citation metadata before publication; do not assume this
+old identifier denotes a newly created version. No new DOI is invented. Apache-2.0 has been added for the named authors' original software at the user's express request.
+GitHub source: https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4
+No upload, Git push, public-download validation or release-tag creation was performed.
 
-No experiment is pending for this packaging request. Legal/metadata review remains.
+The software grant is recorded in LICENSE and SOFTWARE_LICENSE_SCOPE.md. No original experiment archive or software body was changed.

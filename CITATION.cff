@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the versioned dataset and this source release."
 title: "Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: reproducibility code"
 type: software
-version: "1.22.0"
+version: "1.22.2"
 authors:
   - family-names: Ma
     given-names: Zhixuan
@@ -12,3 +12,9 @@ authors:
     given-names: Zhengwei
     affiliation: University of Science and Technology Beijing
 # Add repository-code and the confirmed identifier only after assignment.
+
+repository-code: "https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4"
+# Related dataset DOI (not a separately assigned software DOI): 10.5281/zenodo.22110052
+
+# Applies to original software contributions only; see SOFTWARE_LICENSE_SCOPE.md.
+license: Apache-2.0

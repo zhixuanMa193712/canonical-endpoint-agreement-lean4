@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "teorth/pfr",
+    "commit": "e7278b10821f3b0fef1ed500f6666ef414931dbb",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/teorth/pfr/e7278b10821f3b0fef1ed500f6666ef414931dbb/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "slug": "teorth/pfr",
+    "commit": "e7278b10821f3b0fef1ed500f6666ef414931dbb",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "leanprover-community/physlib",
+    "commit": "08d3f3388230601397afab0b3a2ce4e64cc1eaae",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/leanprover-community/physlib/08d3f3388230601397afab0b3a2ce4e64cc1eaae/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "slug": "leanprover-community/physlib",
+    "commit": "08d3f3388230601397afab0b3a2ce4e64cc1eaae",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "leanprover-community/sphere-eversion",
+    "commit": "5ebc398fb50f29879811ad29f54ed47d4116bfe8",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/leanprover-community/sphere-eversion/5ebc398fb50f29879811ad29f54ed47d4116bfe8/LICENSE",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "status": "downloaded"
+  },
+  {
+    "slug": "leanprover-community/sphere-eversion",
+    "commit": "5ebc398fb50f29879811ad29f54ed47d4116bfe8",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "leanprover-community/flt-regular",
+    "commit": "4e2d2985158da1db38a220229a1fe8ea47dd2555",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/leanprover-community/flt-regular/4e2d2985158da1db38a220229a1fe8ea47dd2555/LICENSE",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "status": "downloaded"
+  },
+  {
+    "slug": "leanprover-community/flt-regular",
+    "commit": "4e2d2985158da1db38a220229a1fe8ea47dd2555",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "james18lpc/GibbsMeasure",
+    "commit": "ac72864b90fbf034b8cff207cc3b1d8564c4c582",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/james18lpc/GibbsMeasure/ac72864b90fbf034b8cff207cc3b1d8564c4c582/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "slug": "james18lpc/GibbsMeasure",
+    "commit": "ac72864b90fbf034b8cff207cc3b1d8564c4c582",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "kbuzzard/ClassFieldTheory",
+    "commit": "7af4d9fe773ce82d84fe2c3230f2d4f89c50922b",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/kbuzzard/ClassFieldTheory/7af4d9fe773ce82d84fe2c3230f2d4f89c50922b/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "slug": "kbuzzard/ClassFieldTheory",
+    "commit": "7af4d9fe773ce82d84fe2c3230f2d4f89c50922b",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Paul-Lez/PersistentDecomp",
+    "commit": "ca97f19a836af9f83b0728a29268bc24eea75c33",
+    "path": "LICENSE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "url": "https://raw.githubusercontent.com/Paul-Lez/PersistentDecomp/ca97f19a836af9f83b0728a29268bc24eea75c33/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "slug": "Paul-Lez/PersistentDecomp",
+    "commit": "ca97f19a836af9f83b0728a29268bc24eea75c33",
+    "path": "NOTICE",
+    "origins": [
+      "Exp48 source/config"
+    ],
+    "expected_sha256": null,
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

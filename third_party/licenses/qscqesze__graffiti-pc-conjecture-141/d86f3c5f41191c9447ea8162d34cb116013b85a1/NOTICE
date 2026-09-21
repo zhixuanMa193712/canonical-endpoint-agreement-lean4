@@ -1,0 +1,18 @@
+Graffiti.pc Conjecture 141 proof and formalization
+Copyright 2026 Jun Qing
+
+This product includes definitions and generic induced-tree lemmas adapted from
+the Formal Conjectures project and pull request #4454:
+
+  https://github.com/google-deepmind/formal-conjectures
+  https://github.com/google-deepmind/formal-conjectures/pull/4454
+
+Those portions are Copyright 2025 The Formal Conjectures Authors and are used
+under the Apache License, Version 2.0. In particular, the definitions
+`largestInducedTreeSize` and `indepNeighborsCard`, and the generic infrastructure
+for attaching a uniquely adjacent leaf, shortest-path induced trees, and
+induced stars, were adapted from that work.
+
+The breadth-first spanning-tree construction, the root-distance/girth lemma,
+the induced-star plus geodesic extension, and the final Conjecture 141 proof in
+this repository implement Jun Qing's written argument.

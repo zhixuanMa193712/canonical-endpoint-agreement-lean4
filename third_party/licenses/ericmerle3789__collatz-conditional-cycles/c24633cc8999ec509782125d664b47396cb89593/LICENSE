@@ -1,0 +1,29 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Eric Merle
+
+This work — comprising both the paper sources (Markdown, BibTeX, build
+configuration, compiled PDF) and the Lean 4 formalization in
+`ProjetCollatz/` together with the verification scripts and probes — is
+licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0). You are free to share and adapt the material for
+any purpose, even commercially, under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to
+  the license, and indicate if changes were made. You may do so in
+  any reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+  No additional restrictions — You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the license permits.
+
+Notices:
+
+  No warranties are given. The license may not give you all of the
+  permissions necessary for your intended use. For example, other
+  rights such as publicity, privacy, or moral rights may limit how
+  you use the material.
+
+The full text of the license is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode

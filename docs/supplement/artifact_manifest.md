@@ -24,9 +24,9 @@ The confirmation audit verifies 220 manifest-listed payloads and reconstructs 19
 
 ## Deposition fields
 
-- Public artifact repository: `PENDING_PUBLIC_RELEASE_BEFORE_SUBMISSION`
-- Persistent DOI/accession: `PENDING_ZENODO_PUBLICATION_BEFORE_SUBMISSION`
-- Artifact license: `PENDING_AUTHOR_CONFIRMATION_BEFORE_SUBMISSION`
+- Public artifact repository: `https://doi.org/10.5281/zenodo.22110052 (reserved; publication not yet verified)`
+- Persistent DOI/accession: `10.5281/zenodo.22110052`
+- Artifact license: `CC BY 4.0 for original data organization and documentation; upstream terms for third-party content; see LICENSE_STATUS.md`
 - Third-party source and license notice: prepared in the release audit; final author confirmation pending
 - Embargo or access restriction: none planned; final author confirmation pending
 

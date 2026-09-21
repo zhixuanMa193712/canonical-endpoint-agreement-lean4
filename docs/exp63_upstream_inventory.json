@@ -5,7 +5,7 @@
     "url": "https://github.com/qscqesze/graffiti-pc-conjecture-141.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "Paraxiom/scheming-proofs",
@@ -13,7 +13,7 @@
     "url": "https://github.com/Paraxiom/scheming-proofs.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "AIDoctrine/CollatzLayerA",
@@ -21,7 +21,7 @@
     "url": "https://github.com/AIDoctrine/CollatzLayerA.git",
     "classification": "definitive_ineligible",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "taeyool/lean-flag-algebras-release",
@@ -29,7 +29,7 @@
     "url": "https://github.com/taeyool/lean-flag-algebras-release.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "MechMath/MechGeoBench",
@@ -37,7 +37,7 @@
     "url": "https://github.com/MechMath/MechGeoBench.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "alexoltean61/msphml-lean",
@@ -45,7 +45,7 @@
     "url": "https://github.com/alexoltean61/msphml-lean.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "korbexmachina/GlimpseOfLean",
@@ -53,7 +53,7 @@
     "url": "https://github.com/korbexmachina/GlimpseOfLean.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "google-deepmind/alphaproof-nexus-results",
@@ -61,7 +61,7 @@
     "url": "https://github.com/google-deepmind/alphaproof-nexus-results.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "abcrtzyn/sudoku_prover",
@@ -69,7 +69,7 @@
     "url": "https://github.com/abcrtzyn/sudoku_prover.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "fc0web/lean-d-fumt8",
@@ -77,7 +77,7 @@
     "url": "https://github.com/fc0web/lean-d-fumt8.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "GasStationManager/ArtificialAlgorithms",
@@ -85,7 +85,7 @@
     "url": "https://github.com/GasStationManager/ArtificialAlgorithms.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "tamura70/lean_study",
@@ -93,7 +93,7 @@
     "url": "https://github.com/tamura70/lean_study.git",
     "classification": "definitive_ineligible",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "rupakm/leslie",
@@ -101,7 +101,7 @@
     "url": "https://github.com/rupakm/leslie.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "galvusdamor/lean4-search-algorithms",
@@ -109,7 +109,7 @@
     "url": "https://github.com/galvusdamor/lean4-search-algorithms.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "danuaemx/lean-257-2",
@@ -117,7 +117,7 @@
     "url": "https://github.com/danuaemx/lean-257-2.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "TPColor/bastien-khormali-conjecture",
@@ -125,7 +125,7 @@
     "url": "https://github.com/TPColor/bastien-khormali-conjecture.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "AxiomMath/erdos-public",
@@ -133,7 +133,7 @@
     "url": "https://github.com/AxiomMath/erdos-public.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "LoganEvans/litlib4",
@@ -141,7 +141,7 @@
     "url": "https://github.com/LoganEvans/litlib4.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "atvrager/Shoumei-RTL",
@@ -149,7 +149,7 @@
     "url": "https://github.com/atvrager/Shoumei-RTL.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "ilyasergey/lean-move",
@@ -157,7 +157,7 @@
     "url": "https://github.com/ilyasergey/lean-move.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "mathTensor/AI4Math-Putnam2025",
@@ -165,7 +165,7 @@
     "url": "https://github.com/mathTensor/AI4Math-Putnam2025.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "repowazdogz-droid/omega-lean-proof",
@@ -173,7 +173,7 @@
     "url": "https://github.com/repowazdogz-droid/omega-lean-proof.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "galvusdamor/lean4-planner",
@@ -181,7 +181,7 @@
     "url": "https://github.com/galvusdamor/lean4-planner.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "ericmerle3789/collatz-nocycle-lean4",
@@ -189,7 +189,7 @@
     "url": "https://github.com/ericmerle3789/collatz-nocycle-lean4.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "mirajcs/IsoperimetricInequality",
@@ -197,7 +197,7 @@
     "url": "https://github.com/mirajcs/IsoperimetricInequality.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "ericmerle3789/collatz-conditional-cycles",
@@ -205,7 +205,7 @@
     "url": "https://github.com/ericmerle3789/collatz-conditional-cycles.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "Kuberwastaken/wowii-63-85-counterexample",
@@ -213,7 +213,7 @@
     "url": "https://github.com/Kuberwastaken/wowii-63-85-counterexample.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "RobertoZunino/ITPCourse",
@@ -221,7 +221,7 @@
     "url": "https://github.com/RobertoZunino/ITPCourse.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "katydid/paper-2026-verified-filter-lean",
@@ -229,7 +229,7 @@
     "url": "https://github.com/katydid/paper-2026-verified-filter-lean.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "VTrelat/BEer",
@@ -237,7 +237,7 @@
     "url": "https://github.com/VTrelat/BEer.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "tobiasosborne/ProjSeminorm",
@@ -245,7 +245,7 @@
     "url": "https://github.com/tobiasosborne/ProjSeminorm.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "manman4/LeanMathAtlas",
@@ -253,7 +253,7 @@
     "url": "https://github.com/manman4/LeanMathAtlas.git",
     "classification": "definitive_ineligible",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "Pjotr5/IndependentTransversals",
@@ -261,7 +261,7 @@
     "url": "https://github.com/Pjotr5/IndependentTransversals.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "scidonia/vericode",
@@ -269,7 +269,7 @@
     "url": "https://github.com/scidonia/vericode.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "pablo-vs/discrete-game-theory",
@@ -277,7 +277,7 @@
     "url": "https://github.com/pablo-vs/discrete-game-theory.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "mike1729/goedel-workbook-lean427",
@@ -285,7 +285,7 @@
     "url": "https://github.com/mike1729/goedel-workbook-lean427.git",
     "classification": "definitive_ineligible",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "ronut01/erdos1002-lean",
@@ -293,7 +293,7 @@
     "url": "https://github.com/ronut01/erdos1002-lean.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "akakabrian/WOW-146",
@@ -301,7 +301,7 @@
     "url": "https://github.com/akakabrian/WOW-146.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "primateria/erdos608",
@@ -309,7 +309,7 @@
     "url": "https://github.com/primateria/erdos608.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "beowulf127/wowii144-lean",
@@ -317,7 +317,7 @@
     "url": "https://github.com/beowulf127/wowii144-lean.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "Robertboy18/aint26-lean-solutions",
@@ -325,7 +325,7 @@
     "url": "https://github.com/Robertboy18/aint26-lean-solutions.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "mkwatson/unique-sums-notes",
@@ -333,7 +333,7 @@
     "url": "https://github.com/mkwatson/unique-sums-notes.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "Shashi456/erdos-formalizations",
@@ -341,7 +341,7 @@
     "url": "https://github.com/Shashi456/erdos-formalizations.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "YijunYuan/HarderNarasimhan",
@@ -349,7 +349,7 @@
     "url": "https://github.com/YijunYuan/HarderNarasimhan.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "NethermindEth/poseidon2-fv",
@@ -357,7 +357,7 @@
     "url": "https://github.com/NethermindEth/poseidon2-fv.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "paolino/keri-lean",
@@ -365,7 +365,7 @@
     "url": "https://github.com/paolino/keri-lean.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "LoganEvans/chiral-gauge-dynamics",
@@ -373,7 +373,7 @@
     "url": "https://github.com/LoganEvans/chiral-gauge-dynamics.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "grenewode/LeanServer",
@@ -381,7 +381,7 @@
     "url": "https://github.com/grenewode/LeanServer.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "MaskoMys/Collatz-Binary-Topology",
@@ -389,7 +389,7 @@
     "url": "https://github.com/MaskoMys/Collatz-Binary-Topology.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "Jostamon/erdos274-hs-abelian",
@@ -397,7 +397,7 @@
     "url": "https://github.com/Jostamon/erdos274-hs-abelian.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "schmittj/prop51-formal",
@@ -405,7 +405,7 @@
     "url": "https://github.com/schmittj/prop51-formal.git",
     "classification": "operationally_unresolved",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   },
   {
     "slug": "KitaKen1/bezier-bernstein-voronovskaja-lean",
@@ -413,6 +413,6 @@
     "url": "https://github.com/KitaKen1/bezier-bernstein-voronovskaja-lean.git",
     "classification": "qualified",
     "root_license_observed": true,
-    "permission_review": "PENDING: presence is not a redistribution licence"
+    "permission_review": "Fixed-commit root licence archived in third_party/licenses; this is not legal clearance. See third_party/THIRD_PARTY_NOTICES.md."
   }
 ]

@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "qscqesze/graffiti-pc-conjecture-141",
+    "commit": "d86f3c5f41191c9447ea8162d34cb116013b85a1",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/qscqesze/graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/LICENSE",
+    "status": "downloaded",
+    "sha256": "0eddf14e23130283991e0b1638d5f1b9918780e980eeb4ea7516f5a3743d3579",
+    "bytes": 11338,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "qscqesze/graffiti-pc-conjecture-141",
+    "commit": "d86f3c5f41191c9447ea8162d34cb116013b85a1",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/qscqesze/graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/NOTICE",
+    "status": "downloaded",
+    "sha256": "6c73a43d11bfb79d9177ed34829302e12ec09e96a764b398e0a075d0f50c5fed",
+    "bytes": 894,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Paraxiom/scheming-proofs",
+    "commit": "02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Paraxiom/scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/LICENSE",
+    "status": "downloaded",
+    "sha256": "0625716222b1ddbacfc102427bc8a0c158eca8b3230e99093f76e1a7db8d9503",
+    "bytes": 11298,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Paraxiom/scheming-proofs",
+    "commit": "02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Paraxiom/scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/NOTICE",
+    "status": "downloaded",
+    "sha256": "3eec9657b43417ec68e69c9400955250f58c25a7ea8691b3714fa9a619216441",
+    "bytes": 337,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "AIDoctrine/CollatzLayerA",
+    "commit": "5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/AIDoctrine/CollatzLayerA/5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "AIDoctrine/CollatzLayerA",
+    "commit": "5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/AIDoctrine/CollatzLayerA/5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "taeyool/lean-flag-algebras-release",
+    "commit": "06423a2e6c6f8d9435a8956e2b7409e210154b8c",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/taeyool/lean-flag-algebras-release/06423a2e6c6f8d9435a8956e2b7409e210154b8c/LICENSE",
+    "status": "downloaded",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "taeyool/lean-flag-algebras-release",
+    "commit": "06423a2e6c6f8d9435a8956e2b7409e210154b8c",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/taeyool/lean-flag-algebras-release/06423a2e6c6f8d9435a8956e2b7409e210154b8c/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "MechMath/MechGeoBench",
+    "commit": "ef1ef410ee2bc9844108f71d23e0a5aebecd6488",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/MechMath/MechGeoBench/ef1ef410ee2bc9844108f71d23e0a5aebecd6488/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "MechMath/MechGeoBench",
+    "commit": "ef1ef410ee2bc9844108f71d23e0a5aebecd6488",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/MechMath/MechGeoBench/ef1ef410ee2bc9844108f71d23e0a5aebecd6488/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "alexoltean61/msphml-lean",
+    "commit": "9d6559db6502bc9813dcf028d7ea26ae80e9dc93",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/alexoltean61/msphml-lean/9d6559db6502bc9813dcf028d7ea26ae80e9dc93/LICENSE",
+    "status": "downloaded",
+    "sha256": "26e0d1929275b46d985c28ec5b4885f4e6fc207d0ad9277773d58c4c13df3bba",
+    "bytes": 1055,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "alexoltean61/msphml-lean",
+    "commit": "9d6559db6502bc9813dcf028d7ea26ae80e9dc93",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/alexoltean61/msphml-lean/9d6559db6502bc9813dcf028d7ea26ae80e9dc93/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "korbexmachina/GlimpseOfLean",
+    "commit": "7d99667f124922bc047dc0bbb2ca6cf63edd90f8",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/korbexmachina/GlimpseOfLean/7d99667f124922bc047dc0bbb2ca6cf63edd90f8/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "korbexmachina/GlimpseOfLean",
+    "commit": "7d99667f124922bc047dc0bbb2ca6cf63edd90f8",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/korbexmachina/GlimpseOfLean/7d99667f124922bc047dc0bbb2ca6cf63edd90f8/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "google-deepmind/alphaproof-nexus-results",
+    "commit": "0647711a71183c1ea492ad60860776617ce1ea88",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/google-deepmind/alphaproof-nexus-results/0647711a71183c1ea492ad60860776617ce1ea88/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "google-deepmind/alphaproof-nexus-results",
+    "commit": "0647711a71183c1ea492ad60860776617ce1ea88",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/google-deepmind/alphaproof-nexus-results/0647711a71183c1ea492ad60860776617ce1ea88/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "abcrtzyn/sudoku_prover",
+    "commit": "38bd5d3321af47bac8a0774e8dbd44d368cb9193",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/abcrtzyn/sudoku_prover/38bd5d3321af47bac8a0774e8dbd44d368cb9193/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "abcrtzyn/sudoku_prover",
+    "commit": "38bd5d3321af47bac8a0774e8dbd44d368cb9193",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/abcrtzyn/sudoku_prover/38bd5d3321af47bac8a0774e8dbd44d368cb9193/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "fc0web/lean-d-fumt8",
+    "commit": "2f4c97aee73b53378b8554b46297fb98f3a2b3c0",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/fc0web/lean-d-fumt8/2f4c97aee73b53378b8554b46297fb98f3a2b3c0/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "fc0web/lean-d-fumt8",
+    "commit": "2f4c97aee73b53378b8554b46297fb98f3a2b3c0",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/fc0web/lean-d-fumt8/2f4c97aee73b53378b8554b46297fb98f3a2b3c0/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "GasStationManager/ArtificialAlgorithms",
+    "commit": "0d78ca4b92004fd539d97661e3c2eeef5099d0a8",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/GasStationManager/ArtificialAlgorithms/0d78ca4b92004fd539d97661e3c2eeef5099d0a8/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "GasStationManager/ArtificialAlgorithms",
+    "commit": "0d78ca4b92004fd539d97661e3c2eeef5099d0a8",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/GasStationManager/ArtificialAlgorithms/0d78ca4b92004fd539d97661e3c2eeef5099d0a8/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "tamura70/lean_study",
+    "commit": "addb8e51bf0d78285bf38dff8c18d994436d6f96",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/tamura70/lean_study/addb8e51bf0d78285bf38dff8c18d994436d6f96/LICENSE",
+    "status": "downloaded",
+    "sha256": "6f3a238ef230ec5475252cae8f6209ac3e9a7c3d2af21e93b4fd22f64c2c0af0",
+    "bytes": 11344,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "tamura70/lean_study",
+    "commit": "addb8e51bf0d78285bf38dff8c18d994436d6f96",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/tamura70/lean_study/addb8e51bf0d78285bf38dff8c18d994436d6f96/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "rupakm/leslie",
+    "commit": "58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/rupakm/leslie/58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d/LICENSE",
+    "status": "downloaded",
+    "sha256": "2bff770fb4d71a7fe50ffc7ba59d70a5aff6aa96112d663feb1e2813cdb6753b",
+    "bytes": 11348,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "rupakm/leslie",
+    "commit": "58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/rupakm/leslie/58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "galvusdamor/lean4-search-algorithms",
+    "commit": "cffe2a8136e7f45de1d3507f2397d9decc0d6424",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/galvusdamor/lean4-search-algorithms/cffe2a8136e7f45de1d3507f2397d9decc0d6424/LICENSE",
+    "status": "downloaded",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "galvusdamor/lean4-search-algorithms",
+    "commit": "cffe2a8136e7f45de1d3507f2397d9decc0d6424",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/galvusdamor/lean4-search-algorithms/cffe2a8136e7f45de1d3507f2397d9decc0d6424/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "danuaemx/lean-257-2",
+    "commit": "53fd59dcf68dfcfbc93e213ed888ef72e6f150ba",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/danuaemx/lean-257-2/53fd59dcf68dfcfbc93e213ed888ef72e6f150ba/LICENSE",
+    "status": "downloaded",
+    "sha256": "be22c690d726157deb87761f81be0da5d3e425519a7ed74d404226b55801703f",
+    "bytes": 1063,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "danuaemx/lean-257-2",
+    "commit": "53fd59dcf68dfcfbc93e213ed888ef72e6f150ba",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/danuaemx/lean-257-2/53fd59dcf68dfcfbc93e213ed888ef72e6f150ba/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "TPColor/bastien-khormali-conjecture",
+    "commit": "ba950f184f1a682e3bc7d59391b4a126818d7f34",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/TPColor/bastien-khormali-conjecture/ba950f184f1a682e3bc7d59391b4a126818d7f34/LICENSE",
+    "status": "downloaded",
+    "sha256": "14a52dcae356f73dc92b6b78a0552cebd8b75eaa708800c397da677dcf5b3f2c",
+    "bytes": 1067,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "TPColor/bastien-khormali-conjecture",
+    "commit": "ba950f184f1a682e3bc7d59391b4a126818d7f34",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/TPColor/bastien-khormali-conjecture/ba950f184f1a682e3bc7d59391b4a126818d7f34/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "AxiomMath/erdos-public",
+    "commit": "3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/AxiomMath/erdos-public/3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab/LICENSE",
+    "status": "downloaded",
+    "sha256": "7caa49b21ca61201a69c63e36cae55caba29b911e54665ce7a79e87d7c041d08",
+    "bytes": 1068,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "AxiomMath/erdos-public",
+    "commit": "3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/AxiomMath/erdos-public/3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "LoganEvans/litlib4",
+    "commit": "c689568887fbd8a7ff59c032af486c930053e77b",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/LoganEvans/litlib4/c689568887fbd8a7ff59c032af486c930053e77b/LICENSE",
+    "status": "downloaded",
+    "sha256": "8670fd0d6d86ee6edb521616fcc72ded222b64504ffbfdff9228c0c587d275fa",
+    "bytes": 11344,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "LoganEvans/litlib4",
+    "commit": "c689568887fbd8a7ff59c032af486c930053e77b",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/LoganEvans/litlib4/c689568887fbd8a7ff59c032af486c930053e77b/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "atvrager/Shoumei-RTL",
+    "commit": "10b3686647f1d76c853c196026cde45709c698b4",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/atvrager/Shoumei-RTL/10b3686647f1d76c853c196026cde45709c698b4/LICENSE",
+    "status": "downloaded",
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "bytes": 34523,
+    "license_pattern": "AGPL-text-review-version"
+  },
+  {
+    "slug": "atvrager/Shoumei-RTL",
+    "commit": "10b3686647f1d76c853c196026cde45709c698b4",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/atvrager/Shoumei-RTL/10b3686647f1d76c853c196026cde45709c698b4/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "ilyasergey/lean-move",
+    "commit": "ca5dbc9a6606bc60f5b57a82b733accbd8241b96",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/ilyasergey/lean-move/ca5dbc9a6606bc60f5b57a82b733accbd8241b96/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "ilyasergey/lean-move",
+    "commit": "ca5dbc9a6606bc60f5b57a82b733accbd8241b96",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/ilyasergey/lean-move/ca5dbc9a6606bc60f5b57a82b733accbd8241b96/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "mathTensor/AI4Math-Putnam2025",
+    "commit": "35279ef7f469f002aa2cbe90e8b3f7e5a849567b",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/mathTensor/AI4Math-Putnam2025/35279ef7f469f002aa2cbe90e8b3f7e5a849567b/LICENSE",
+    "status": "downloaded",
+    "sha256": "aefedac7af0ffed7ef87eb354176b963f2edf011ce9ec2cc5dc4113f4aa8e321",
+    "bytes": 1067,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "mathTensor/AI4Math-Putnam2025",
+    "commit": "35279ef7f469f002aa2cbe90e8b3f7e5a849567b",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/mathTensor/AI4Math-Putnam2025/35279ef7f469f002aa2cbe90e8b3f7e5a849567b/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "repowazdogz-droid/omega-lean-proof",
+    "commit": "2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/repowazdogz-droid/omega-lean-proof/2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf/LICENSE",
+    "status": "downloaded",
+    "sha256": "92a9888304184eb2a2a2057f75e2fc9cc96a1710cdb22a6ec22ec3cf13e8e49e",
+    "bytes": 1069,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "repowazdogz-droid/omega-lean-proof",
+    "commit": "2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/repowazdogz-droid/omega-lean-proof/2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "galvusdamor/lean4-planner",
+    "commit": "0c4ed9d804d52420b3a8842d03ab38500ba25861",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/galvusdamor/lean4-planner/0c4ed9d804d52420b3a8842d03ab38500ba25861/LICENSE",
+    "status": "downloaded",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "galvusdamor/lean4-planner",
+    "commit": "0c4ed9d804d52420b3a8842d03ab38500ba25861",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/galvusdamor/lean4-planner/0c4ed9d804d52420b3a8842d03ab38500ba25861/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "ericmerle3789/collatz-nocycle-lean4",
+    "commit": "4ec239deeea642315fcb431ca0d22a09727911f3",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/ericmerle3789/collatz-nocycle-lean4/4ec239deeea642315fcb431ca0d22a09727911f3/LICENSE",
+    "status": "downloaded",
+    "sha256": "397b7da5a2065ed81a27f42fe4654148e1b41c26e2ddefaf2d80208bd3a0010d",
+    "bytes": 1067,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "ericmerle3789/collatz-nocycle-lean4",
+    "commit": "4ec239deeea642315fcb431ca0d22a09727911f3",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/ericmerle3789/collatz-nocycle-lean4/4ec239deeea642315fcb431ca0d22a09727911f3/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "mirajcs/IsoperimetricInequality",
+    "commit": "300de78eafd39002343aa507630639f52347d335",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/mirajcs/IsoperimetricInequality/300de78eafd39002343aa507630639f52347d335/LICENSE",
+    "status": "downloaded",
+    "sha256": "2111877f714ded683704eeaa82deb2f7c4a88b454c2f0ef5da7a1e4ebad72850",
+    "bytes": 1074,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "mirajcs/IsoperimetricInequality",
+    "commit": "300de78eafd39002343aa507630639f52347d335",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/mirajcs/IsoperimetricInequality/300de78eafd39002343aa507630639f52347d335/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "ericmerle3789/collatz-conditional-cycles",
+    "commit": "c24633cc8999ec509782125d664b47396cb89593",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/ericmerle3789/collatz-conditional-cycles/c24633cc8999ec509782125d664b47396cb89593/LICENSE",
+    "status": "downloaded",
+    "sha256": "3a0ba91659f98cf2e61a931313c65aa990ae21cb13f8529a0576834bc6fcf2ee",
+    "bytes": 1231,
+    "license_pattern": "CC-BY-4.0-pattern"
+  },
+  {
+    "slug": "ericmerle3789/collatz-conditional-cycles",
+    "commit": "c24633cc8999ec509782125d664b47396cb89593",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/ericmerle3789/collatz-conditional-cycles/c24633cc8999ec509782125d664b47396cb89593/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Kuberwastaken/wowii-63-85-counterexample",
+    "commit": "aec1307942b2aaaf248694822def1a4a1289fa47",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Kuberwastaken/wowii-63-85-counterexample/aec1307942b2aaaf248694822def1a4a1289fa47/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Kuberwastaken/wowii-63-85-counterexample",
+    "commit": "aec1307942b2aaaf248694822def1a4a1289fa47",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Kuberwastaken/wowii-63-85-counterexample/aec1307942b2aaaf248694822def1a4a1289fa47/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "RobertoZunino/ITPCourse",
+    "commit": "258f979cc736fc2845e90ac7e0dd78c9b43ed798",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/RobertoZunino/ITPCourse/258f979cc736fc2845e90ac7e0dd78c9b43ed798/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "RobertoZunino/ITPCourse",
+    "commit": "258f979cc736fc2845e90ac7e0dd78c9b43ed798",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/RobertoZunino/ITPCourse/258f979cc736fc2845e90ac7e0dd78c9b43ed798/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "katydid/paper-2026-verified-filter-lean",
+    "commit": "742e142a028c4af82e3055a08289195b1f3f1761",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/katydid/paper-2026-verified-filter-lean/742e142a028c4af82e3055a08289195b1f3f1761/LICENSE",
+    "status": "downloaded",
+    "sha256": "049b579d7be6fd06e450ed45776b082f2079dd8c96c4f442bc201b05c9ff63b6",
+    "bytes": 11344,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "katydid/paper-2026-verified-filter-lean",
+    "commit": "742e142a028c4af82e3055a08289195b1f3f1761",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/katydid/paper-2026-verified-filter-lean/742e142a028c4af82e3055a08289195b1f3f1761/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "VTrelat/BEer",
+    "commit": "d846712bf296520d4f4b39d0e0ae48211a7e4e15",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/VTrelat/BEer/d846712bf296520d4f4b39d0e0ae48211a7e4e15/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "VTrelat/BEer",
+    "commit": "d846712bf296520d4f4b39d0e0ae48211a7e4e15",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/VTrelat/BEer/d846712bf296520d4f4b39d0e0ae48211a7e4e15/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "tobiasosborne/ProjSeminorm",
+    "commit": "b614563b9e1ceb5e9828646c975d8c57fee9e44a",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/tobiasosborne/ProjSeminorm/b614563b9e1ceb5e9828646c975d8c57fee9e44a/LICENSE",
+    "status": "downloaded",
+    "sha256": "165190c7a66ae2c653105b892d5ddf93f55a3719f588b96f31575a3982898b85",
+    "bytes": 10712,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "tobiasosborne/ProjSeminorm",
+    "commit": "b614563b9e1ceb5e9828646c975d8c57fee9e44a",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/tobiasosborne/ProjSeminorm/b614563b9e1ceb5e9828646c975d8c57fee9e44a/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "manman4/LeanMathAtlas",
+    "commit": "c6ec93594f406562eafe3a4a8d12b5006486ca78",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/manman4/LeanMathAtlas/c6ec93594f406562eafe3a4a8d12b5006486ca78/LICENSE",
+    "status": "downloaded",
+    "sha256": "f5390b687efa569c6e01987e008ce3dc19cd83ed7351fd5f27215ff03ded2938",
+    "bytes": 1064,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "manman4/LeanMathAtlas",
+    "commit": "c6ec93594f406562eafe3a4a8d12b5006486ca78",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/manman4/LeanMathAtlas/c6ec93594f406562eafe3a4a8d12b5006486ca78/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Pjotr5/IndependentTransversals",
+    "commit": "205372fe2b4b17ec77ef3f4629c43686223c1028",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Pjotr5/IndependentTransversals/205372fe2b4b17ec77ef3f4629c43686223c1028/LICENSE",
+    "status": "downloaded",
+    "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff",
+    "bytes": 10280,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Pjotr5/IndependentTransversals",
+    "commit": "205372fe2b4b17ec77ef3f4629c43686223c1028",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Pjotr5/IndependentTransversals/205372fe2b4b17ec77ef3f4629c43686223c1028/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "scidonia/vericode",
+    "commit": "5ecd4ccc09bb133f7c34a73264d9a2291a99fb22",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/scidonia/vericode/5ecd4ccc09bb133f7c34a73264d9a2291a99fb22/LICENSE",
+    "status": "downloaded",
+    "sha256": "4e4aefa71e8f9b43f548f5103ac7d78a13b1d52dfbb0d4498aaed8b853536eac",
+    "bytes": 11346,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "scidonia/vericode",
+    "commit": "5ecd4ccc09bb133f7c34a73264d9a2291a99fb22",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/scidonia/vericode/5ecd4ccc09bb133f7c34a73264d9a2291a99fb22/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "pablo-vs/discrete-game-theory",
+    "commit": "b12b2d88409864306299b03fa0c14b771fe47327",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/pablo-vs/discrete-game-theory/b12b2d88409864306299b03fa0c14b771fe47327/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "pablo-vs/discrete-game-theory",
+    "commit": "b12b2d88409864306299b03fa0c14b771fe47327",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/pablo-vs/discrete-game-theory/b12b2d88409864306299b03fa0c14b771fe47327/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "mike1729/goedel-workbook-lean427",
+    "commit": "3c2afe6bfc6bdeca6b78d1f257468164bba56966",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/mike1729/goedel-workbook-lean427/3c2afe6bfc6bdeca6b78d1f257468164bba56966/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "mike1729/goedel-workbook-lean427",
+    "commit": "3c2afe6bfc6bdeca6b78d1f257468164bba56966",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/mike1729/goedel-workbook-lean427/3c2afe6bfc6bdeca6b78d1f257468164bba56966/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "ronut01/erdos1002-lean",
+    "commit": "b7c9e7db433a64de629989c31a344f5220fe360e",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/ronut01/erdos1002-lean/b7c9e7db433a64de629989c31a344f5220fe360e/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "ronut01/erdos1002-lean",
+    "commit": "b7c9e7db433a64de629989c31a344f5220fe360e",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/ronut01/erdos1002-lean/b7c9e7db433a64de629989c31a344f5220fe360e/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "akakabrian/WOW-146",
+    "commit": "18201d492b52a2f82a2966551aed1640c45ec13b",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/akakabrian/WOW-146/18201d492b52a2f82a2966551aed1640c45ec13b/LICENSE",
+    "status": "downloaded",
+    "sha256": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9",
+    "bytes": 10173,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "akakabrian/WOW-146",
+    "commit": "18201d492b52a2f82a2966551aed1640c45ec13b",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/akakabrian/WOW-146/18201d492b52a2f82a2966551aed1640c45ec13b/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "primateria/erdos608",
+    "commit": "b50849234b8de6cb5c642b5cb0479cab2e9e9908",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/primateria/erdos608/b50849234b8de6cb5c642b5cb0479cab2e9e9908/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "primateria/erdos608",
+    "commit": "b50849234b8de6cb5c642b5cb0479cab2e9e9908",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/primateria/erdos608/b50849234b8de6cb5c642b5cb0479cab2e9e9908/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "beowulf127/wowii144-lean",
+    "commit": "046429d509b28c90ee2ec38ae27c1ad377c6a5fc",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/beowulf127/wowii144-lean/046429d509b28c90ee2ec38ae27c1ad377c6a5fc/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "beowulf127/wowii144-lean",
+    "commit": "046429d509b28c90ee2ec38ae27c1ad377c6a5fc",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/beowulf127/wowii144-lean/046429d509b28c90ee2ec38ae27c1ad377c6a5fc/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Robertboy18/aint26-lean-solutions",
+    "commit": "feb939008bbd1f0dd2b24fd40ab0e592062d9717",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Robertboy18/aint26-lean-solutions/feb939008bbd1f0dd2b24fd40ab0e592062d9717/LICENSE",
+    "status": "downloaded",
+    "sha256": "2a11af4fb3252131279ed68dbe2076ed22b9bb41736d6cfb608e56f90e5f2c92",
+    "bytes": 1070,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "Robertboy18/aint26-lean-solutions",
+    "commit": "feb939008bbd1f0dd2b24fd40ab0e592062d9717",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Robertboy18/aint26-lean-solutions/feb939008bbd1f0dd2b24fd40ab0e592062d9717/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "mkwatson/unique-sums-notes",
+    "commit": "b982a044dc0806bcecaf111f2d72c24697bd78e9",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/mkwatson/unique-sums-notes/b982a044dc0806bcecaf111f2d72c24697bd78e9/LICENSE",
+    "status": "downloaded",
+    "sha256": "32330f8deae403bf96090bc1f48fc50679ae75126ff325a3f73ea91ee62cf419",
+    "bytes": 1068,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "mkwatson/unique-sums-notes",
+    "commit": "b982a044dc0806bcecaf111f2d72c24697bd78e9",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/mkwatson/unique-sums-notes/b982a044dc0806bcecaf111f2d72c24697bd78e9/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Shashi456/erdos-formalizations",
+    "commit": "286f856aa3fc08957b80950fd18a45aab8d045ea",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Shashi456/erdos-formalizations/286f856aa3fc08957b80950fd18a45aab8d045ea/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Shashi456/erdos-formalizations",
+    "commit": "286f856aa3fc08957b80950fd18a45aab8d045ea",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Shashi456/erdos-formalizations/286f856aa3fc08957b80950fd18a45aab8d045ea/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "YijunYuan/HarderNarasimhan",
+    "commit": "e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/YijunYuan/HarderNarasimhan/e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f/LICENSE",
+    "status": "downloaded",
+    "sha256": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "bytes": 11356,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "YijunYuan/HarderNarasimhan",
+    "commit": "e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/YijunYuan/HarderNarasimhan/e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "NethermindEth/poseidon2-fv",
+    "commit": "ab3d3c4a567ee9fc99005b1527cca91c6c41edc6",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/NethermindEth/poseidon2-fv/ab3d3c4a567ee9fc99005b1527cca91c6c41edc6/LICENSE",
+    "status": "downloaded",
+    "sha256": "a9f18898208724ddd2dd0054328a679cedee434c531bc3024ca610b972e3b94f",
+    "bytes": 11369,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "NethermindEth/poseidon2-fv",
+    "commit": "ab3d3c4a567ee9fc99005b1527cca91c6c41edc6",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/NethermindEth/poseidon2-fv/ab3d3c4a567ee9fc99005b1527cca91c6c41edc6/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "paolino/keri-lean",
+    "commit": "e54b668e546545db4dfe20b62bb2f21d417b5763",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/paolino/keri-lean/e54b668e546545db4dfe20b62bb2f21d417b5763/LICENSE",
+    "status": "downloaded",
+    "sha256": "862408e72516305d3ad47e3ed98b228a84109480e39879159405c77bdcb9fd9f",
+    "bytes": 9672,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "paolino/keri-lean",
+    "commit": "e54b668e546545db4dfe20b62bb2f21d417b5763",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/paolino/keri-lean/e54b668e546545db4dfe20b62bb2f21d417b5763/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "LoganEvans/chiral-gauge-dynamics",
+    "commit": "f05834b9272518ab2c885ba9dda4d5e359ab6977",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/LoganEvans/chiral-gauge-dynamics/f05834b9272518ab2c885ba9dda4d5e359ab6977/LICENSE",
+    "status": "downloaded",
+    "sha256": "8670fd0d6d86ee6edb521616fcc72ded222b64504ffbfdff9228c0c587d275fa",
+    "bytes": 11344,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "LoganEvans/chiral-gauge-dynamics",
+    "commit": "f05834b9272518ab2c885ba9dda4d5e359ab6977",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/LoganEvans/chiral-gauge-dynamics/f05834b9272518ab2c885ba9dda4d5e359ab6977/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "grenewode/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/grenewode/LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE",
+    "status": "downloaded",
+    "sha256": "669a31d83bb828f698a02b6b600cdd1c3a1487fdc0daaac0639f44a0dd9e353b",
+    "bytes": 10781,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "grenewode/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/grenewode/LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "MaskoMys/Collatz-Binary-Topology",
+    "commit": "a9a5167830f0cd0f2b98a2afd339b46234253fd9",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/MaskoMys/Collatz-Binary-Topology/a9a5167830f0cd0f2b98a2afd339b46234253fd9/LICENSE",
+    "status": "downloaded",
+    "sha256": "1872cb9bcf863e1c777821d39f4f3a53603833f2ed81dbccce26b184eef8c065",
+    "bytes": 1068,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "MaskoMys/Collatz-Binary-Topology",
+    "commit": "a9a5167830f0cd0f2b98a2afd339b46234253fd9",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/MaskoMys/Collatz-Binary-Topology/a9a5167830f0cd0f2b98a2afd339b46234253fd9/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Jostamon/erdos274-hs-abelian",
+    "commit": "2ab8a2e39e7dd7836adf577b52555f069244466f",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Jostamon/erdos274-hs-abelian/2ab8a2e39e7dd7836adf577b52555f069244466f/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Jostamon/erdos274-hs-abelian",
+    "commit": "2ab8a2e39e7dd7836adf577b52555f069244466f",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Jostamon/erdos274-hs-abelian/2ab8a2e39e7dd7836adf577b52555f069244466f/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "schmittj/prop51-formal",
+    "commit": "02bd8cc32582f54d36e9a0ff471a44d4d0461017",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/schmittj/prop51-formal/02bd8cc32582f54d36e9a0ff471a44d4d0461017/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "schmittj/prop51-formal",
+    "commit": "02bd8cc32582f54d36e9a0ff471a44d4d0461017",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/schmittj/prop51-formal/02bd8cc32582f54d36e9a0ff471a44d4d0461017/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "KitaKen1/bezier-bernstein-voronovskaja-lean",
+    "commit": "3f35c631d215b3841242275bf3ed2c59ea153a2d",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/KitaKen1/bezier-bernstein-voronovskaja-lean/3f35c631d215b3841242275bf3ed2c59ea153a2d/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "KitaKen1/bezier-bernstein-voronovskaja-lean",
+    "commit": "3f35c631d215b3841242275bf3ed2c59ea153a2d",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/KitaKen1/bezier-bernstein-voronovskaja-lean/3f35c631d215b3841242275bf3ed2c59ea153a2d/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "google-deepmind/miniF2F",
+    "commit": "f0a20e14c1eeccd859d51bb4c2b3ee487889c303",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/google-deepmind/miniF2F/f0a20e14c1eeccd859d51bb4c2b3ee487889c303/LICENSE",
+    "status": "downloaded",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "google-deepmind/miniF2F",
+    "commit": "f0a20e14c1eeccd859d51bb4c2b3ee487889c303",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/google-deepmind/miniF2F/f0a20e14c1eeccd859d51bb4c2b3ee487889c303/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "trishullab/PutnamBench",
+    "commit": "34eba93650f2fa803ca6aae6dfd2c9f22d46c00d",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/trishullab/PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/LICENSE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "trishullab/PutnamBench",
+    "commit": "34eba93650f2fa803ca6aae6dfd2c9f22d46c00d",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/trishullab/PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "AfonsoBitoque/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/AfonsoBitoque/LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE",
+    "status": "downloaded",
+    "sha256": "669a31d83bb828f698a02b6b600cdd1c3a1487fdc0daaac0639f44a0dd9e353b",
+    "bytes": 10781,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "AfonsoBitoque/LeanServer",
+    "commit": "9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/AfonsoBitoque/LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "AmosNico/validator",
+    "commit": "97e2990e74972b8d9f0769be6903cdff4b12cec6",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/AmosNico/validator/97e2990e74972b8d9f0769be6903cdff4b12cec6/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "AmosNico/validator",
+    "commit": "97e2990e74972b8d9f0769be6903cdff4b12cec6",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/AmosNico/validator/97e2990e74972b8d9f0769be6903cdff4b12cec6/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "bergmannjg/Regex",
+    "commit": "1dc9404d9533e6888d30f1ec1807664f3620bbf4",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/bergmannjg/Regex/1dc9404d9533e6888d30f1ec1807664f3620bbf4/LICENSE",
+    "status": "downloaded",
+    "sha256": "4ba7c45723cd1356609a1d88e21e66e8a0328cb3479c087522b683c3b7c0c2d9",
+    "bytes": 1060,
+    "license_pattern": "MIT-pattern"
+  },
+  {
+    "slug": "bergmannjg/Regex",
+    "commit": "1dc9404d9533e6888d30f1ec1807664f3620bbf4",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/bergmannjg/Regex/1dc9404d9533e6888d30f1ec1807664f3620bbf4/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "dissensus-ai/lean-formalizations",
+    "commit": "b25f4583f497a0473dc43a36f04dd6dedc0b6fd6",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/dissensus-ai/lean-formalizations/b25f4583f497a0473dc43a36f04dd6dedc0b6fd6/LICENSE",
+    "status": "downloaded",
+    "sha256": "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f",
+    "bytes": 18658,
+    "license_pattern": "CC-BY-4.0-pattern"
+  },
+  {
+    "slug": "dissensus-ai/lean-formalizations",
+    "commit": "b25f4583f497a0473dc43a36f04dd6dedc0b6fd6",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/dissensus-ai/lean-formalizations/b25f4583f497a0473dc43a36f04dd6dedc0b6fd6/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "fpvandoorn/carleson",
+    "commit": "0ddd15b3b35b21a6ae175011f02fda5d1a0abd69",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/fpvandoorn/carleson/0ddd15b3b35b21a6ae175011f02fda5d1a0abd69/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "fpvandoorn/carleson",
+    "commit": "0ddd15b3b35b21a6ae175011f02fda5d1a0abd69",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/fpvandoorn/carleson/0ddd15b3b35b21a6ae175011f02fda5d1a0abd69/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "ImperialCollegeLondon/FLT",
+    "commit": "1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/ImperialCollegeLondon/FLT/1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "ImperialCollegeLondon/FLT",
+    "commit": "1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/ImperialCollegeLondon/FLT/1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "leanprover-community/batteries",
+    "commit": "b25b36a7caf8e237e7d1e6121543078a06777c8a",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/leanprover-community/batteries/b25b36a7caf8e237e7d1e6121543078a06777c8a/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "leanprover-community/batteries",
+    "commit": "b25b36a7caf8e237e7d1e6121543078a06777c8a",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/leanprover-community/batteries/b25b36a7caf8e237e7d1e6121543078a06777c8a/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "leanprover-community/lean-auto",
+    "commit": "7e8f3ab431d4790bd803e467d661b1be2522bfd3",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/leanprover-community/lean-auto/7e8f3ab431d4790bd803e467d661b1be2522bfd3/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "leanprover-community/lean-auto",
+    "commit": "7e8f3ab431d4790bd803e467d661b1be2522bfd3",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/leanprover-community/lean-auto/7e8f3ab431d4790bd803e467d661b1be2522bfd3/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "commit": "ffc076a15ac2da4f165746160677ec6b4f8b98cf",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/MichaelStollBayreuth/LegendreQF/ffc076a15ac2da4f165746160677ec6b4f8b98cf/LICENSE",
+    "status": "downloaded",
+    "sha256": "f9c375a1be4a41f7b70301dd83c91cb89e41567478859b77eef375a52d782505",
+    "bytes": 18091,
+    "license_pattern": "GPL-text-review-version"
+  },
+  {
+    "slug": "MichaelStollBayreuth/LegendreQF",
+    "commit": "ffc076a15ac2da4f165746160677ec6b4f8b98cf",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/MichaelStollBayreuth/LegendreQF/ffc076a15ac2da4f165746160677ec6b4f8b98cf/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "commit": "7dc816910638406f4232d23977bbcc59a335393c",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/PatrickMassot/GlimpseOfLean/7dc816910638406f4232d23977bbcc59a335393c/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "PatrickMassot/GlimpseOfLean",
+    "commit": "7dc816910638406f4232d23977bbcc59a335393c",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/PatrickMassot/GlimpseOfLean/7dc816910638406f4232d23977bbcc59a335393c/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "RemyDegenne/brownian-motion",
+    "commit": "f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/RemyDegenne/brownian-motion/f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "RemyDegenne/brownian-motion",
+    "commit": "f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/RemyDegenne/brownian-motion/f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "spectra-research/asymptotic-tensor-rank-semicontinuity",
+    "commit": "f3a83b4e862c84ab718163d063093ad64644c9ef",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/spectra-research/asymptotic-tensor-rank-semicontinuity/f3a83b4e862c84ab718163d063093ad64644c9ef/LICENSE",
+    "status": "downloaded",
+    "sha256": "d8d6475adc9148cf69643a2fa3c4f21f406ef202a0914db0096e7910b6c5751c",
+    "bytes": 10760,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "spectra-research/asymptotic-tensor-rank-semicontinuity",
+    "commit": "f3a83b4e862c84ab718163d063093ad64644c9ef",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/spectra-research/asymptotic-tensor-rank-semicontinuity/f3a83b4e862c84ab718163d063093ad64644c9ef/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "thefundamentaltheor3m/Sphere-Packing-Lean",
+    "commit": "4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/thefundamentaltheor3m/Sphere-Packing-Lean/4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "thefundamentaltheor3m/Sphere-Packing-Lean",
+    "commit": "4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/thefundamentaltheor3m/Sphere-Packing-Lean/4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "Verified-zkEVM/VCVio",
+    "commit": "0dbb0a202445c14219f505d20eb523012f78a31c",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/Verified-zkEVM/VCVio/0dbb0a202445c14219f505d20eb523012f78a31c/LICENSE",
+    "status": "downloaded",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "Verified-zkEVM/VCVio",
+    "commit": "0dbb0a202445c14219f505d20eb523012f78a31c",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/Verified-zkEVM/VCVio/0dbb0a202445c14219f505d20eb523012f78a31c/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "verse-lab/Lentil",
+    "commit": "7f83b7493c3aa839d1aeeeeacc5b3711116c2856",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/verse-lab/Lentil/7f83b7493c3aa839d1aeeeeacc5b3711116c2856/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "verse-lab/Lentil",
+    "commit": "7f83b7493c3aa839d1aeeeeacc5b3711116c2856",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/verse-lab/Lentil/7f83b7493c3aa839d1aeeeeacc5b3711116c2856/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "YaelDillies/misc-yd",
+    "commit": "10837040a49ab7580877d652dea7c172f69adbbf",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/YaelDillies/misc-yd/10837040a49ab7580877d652dea7c172f69adbbf/LICENSE",
+    "status": "downloaded",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "YaelDillies/misc-yd",
+    "commit": "10837040a49ab7580877d652dea7c172f69adbbf",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/YaelDillies/misc-yd/10837040a49ab7580877d652dea7c172f69adbbf/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "slug": "leanprover-community/mathlib4",
+    "commit": "29dcec074de168ac2bf835a77ef68bbe069194c5",
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/leanprover-community/mathlib4/29dcec074de168ac2bf835a77ef68bbe069194c5/LICENSE",
+    "status": "downloaded",
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "bytes": 11357,
+    "license_pattern": "Apache-2.0-pattern"
+  },
+  {
+    "slug": "leanprover-community/mathlib4",
+    "commit": "29dcec074de168ac2bf835a77ef68bbe069194c5",
+    "path": "NOTICE",
+    "url": "https://raw.githubusercontent.com/leanprover-community/mathlib4/29dcec074de168ac2bf835a77ef68bbe069194c5/NOTICE",
+    "status": "unresolved",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

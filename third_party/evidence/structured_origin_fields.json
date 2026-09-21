@@ -1,0 +1,565 @@
+{
+  "https://github.com/james18lpc/GibbsMeasure@ac72864b90fbf034b8cff207cc3b1d8564c4c582": {
+    "count": 3,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/kbuzzard/ClassFieldTheory@7af4d9fe773ce82d84fe2c3230f2d4f89c50922b": {
+    "count": 3,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/Paul-Lez/PersistentDecomp@ca97f19a836af9f83b0728a29268bc24eea75c33": {
+    "count": 3,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/teorth/pfr@e7278b10821f3b0fef1ed500f6666ef414931dbb": {
+    "count": 5,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!artifacts/frozen/experiment49_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/leanprover-community/physlib@08d3f3388230601397afab0b3a2ce4e64cc1eaae": {
+    "count": 5,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!artifacts/frozen/experiment49_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/leanprover-community/sphere-eversion@5ebc398fb50f29879811ad29f54ed47d4116bfe8": {
+    "count": 3,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/leanprover-community/flt-regular@4e2d2985158da1db38a220229a1fe8ea47dd2555": {
+    "count": 3,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!source_controls/exp48_config.json"
+    ]
+  },
+  "https://github.com/fpvandoorn/carleson@0ddd15b3b35b21a6ae175011f02fda5d1a0abd69": {
+    "count": 29,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!artifacts/frozen/experiment49_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!artifacts/frozen/targets.json"
+    ]
+  },
+  "https://github.com/ImperialCollegeLondon/FLT@1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966": {
+    "count": 29,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!artifacts/frozen/experiment49_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!artifacts/frozen/targets.json"
+    ]
+  },
+  "https://github.com/thefundamentaltheor3m/Sphere-Packing-Lean@4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7": {
+    "count": 29,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!artifacts/frozen/experiment49_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!artifacts/frozen/targets.json"
+    ]
+  },
+  "https://github.com/RemyDegenne/brownian-motion@f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d": {
+    "count": 29,
+    "examples": [
+      "experiment48_fix1_mac_analysis_bundle.zip!frozen/experiment48_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!artifacts/frozen/experiment49_config.json",
+      "experiment49_candidate_endpoint_robustness_results.zip!source_exp48/frozen/experiment48_config.json",
+      "experiment50_independent_reexecution_fix1_results.zip!artifacts/frozen/targets.json"
+    ]
+  },
+  "https://github.com/PatrickMassot/GlimpseOfLean@7dc816910638406f4232d23977bbcc59a335393c": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/AfonsoBitoque/LeanServer@9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/dissensus-ai/lean-formalizations@b25f4583f497a0473dc43a36f04dd6dedc0b6fd6": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/leanprover-community/batteries@b25b36a7caf8e237e7d1e6121543078a06777c8a": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/bergmannjg/regex@1dc9404d9533e6888d30f1ec1807664f3620bbf4": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/Verified-zkEVM/VCVio@0dbb0a202445c14219f505d20eb523012f78a31c": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/leanprover-community/lean-auto@7e8f3ab431d4790bd803e467d661b1be2522bfd3": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/YaelDillies/misc-yd@10837040a49ab7580877d652dea7c172f69adbbf": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/MichaelStollBayreuth/LegendreQF@ffc076a15ac2da4f165746160677ec6b4f8b98cf": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/verse-lab/Lentil@7f83b7493c3aa839d1aeeeeacc5b3711116c2856": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/AmosNico/validator@97e2990e74972b8d9f0769be6903cdff4b12cec6": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/spectra-research/asymptotic-tensor-rank-semicontinuity@f3a83b4e862c84ab718163d063093ad64644c9ef": {
+    "count": 2,
+    "examples": [
+      "experiment51_external_repository_replication_fix3_results.zip!artifacts/frozen/experiment51_config.json",
+      "experiment52_continuation_probe_fix4_results.zip!source_exp51/experiment51_config.json"
+    ]
+  },
+  "https://github.com/leanprover-community/mathlib4@29dcec074de168ac2bf835a77ef68bbe069194c5": {
+    "count": 1360,
+    "examples": [
+      "experiment62_multistep_solvable_search_fix1_results.zip!experiment62_multistep_solvable_search_fix1/frozen/candidate_frame.jsonl",
+      "experiment62_multistep_solvable_search_fix1_results.zip!experiment62_multistep_solvable_search_fix1/frozen/candidate_frame.jsonl",
+      "experiment62_multistep_solvable_search_fix1_results.zip!experiment62_multistep_solvable_search_fix1/frozen/candidate_frame.jsonl",
+      "experiment62_multistep_solvable_search_fix1_results.zip!experiment62_multistep_solvable_search_fix1/frozen/candidate_frame.jsonl"
+    ]
+  },
+  "https://github.com/Paraxiom/scheming-proofs@02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/Paraxiom__scheming-proofs.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/NethermindEth/poseidon2-fv@ab3d3c4a567ee9fc99005b1527cca91c6c41edc6": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/NethermindEth__poseidon2-fv.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/beowulf127/wowii144-lean@046429d509b28c90ee2ec38ae27c1ad377c6a5fc": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/beowulf127__wowii144-lean.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/galvusdamor/lean4-search-algorithms@cffe2a8136e7f45de1d3507f2397d9decc0d6424": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/galvusdamor__lean4-search-algorithms.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/LoganEvans/litlib4@c689568887fbd8a7ff59c032af486c930053e77b": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/LoganEvans__litlib4.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/danuaemx/lean-257-2@53fd59dcf68dfcfbc93e213ed888ef72e6f150ba": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/danuaemx__lean-257-2.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/mirajcs/IsoperimetricInequality@300de78eafd39002343aa507630639f52347d335": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/mirajcs__IsoperimetricInequality.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/katydid/paper-2026-verified-filter-lean@742e142a028c4af82e3055a08289195b1f3f1761": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/katydid__paper-2026-verified-filter-lean.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/Pjotr5/IndependentTransversals@205372fe2b4b17ec77ef3f4629c43686223c1028": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/Pjotr5__IndependentTransversals.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/fc0web/lean-d-fumt8@2f4c97aee73b53378b8554b46297fb98f3a2b3c0": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/fc0web__lean-d-fumt8.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/ericmerle3789/collatz-conditional-cycles@c24633cc8999ec509782125d664b47396cb89593": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/ericmerle3789__collatz-conditional-cycles.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/rupakm/leslie@58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/rupakm__leslie.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/AxiomMath/erdos-public@3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/AxiomMath__erdos-public.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/ilyasergey/lean-move@ca5dbc9a6606bc60f5b57a82b733accbd8241b96": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/ilyasergey__lean-move.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/TPColor/bastien-khormali-conjecture@ba950f184f1a682e3bc7d59391b4a126818d7f34": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/TPColor__bastien-khormali-conjecture.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/primateria/erdos608@b50849234b8de6cb5c642b5cb0479cab2e9e9908": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/primateria__erdos608.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/Jostamon/erdos274-hs-abelian@2ab8a2e39e7dd7836adf577b52555f069244466f": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/Jostamon__erdos274-hs-abelian.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/paolino/keri-lean@e54b668e546545db4dfe20b62bb2f21d417b5763": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/paolino__keri-lean.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/abcrtzyn/sudoku_prover@38bd5d3321af47bac8a0774e8dbd44d368cb9193": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/abcrtzyn__sudoku_prover.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/mkwatson/unique-sums-notes@b982a044dc0806bcecaf111f2d72c24697bd78e9": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/mkwatson__unique-sums-notes.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/MaskoMys/Collatz-Binary-Topology@a9a5167830f0cd0f2b98a2afd339b46234253fd9": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/MaskoMys__Collatz-Binary-Topology.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/korbexmachina/GlimpseOfLean@7d99667f124922bc047dc0bbb2ca6cf63edd90f8": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/korbexmachina__GlimpseOfLean.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/qscqesze/graffiti-pc-conjecture-141@d86f3c5f41191c9447ea8162d34cb116013b85a1": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/qscqesze__graffiti-pc-conjecture-141.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/Robertboy18/aint26-lean-solutions@feb939008bbd1f0dd2b24fd40ab0e592062d9717": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/Robertboy18__aint26-lean-solutions.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/KitaKen1/bezier-bernstein-voronovskaja-lean@3f35c631d215b3841242275bf3ed2c59ea153a2d": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/KitaKen1__bezier-bernstein-voronovskaja-lean.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/repowazdogz-droid/omega-lean-proof@2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/repowazdogz-droid__omega-lean-proof.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/grenewode/LeanServer@9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/grenewode__LeanServer.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/alexoltean61/msphml-lean@9d6559db6502bc9813dcf028d7ea26ae80e9dc93": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/alexoltean61__msphml-lean.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/scidonia/vericode@5ecd4ccc09bb133f7c34a73264d9a2291a99fb22": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/scidonia__vericode.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/pablo-vs/discrete-game-theory@b12b2d88409864306299b03fa0c14b771fe47327": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/pablo-vs__discrete-game-theory.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/YijunYuan/HarderNarasimhan@e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/YijunYuan__HarderNarasimhan.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/tobiasosborne/ProjSeminorm@b614563b9e1ceb5e9828646c975d8c57fee9e44a": {
+    "count": 3,
+    "examples": [
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/frozen/repositories.json",
+      "experiment64_strict_v427_external_replication_results.zip!artifacts/v64/strict_v427_external_replication/screening/build_trace/tobiasosborne__ProjSeminorm.json",
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/AIDoctrine/CollatzLayerA@5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/taeyool/lean-flag-algebras-release@06423a2e6c6f8d9435a8956e2b7409e210154b8c": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/MechMath/MechGeoBench@ef1ef410ee2bc9844108f71d23e0a5aebecd6488": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/google-deepmind/alphaproof-nexus-results@0647711a71183c1ea492ad60860776617ce1ea88": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/GasStationManager/ArtificialAlgorithms@0d78ca4b92004fd539d97661e3c2eeef5099d0a8": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/tamura70/lean_study@addb8e51bf0d78285bf38dff8c18d994436d6f96": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/atvrager/Shoumei-RTL@10b3686647f1d76c853c196026cde45709c698b4": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/mathTensor/AI4Math-Putnam2025@35279ef7f469f002aa2cbe90e8b3f7e5a849567b": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/galvusdamor/lean4-planner@0c4ed9d804d52420b3a8842d03ab38500ba25861": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/ericmerle3789/collatz-nocycle-lean4@4ec239deeea642315fcb431ca0d22a09727911f3": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/Kuberwastaken/wowii-63-85-counterexample@aec1307942b2aaaf248694822def1a4a1289fa47": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/RobertoZunino/ITPCourse@258f979cc736fc2845e90ac7e0dd78c9b43ed798": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/VTrelat/BEer@d846712bf296520d4f4b39d0e0ae48211a7e4e15": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/manman4/LeanMathAtlas@c6ec93594f406562eafe3a4a8d12b5006486ca78": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/mike1729/goedel-workbook-lean427@3c2afe6bfc6bdeca6b78d1f257468164bba56966": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/ronut01/erdos1002-lean@b7c9e7db433a64de629989c31a344f5220fe360e": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/akakabrian/WOW-146@18201d492b52a2f82a2966551aed1640c45ec13b": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/Shashi456/erdos-formalizations@286f856aa3fc08957b80950fd18a45aab8d045ea": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/LoganEvans/chiral-gauge-dynamics@f05834b9272518ab2c885ba9dda4d5e359ab6977": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  },
+  "https://github.com/schmittj/prop51-formal@02bd8cc32582f54d36e9a0ff471a44d4d0461017": {
+    "count": 1,
+    "examples": [
+      "github_source_v1.22.zip!github/docs/exp63_upstream_inventory.json"
+    ]
+  }
+}

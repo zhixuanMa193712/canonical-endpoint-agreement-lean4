@@ -6,23 +6,53 @@
   },
   {
     "path": "CITATION.cff",
-    "bytes": 573,
-    "sha256": "1c1573530885d799287f0c10f6976ef328656fffae46c490ecbbacff145b0a92"
+    "bytes": 854,
+    "sha256": "7b1987562f2b9ece49e9b896d1df8c35cf82f07433a7829ac0eda619cdfceba5"
+  },
+  {
+    "path": "CITATION_DATASET.txt",
+    "bytes": 403,
+    "sha256": "0317adb1bab48d4f5901dd70638c058b0c14a92e63f16a7c5a13882327e8bdea"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 10781,
+    "sha256": "669a31d83bb828f698a02b6b600cdd1c3a1487fdc0daaac0639f44a0dd9e353b"
   },
   {
     "path": "LICENSE_STATUS.md",
-    "bytes": 823,
-    "sha256": "12d9102994f7400646483a8e3e61983319e9598842ca97e3da90cc2ec311f761"
+    "bytes": 943,
+    "sha256": "35527f9fb240e73433e15802cf53545b772743014a30cf16457a7e0be3261d8e"
+  },
+  {
+    "path": "NOTICE",
+    "bytes": 509,
+    "sha256": "1bcd6b622de88d157ae7170778809f0b54462d07e95312e64467de9802dfe306"
   },
   {
     "path": "README.md",
-    "bytes": 3099,
-    "sha256": "98e6a2a352119b71e6f8d1537b08aa93d6bac9d67e5b122366d65aaed41a9aed"
+    "bytes": 3796,
+    "sha256": "1de67f8b971057dee0f90b5d6e65c66d44261e5163a90dedf99aa9995683fcc8"
   },
   {
     "path": "RELEASE_STATUS.md",
-    "bytes": 966,
-    "sha256": "d6af4d6aad137a96f118c032537e092cae2c925978499d6dab32f4ff6f7155d9"
+    "bytes": 961,
+    "sha256": "2b99992c3f696b0000e60a7b9a6cb213f484a94daaf7d748dceb28dab08aba8c"
+  },
+  {
+    "path": "SOFTWARE_FILES.json",
+    "bytes": 116339,
+    "sha256": "761cd0c732566c76c379d0ddce93bd50ca6fc0a95012192cc6d47c5a02ed9d64"
+  },
+  {
+    "path": "SOFTWARE_LICENSE_SCOPE.md",
+    "bytes": 2405,
+    "sha256": "b8abfa17d8c3d5e79c15b38c1c60009990fe5ecc46f8713ba8e095c6f741e7ce"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 216,
+    "sha256": "77180a6462a4f705a5ffb31731f73af714813837a811a67661f6015df6c135aa"
   },
   {
     "path": "docs/benchmark_license_notices/ProofWidgets4",
@@ -31,8 +61,8 @@
   },
   {
     "path": "docs/benchmark_license_notices/README.md",
-    "bytes": 173,
-    "sha256": "4031ab4528f0bc042344fe5d68568080dd56e989ede81b9ae15e3258334bd849"
+    "bytes": 475,
+    "sha256": "8bdaee32b09adeaab7822620621770520dc09323bb1d00e6408a92c58841ce32"
   },
   {
     "path": "docs/benchmark_license_notices/aesop",
@@ -71,18 +101,23 @@
   },
   {
     "path": "docs/exp63_upstream_inventory.json",
-    "bytes": 16992,
-    "sha256": "45ccdb708af64e463d21698eb07019224f60e719b79db92459a0bc20078b74b9"
+    "bytes": 21100,
+    "sha256": "7b04665ae2dc88135338f2ff2e02d77fa6868255bcb7b681f8298976aaed35f6"
+  },
+  {
+    "path": "docs/historical_license_audit/README.md",
+    "bytes": 267,
+    "sha256": "a4a64c03e44fc0d3ba45ed6861a2c73a89a7369df6c93be428e8dc57674f3049"
   },
   {
     "path": "docs/historical_license_audit/THIRD_PARTY_AUDIT.csv",
-    "bytes": 15326,
-    "sha256": "6a44046dd4ea4933deda10c22398e0c24f57a055eceab22bfc5460e112dce9bb"
+    "bytes": 15332,
+    "sha256": "770d0239b1a9f9db5423de87b14c66d6e0da0aa4df494edb39435c2159368751"
   },
   {
     "path": "docs/historical_license_audit/THIRD_PARTY_NOTICES.md",
-    "bytes": 4374,
-    "sha256": "95c73379b9a705c4c3b29682f0baaa70fb494ec2ad1397e20f8e6f9904ffac6b"
+    "bytes": 4506,
+    "sha256": "550c24eba205f0150d2ce4d249c27646ebff88f9767904f15c23f93d6cd90907"
   },
   {
     "path": "docs/license_reference_texts/Apache-2.0.txt",
@@ -116,8 +151,8 @@
   },
   {
     "path": "docs/supplement/artifact_manifest.md",
-    "bytes": 4813,
-    "sha256": "ba0e3f996065fa9fe42cb31e0859fe2fc6a9e27300772b4ee9df5493a6ef269e"
+    "bytes": 4908,
+    "sha256": "91b4fd90140a58e57015650adb8f199a4322e8140adc8a063efd4b23267c672b"
   },
   {
     "path": "docs/supplement/claim_to_evidence_table.md",
@@ -2388,5 +2423,490 @@
     "path": "source_packages/experiment64_strict_v427_external_replication/test_experiment64.py",
     "bytes": 5786,
     "sha256": "1ba6a9dc33fed1d3ddbcc92579821cc46df86f350caede71b859ac2f2f6c35ba"
+  },
+  {
+    "path": "third_party/BENCHMARK_LICENCE_SCOPE.md",
+    "bytes": 475,
+    "sha256": "8bdaee32b09adeaab7822620621770520dc09323bb1d00e6408a92c58841ce32"
+  },
+  {
+    "path": "third_party/MODIFICATIONS.md",
+    "bytes": 628,
+    "sha256": "9cf0e0c9783e5d51adb3e7143d11fe185974d43de0a091896f656bd66cf36ea5"
+  },
+  {
+    "path": "third_party/SOURCE_FILE_ATTRIBUTION.md",
+    "bytes": 292472,
+    "sha256": "1d0ecf5ed76ab26394b0b529064ea2cb65d14fea6937cdbf20b93557ba468cde"
+  },
+  {
+    "path": "third_party/THIRD_PARTY_NOTICES.md",
+    "bytes": 28717,
+    "sha256": "ea77a16a674d360b9441a9f16c0e25755da23d31f84b6657321603757e7ec087"
+  },
+  {
+    "path": "third_party/evidence/additional_license_fetch.json",
+    "bytes": 5082,
+    "sha256": "c176b673dff9eb3c292f2090a9db13c76830564f7931c77784d8ae09a2e232d6"
+  },
+  {
+    "path": "third_party/evidence/archive_inventory.json",
+    "bytes": 185630,
+    "sha256": "26bc6ce2a9e2969575f0ead43cf1de87d784c53e49cb37ef0c65575f026f76ad"
+  },
+  {
+    "path": "third_party/evidence/extra_fetch.json",
+    "bytes": 2409,
+    "sha256": "dad20092d213b9799d4bb677223f4ddb5a263828b21a1578cc9249fcc370d57f"
+  },
+  {
+    "path": "third_party/evidence/leandojo_tag.json",
+    "bytes": 341,
+    "sha256": "94b5f8f8a2ddfd1838898cdebc8927d15f348e950118b1152279385442a2610d"
+  },
+  {
+    "path": "third_party/evidence/mathlib_lake_manifest.json",
+    "bytes": 2090,
+    "sha256": "b283d36205658ac130fcc9a5de33a134a79e23a5bb568f734c288d010d8bb5de"
+  },
+  {
+    "path": "third_party/evidence/structured_origin_fields.json",
+    "bytes": 31184,
+    "sha256": "88c6969257c2c4b7edaf0fdf88c3611f7a21ab9a02f7b11cbdcac63906d9fd87"
+  },
+  {
+    "path": "third_party/evidence/upstream_fetch.json",
+    "bytes": 53657,
+    "sha256": "8a156958e1009d3973ce3b2f32ca3cbaaac4091cabdaeb80d04654f369b8dec2"
+  },
+  {
+    "path": "third_party/licenses/AIDoctrine__CollatzLayerA/5e27e335c8a1bca3b0cf2f89ee593d7bbe6d08fd/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/AfonsoBitoque__LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE",
+    "bytes": 10781,
+    "sha256": "669a31d83bb828f698a02b6b600cdd1c3a1487fdc0daaac0639f44a0dd9e353b"
+  },
+  {
+    "path": "third_party/licenses/AmosNico__validator/97e2990e74972b8d9f0769be6903cdff4b12cec6/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/AxiomMath__erdos-public/3ccf48c78b9df4aa26e1b2f90058bdd3f61da1ab/LICENSE",
+    "bytes": 1068,
+    "sha256": "7caa49b21ca61201a69c63e36cae55caba29b911e54665ce7a79e87d7c041d08"
+  },
+  {
+    "path": "third_party/licenses/GasStationManager__ArtificialAlgorithms/0d78ca4b92004fd539d97661e3c2eeef5099d0a8/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/ImperialCollegeLondon__FLT/1d5a9a2c4b2027b50cde88ecfa8f9b8e9a27c966/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Jostamon__erdos274-hs-abelian/2ab8a2e39e7dd7836adf577b52555f069244466f/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/KitaKen1__bezier-bernstein-voronovskaja-lean/3f35c631d215b3841242275bf3ed2c59ea153a2d/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Kuberwastaken__wowii-63-85-counterexample/aec1307942b2aaaf248694822def1a4a1289fa47/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/LoganEvans__chiral-gauge-dynamics/f05834b9272518ab2c885ba9dda4d5e359ab6977/LICENSE",
+    "bytes": 11344,
+    "sha256": "8670fd0d6d86ee6edb521616fcc72ded222b64504ffbfdff9228c0c587d275fa"
+  },
+  {
+    "path": "third_party/licenses/LoganEvans__litlib4/c689568887fbd8a7ff59c032af486c930053e77b/LICENSE",
+    "bytes": 11344,
+    "sha256": "8670fd0d6d86ee6edb521616fcc72ded222b64504ffbfdff9228c0c587d275fa"
+  },
+  {
+    "path": "third_party/licenses/MaskoMys__Collatz-Binary-Topology/a9a5167830f0cd0f2b98a2afd339b46234253fd9/LICENSE",
+    "bytes": 1068,
+    "sha256": "1872cb9bcf863e1c777821d39f4f3a53603833f2ed81dbccce26b184eef8c065"
+  },
+  {
+    "path": "third_party/licenses/MechMath__MechGeoBench/ef1ef410ee2bc9844108f71d23e0a5aebecd6488/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/MichaelStollBayreuth__LegendreQF/ffc076a15ac2da4f165746160677ec6b4f8b98cf/LICENSE",
+    "bytes": 18091,
+    "sha256": "f9c375a1be4a41f7b70301dd83c91cb89e41567478859b77eef375a52d782505"
+  },
+  {
+    "path": "third_party/licenses/NethermindEth__poseidon2-fv/ab3d3c4a567ee9fc99005b1527cca91c6c41edc6/LICENSE",
+    "bytes": 11369,
+    "sha256": "a9f18898208724ddd2dd0054328a679cedee434c531bc3024ca610b972e3b94f"
+  },
+  {
+    "path": "third_party/licenses/Paraxiom__scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/LICENSE",
+    "bytes": 11298,
+    "sha256": "0625716222b1ddbacfc102427bc8a0c158eca8b3230e99093f76e1a7db8d9503"
+  },
+  {
+    "path": "third_party/licenses/Paraxiom__scheming-proofs/02ceadbd6df9bcb7f471b0214e133ed2f43e5cfc/NOTICE",
+    "bytes": 337,
+    "sha256": "3eec9657b43417ec68e69c9400955250f58c25a7ea8691b3714fa9a619216441"
+  },
+  {
+    "path": "third_party/licenses/PatrickMassot__GlimpseOfLean/7dc816910638406f4232d23977bbcc59a335393c/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Paul-Lez__PersistentDecomp/ca97f19a836af9f83b0728a29268bc24eea75c33/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Pjotr5__IndependentTransversals/205372fe2b4b17ec77ef3f4629c43686223c1028/LICENSE",
+    "bytes": 10280,
+    "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff"
+  },
+  {
+    "path": "third_party/licenses/RemyDegenne__brownian-motion/f6ae873ca6043e9c9dd37a2b1c81da02580f0a9d/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Robertboy18__aint26-lean-solutions/feb939008bbd1f0dd2b24fd40ab0e592062d9717/LICENSE",
+    "bytes": 1070,
+    "sha256": "2a11af4fb3252131279ed68dbe2076ed22b9bb41736d6cfb608e56f90e5f2c92"
+  },
+  {
+    "path": "third_party/licenses/RobertoZunino__ITPCourse/258f979cc736fc2845e90ac7e0dd78c9b43ed798/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Shashi456__erdos-formalizations/286f856aa3fc08957b80950fd18a45aab8d045ea/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/TPColor__bastien-khormali-conjecture/ba950f184f1a682e3bc7d59391b4a126818d7f34/LICENSE",
+    "bytes": 1067,
+    "sha256": "14a52dcae356f73dc92b6b78a0552cebd8b75eaa708800c397da677dcf5b3f2c"
+  },
+  {
+    "path": "third_party/licenses/VTrelat__BEer/d846712bf296520d4f4b39d0e0ae48211a7e4e15/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/Verified-zkEVM__VCVio/0dbb0a202445c14219f505d20eb523012f78a31c/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/YaelDillies__misc-yd/10837040a49ab7580877d652dea7c172f69adbbf/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/YijunYuan__HarderNarasimhan/e10fd2c1127dc7720bc62fd2f81f7d1577ceff3f/LICENSE",
+    "bytes": 11356,
+    "sha256": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+  },
+  {
+    "path": "third_party/licenses/abcrtzyn__sudoku_prover/38bd5d3321af47bac8a0774e8dbd44d368cb9193/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/akakabrian__WOW-146/18201d492b52a2f82a2966551aed1640c45ec13b/LICENSE",
+    "bytes": 10173,
+    "sha256": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9"
+  },
+  {
+    "path": "third_party/licenses/alexoltean61__msphml-lean/9d6559db6502bc9813dcf028d7ea26ae80e9dc93/LICENSE",
+    "bytes": 1055,
+    "sha256": "26e0d1929275b46d985c28ec5b4885f4e6fc207d0ad9277773d58c4c13df3bba"
+  },
+  {
+    "path": "third_party/licenses/atvrager__Shoumei-RTL/10b3686647f1d76c853c196026cde45709c698b4/LICENSE",
+    "bytes": 34523,
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
+  },
+  {
+    "path": "third_party/licenses/beowulf127__wowii144-lean/046429d509b28c90ee2ec38ae27c1ad377c6a5fc/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/bergmannjg__Regex/1dc9404d9533e6888d30f1ec1807664f3620bbf4/LICENSE",
+    "bytes": 1060,
+    "sha256": "4ba7c45723cd1356609a1d88e21e66e8a0328cb3479c087522b683c3b7c0c2d9"
+  },
+  {
+    "path": "third_party/licenses/danuaemx__lean-257-2/53fd59dcf68dfcfbc93e213ed888ef72e6f150ba/LICENSE",
+    "bytes": 1063,
+    "sha256": "be22c690d726157deb87761f81be0da5d3e425519a7ed74d404226b55801703f"
+  },
+  {
+    "path": "third_party/licenses/dissensus-ai__lean-formalizations/b25f4583f497a0473dc43a36f04dd6dedc0b6fd6/LICENSE",
+    "bytes": 18658,
+    "sha256": "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f"
+  },
+  {
+    "path": "third_party/licenses/ericmerle3789__collatz-conditional-cycles/c24633cc8999ec509782125d664b47396cb89593/LICENSE",
+    "bytes": 1231,
+    "sha256": "3a0ba91659f98cf2e61a931313c65aa990ae21cb13f8529a0576834bc6fcf2ee"
+  },
+  {
+    "path": "third_party/licenses/ericmerle3789__collatz-nocycle-lean4/4ec239deeea642315fcb431ca0d22a09727911f3/LICENSE",
+    "bytes": 1067,
+    "sha256": "397b7da5a2065ed81a27f42fe4654148e1b41c26e2ddefaf2d80208bd3a0010d"
+  },
+  {
+    "path": "third_party/licenses/fc0web__lean-d-fumt8/2f4c97aee73b53378b8554b46297fb98f3a2b3c0/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/fpvandoorn__carleson/0ddd15b3b35b21a6ae175011f02fda5d1a0abd69/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/galvusdamor__lean4-planner/0c4ed9d804d52420b3a8842d03ab38500ba25861/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/galvusdamor__lean4-search-algorithms/cffe2a8136e7f45de1d3507f2397d9decc0d6424/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/google-deepmind__alphaproof-nexus-results/0647711a71183c1ea492ad60860776617ce1ea88/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/google-deepmind__miniF2F/f0a20e14c1eeccd859d51bb4c2b3ee487889c303/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/grenewode__LeanServer/9dfee1c7bc10d6ef50b1adf7cc947fc3b96a08ad/LICENSE",
+    "bytes": 10781,
+    "sha256": "669a31d83bb828f698a02b6b600cdd1c3a1487fdc0daaac0639f44a0dd9e353b"
+  },
+  {
+    "path": "third_party/licenses/ilyasergey__lean-move/ca5dbc9a6606bc60f5b57a82b733accbd8241b96/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/james18lpc__GibbsMeasure/ac72864b90fbf034b8cff207cc3b1d8564c4c582/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/katydid__paper-2026-verified-filter-lean/742e142a028c4af82e3055a08289195b1f3f1761/LICENSE",
+    "bytes": 11344,
+    "sha256": "049b579d7be6fd06e450ed45776b082f2079dd8c96c4f442bc201b05c9ff63b6"
+  },
+  {
+    "path": "third_party/licenses/kbuzzard__ClassFieldTheory/7af4d9fe773ce82d84fe2c3230f2d4f89c50922b/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/korbexmachina__GlimpseOfLean/7d99667f124922bc047dc0bbb2ca6cf63edd90f8/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/lean-dojo__LeanDojo/3bbc4c02fb8a058b282c8d3982a02d6563f3b08a/LICENSE",
+    "bytes": 1070,
+    "sha256": "886299eb430744b244f935c5e84b8813c8d275c42a4dc558d11048d20468f630"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__batteries/b25b36a7caf8e237e7d1e6121543078a06777c8a/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__batteries/bba0af6e930ebcbabfacf021b21dd881d58aaa9d/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__flt-regular/4e2d2985158da1db38a220229a1fe8ea47dd2555/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__lean-auto/7e8f3ab431d4790bd803e467d661b1be2522bfd3/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__mathlib4/29dcec074de168ac2bf835a77ef68bbe069194c5/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__physlib/08d3f3388230601397afab0b3a2ce4e64cc1eaae/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/leanprover-community__sphere-eversion/5ebc398fb50f29879811ad29f54ed47d4116bfe8/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/manman4__LeanMathAtlas/c6ec93594f406562eafe3a4a8d12b5006486ca78/LICENSE",
+    "bytes": 1064,
+    "sha256": "f5390b687efa569c6e01987e008ce3dc19cd83ed7351fd5f27215ff03ded2938"
+  },
+  {
+    "path": "third_party/licenses/mathTensor__AI4Math-Putnam2025/35279ef7f469f002aa2cbe90e8b3f7e5a849567b/LICENSE",
+    "bytes": 1067,
+    "sha256": "aefedac7af0ffed7ef87eb354176b963f2edf011ce9ec2cc5dc4113f4aa8e321"
+  },
+  {
+    "path": "third_party/licenses/mike1729__goedel-workbook-lean427/3c2afe6bfc6bdeca6b78d1f257468164bba56966/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/mirajcs__IsoperimetricInequality/300de78eafd39002343aa507630639f52347d335/LICENSE",
+    "bytes": 1074,
+    "sha256": "2111877f714ded683704eeaa82deb2f7c4a88b454c2f0ef5da7a1e4ebad72850"
+  },
+  {
+    "path": "third_party/licenses/mkwatson__unique-sums-notes/b982a044dc0806bcecaf111f2d72c24697bd78e9/LICENSE",
+    "bytes": 1068,
+    "sha256": "32330f8deae403bf96090bc1f48fc50679ae75126ff325a3f73ea91ee62cf419"
+  },
+  {
+    "path": "third_party/licenses/pablo-vs__discrete-game-theory/b12b2d88409864306299b03fa0c14b771fe47327/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/paolino__keri-lean/e54b668e546545db4dfe20b62bb2f21d417b5763/LICENSE",
+    "bytes": 9672,
+    "sha256": "862408e72516305d3ad47e3ed98b228a84109480e39879159405c77bdcb9fd9f"
+  },
+  {
+    "path": "third_party/licenses/primateria__erdos608/b50849234b8de6cb5c642b5cb0479cab2e9e9908/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/qscqesze__graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/LICENSE",
+    "bytes": 11338,
+    "sha256": "0eddf14e23130283991e0b1638d5f1b9918780e980eeb4ea7516f5a3743d3579"
+  },
+  {
+    "path": "third_party/licenses/qscqesze__graffiti-pc-conjecture-141/d86f3c5f41191c9447ea8162d34cb116013b85a1/NOTICE",
+    "bytes": 894,
+    "sha256": "6c73a43d11bfb79d9177ed34829302e12ec09e96a764b398e0a075d0f50c5fed"
+  },
+  {
+    "path": "third_party/licenses/repowazdogz-droid__omega-lean-proof/2fab5d1766dc40fbf8b52298c0fa9ca33a8489cf/LICENSE",
+    "bytes": 1069,
+    "sha256": "92a9888304184eb2a2a2057f75e2fc9cc96a1710cdb22a6ec22ec3cf13e8e49e"
+  },
+  {
+    "path": "third_party/licenses/ronut01__erdos1002-lean/b7c9e7db433a64de629989c31a344f5220fe360e/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/rupakm__leslie/58e58b2502b2a570e4ce4fdb6b40748c3cb30e5d/LICENSE",
+    "bytes": 11348,
+    "sha256": "2bff770fb4d71a7fe50ffc7ba59d70a5aff6aa96112d663feb1e2813cdb6753b"
+  },
+  {
+    "path": "third_party/licenses/schmittj__prop51-formal/02bd8cc32582f54d36e9a0ff471a44d4d0461017/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/scidonia__vericode/5ecd4ccc09bb133f7c34a73264d9a2291a99fb22/LICENSE",
+    "bytes": 11346,
+    "sha256": "4e4aefa71e8f9b43f548f5103ac7d78a13b1d52dfbb0d4498aaed8b853536eac"
+  },
+  {
+    "path": "third_party/licenses/spectra-research__asymptotic-tensor-rank-semicontinuity/f3a83b4e862c84ab718163d063093ad64644c9ef/LICENSE",
+    "bytes": 10760,
+    "sha256": "d8d6475adc9148cf69643a2fa3c4f21f406ef202a0914db0096e7910b6c5751c"
+  },
+  {
+    "path": "third_party/licenses/taeyool__lean-flag-algebras-release/06423a2e6c6f8d9435a8956e2b7409e210154b8c/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "third_party/licenses/tamura70__lean_study/addb8e51bf0d78285bf38dff8c18d994436d6f96/LICENSE",
+    "bytes": 11344,
+    "sha256": "6f3a238ef230ec5475252cae8f6209ac3e9a7c3d2af21e93b4fd22f64c2c0af0"
+  },
+  {
+    "path": "third_party/licenses/teorth__pfr/e7278b10821f3b0fef1ed500f6666ef414931dbb/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/thefundamentaltheor3m__Sphere-Packing-Lean/4e45ef809c68f6e51d9a02552ba04e6fd79d0fd7/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/licenses/tobiasosborne__ProjSeminorm/b614563b9e1ceb5e9828646c975d8c57fee9e44a/LICENSE",
+    "bytes": 10712,
+    "sha256": "165190c7a66ae2c653105b892d5ddf93f55a3719f588b96f31575a3982898b85"
+  },
+  {
+    "path": "third_party/licenses/trishullab__PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/lean4/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "third_party/licenses/verse-lab__Lentil/7f83b7493c3aa839d1aeeeeacc5b3711116c2856/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "third_party/repositories.json",
+    "bytes": 130209,
+    "sha256": "2214b0fea3b91b407888a9aa2ccc94e3f91432df3eb1e2cc688903dc36db7ec9"
+  },
+  {
+    "path": "third_party/source/LegendreQF_original_source.zip",
+    "bytes": 34657,
+    "sha256": "24c8ce361a6bf3dfff768290b75027ca840c0584ed98ff4de77099b02ff9e25e"
+  },
+  {
+    "path": "third_party/source/LegendreQF_source_receipt.json",
+    "bytes": 273,
+    "sha256": "d9b0bf3ab0a92804dd1227e83b6bd637ce22bf007d76fa60a51d2537ff36e3db"
+  },
+  {
+    "path": "third_party/source_file_attribution.json",
+    "bytes": 585994,
+    "sha256": "f94b0673fe0c86f21a09c0c73bb84a4d782d3f3c1f985a1721ea52bc3a2d4980"
   }
 ]

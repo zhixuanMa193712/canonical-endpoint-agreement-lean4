@@ -1,0 +1,56 @@
+[
+  {
+    "name": "putnam_root.json",
+    "url": "https://api.github.com/repos/trishullab/PutnamBench/contents?ref=34eba93650f2fa803ca6aae6dfd2c9f22d46c00d",
+    "sha256": "1c17be415b641e7f9fd265ef85c2259008438d7b363af84ea4e28a0e3a68f70f",
+    "status": "downloaded"
+  },
+  {
+    "name": "mathlib_lake_manifest.json",
+    "url": "https://raw.githubusercontent.com/leanprover-community/mathlib4/29dcec074de168ac2bf835a77ef68bbe069194c5/lake-manifest.json",
+    "sha256": "b283d36205658ac130fcc9a5de33a134a79e23a5bb568f734c288d010d8bb5de",
+    "status": "downloaded"
+  },
+  {
+    "name": "leandojo_license.txt",
+    "url": "https://raw.githubusercontent.com/lean-dojo/LeanDojo/v4.20.0/LICENSE",
+    "sha256": "886299eb430744b244f935c5e84b8813c8d275c42a4dc558d11048d20468f630",
+    "status": "downloaded"
+  },
+  {
+    "name": "leandojo_readme.md",
+    "url": "https://raw.githubusercontent.com/lean-dojo/LeanDojo/v4.20.0/README.md",
+    "sha256": "28251e5d64cf91be6d1bf65179372eb7d8f36d274090b42a36fa0850162a9c0c",
+    "status": "downloaded"
+  },
+  {
+    "name": "putnam_readme.md",
+    "url": "https://raw.githubusercontent.com/trishullab/PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/README.md",
+    "sha256": "6a157e86321ea08a11766c18e20d28b6204a73cd5a96285fffc918120c976758",
+    "status": "downloaded"
+  },
+  {
+    "name": "putnam_lean4_tree.json",
+    "url": "https://api.github.com/repos/trishullab/PutnamBench/contents/lean4?ref=34eba93650f2fa803ca6aae6dfd2c9f22d46c00d",
+    "sha256": "e547f9fb436158e9126582da27111744f581f3b11b5b7beafce41a94bf2e8c73",
+    "status": "downloaded"
+  },
+  {
+    "name": "batteries_benchmark_license.txt",
+    "url": "https://raw.githubusercontent.com/leanprover-community/batteries/bba0af6e930ebcbabfacf021b21dd881d58aaa9d/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "name": "leandojo_tag.json",
+    "url": "https://api.github.com/repos/lean-dojo/LeanDojo/git/ref/tags/v4.20.0",
+    "sha256": "94b5f8f8a2ddfd1838898cdebc8927d15f348e950118b1152279385442a2610d",
+    "status": "downloaded"
+  },
+  {
+    "name": "putnam_lean4_license.txt",
+    "url": "https://raw.githubusercontent.com/trishullab/PutnamBench/34eba93650f2fa803ca6aae6dfd2c9f22d46c00d/lean4/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  }
+]
