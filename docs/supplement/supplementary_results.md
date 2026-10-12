@@ -7,12 +7,12 @@ The complete root-positive surface is shown below. Every cell is an exact count 
 | Root-local candidate view | Raw | Textual (`text48`) | Structural |
 |---|---:|---:|---:|
 | Full panel (`L0`) | 57 | 57 | 70 |
-| No question-mark suggestion heads (`L-no-question`) | 42 | 42 | 64 |
+| No heads ending in ? (`L-no-question`) | 42 | 42 | 64 |
 | No `aesop` (`L-no-aesop`) | 44 | 44 | 65 |
 | No `aesop?` (`L-no-aesop-question`) | 44 | 44 | 65 |
 | No `aesop` + `aesop?` (`L-no-aesop-pair`) | 44 | 44 | 62 |
 | No direct suggestions/control wrappers (`L-no-direct-wrapper`) | 42 | 42 | 64 |
-| Genealogy-deduplicated (`L-mechanism-diverse`) | 30 | 30 | 33 |
+| After genealogy deduplication (`L-mechanism-diverse`) | 30 | 30 | 33 |
 
 Full-panel terminality decomposition:
 
@@ -47,12 +47,12 @@ Repository order is Carleson, FLT, Sphere-Packing-Lean, and Brownian Motion. All
 | Candidate view, structural endpoint | Repository rates | Macro mean | 95% resampling interval |
 |---|---|---:|---|
 | Full panel (`L0`) | 79.17%, 66.67%, 91.67%, 54.17% | 72.92% | [60.42%, 85.42%] |
-| No question-mark suggestion heads (`L-no-question`) | 66.67%, 66.67%, 91.67%, 41.67% | 66.67% | [47.92%, 85.42%] |
+| No heads ending in ? (`L-no-question`) | 66.67%, 66.67%, 91.67%, 41.67% | 66.67% | [47.92%, 85.42%] |
 | No `aesop` (`L-no-aesop`) | 70.83%, 66.67%, 91.67%, 41.67% | 67.71% | [48.96%, 85.42%] |
 | No `aesop?` (`L-no-aesop-question`) | 70.83%, 66.67%, 91.67%, 41.67% | 67.71% | [48.96%, 85.42%] |
 | No `aesop` + `aesop?` (`L-no-aesop-pair`) | 66.67%, 58.33%, 91.67%, 41.67% | 64.58% | [47.92%, 83.33%] |
 | No direct suggestions/control wrappers (`L-no-direct-wrapper`) | 66.67%, 66.67%, 91.67%, 41.67% | 66.67% | [47.92%, 85.42%] |
-| Genealogy-deduplicated (`L-mechanism-diverse`) | 29.17%, 45.83%, 41.67%, 20.83% | 34.375% | [25.00%, 43.75%] |
+| After genealogy deduplication (`L-mechanism-diverse`) | 29.17%, 45.83%, 41.67%, 20.83% | 34.375% | [25.00%, 43.75%] |
 
 For the primary genealogy-deduplicated structural view (archive label `L-mechanism-diverse`), nonterminal macro mean was 17.708% and cross-family macro mean was 34.375%. Every repository contributed each signal.
 
@@ -82,7 +82,7 @@ All six modes matched the prespecified endpoint content exactly. Comparison used
 
 ## S11. External-frame repository rates
 
-| Repository | `L0` rate | Mechanism-diverse rate |
+| Repository | `L0` rate | Frequency after genealogy deduplication |
 |---|---:|---:|
 | `PatrickMassot/GlimpseOfLean` | 47.92% | 22.92% |
 | `AfonsoBitoque/LeanServer` | 62.50% | 39.58% |
@@ -141,7 +141,7 @@ and paired-response units:
 | Left succeeds only | 18 |
 | Right succeeds only | 25 |
 
-Prespecified witness macro outputs were A=0, B=0, C=1, and D=0. The all-concordant empirical bootstrap produced A and B intervals `[0,0]`, C interval `[1,1]`, and a B empirical one-sided value of 0. The paired-control delta in C was 0.958333 with interval [0.875,1.0]. The limited witness, control, and repository support makes these descriptive observations rather than evidence of general continuation equivalence; an all-concordant empirical bootstrap does not bound unseen discordance.
+The archived measures A, B, and C use probes for which at least one side succeeds. A is the fraction with exactly one successful side; B also counts probes where both sides succeed but reach different structural endpoints; C is the fraction where both sides succeed at the same structural endpoint. D indicates whether a root has any discordant probe of either kind. Their witness macro means, with equal repository weights, were A=0, B=0, C=1, and D=0. The all-concordant empirical bootstrap produced A and B intervals `[0,0]`, C interval `[1,1]`, and a B empirical one-sided value of 0. The paired-control delta in C was 0.958333 with interval [0.875,1.0]. The limited witness, control, and repository support makes these descriptive observations rather than evidence of general continuation equivalence; an all-concordant empirical bootstrap does not bound unseen discordance.
 
 ## S13. Second-machine exact subset
 
@@ -149,12 +149,7 @@ The second-machine subset contains four repositories, four roots per repository,
 
 ![](FigS1_continuation_second_machine.png)
 
-**Supplementary Figure S1. Continuation information boundary and
-second-machine reproducibility.** The upper flow records root selection, paired
-probe responses, and the four prespecified information minima. The lower rail
-reports exact reproduction of the frozen 16-root projection on a second
-machine. This portability result does not alter the external-frame or
-continuation decisions.
+**Supplementary Figure S1. Continuation sample and reproduction on a second machine.** Of 576 source roots, 40 supply an eligible witness and 536 do not. The 36 paired controls belong to the selected witness roots; they are not an additional group of roots. Of these, 33 yield informative paired deltas. The lower panel reports exact reproduction of the frozen 16-root projection on a second machine. This portability result does not alter the external-frame or continuation decisions.
 
 ## S14. Prespecified downstream branch selection
 
@@ -186,7 +181,7 @@ eligible-root totals (653, 318, 394, and 167) and three repository-level
 exclusions. However, the compact archive does not contain every nonselected
 eligible-root record. It can therefore verify selected-row identities and
 ranks, but cannot prove from the deposited material alone that the 24 selected
-ranks are globally the first 24 among each complete eligible frame. This is an
+ranks are globally the first 24 among each complete eligible frame. This is a
 limit on reconstructing the original selection from the compact archive.
 
 ## S16. Immutable offline reanalysis
@@ -209,25 +204,25 @@ manual reconciliation were zero.
 | Policy | Candidate calls | Downstream calls | Actual process calls | Selected depth-2 branches | Unique complete-case endpoints |
 |---|---:|---:|---:|---:|---:|
 | Full expansion | 1,344 | 2,856 | 4,200 | 357 | 410 |
-| Effect-aware selection | 1,344 | 1,800 | 3,144 | 225 | 410 |
-| Head-based deduplication | 1,344 | 2,856 | 4,200 | 357 | 410 |
-| Node-local matched-child-count random control (`fixed_budget_random`) | 1,344 | 1,800 | 3,144 | 225 | 381 |
+| Endpoint selection | 1,344 | 1,800 | 3,144 | 225 | 410 |
+| Deduplication by tactic head | 1,344 | 2,856 | 4,200 | 357 | 410 |
+| Random control matching child counts at each node (`fixed_budget_random`) | 1,344 | 1,800 | 3,144 | 225 | 381 |
 
-Effect-aware selection saved 1,056 actual Lean process calls relative to full
+Endpoint selection saved 1,056 actual Lean process calls relative to full
 expansion, a reduction of 25.1429%. The paired mean saving was 16.5 calls per
 root, the dataset-stratified bootstrap 95% interval was [14.5,18.5], and the
-protocol-specified normal-approximation one-sided 95% lower bound, `mean(d) - z_0.95 * sd(d) / sqrt(n)`, was 14.8196. Head-based
-deduplication saved no calls. Equal-budget random
-pruning matched the effect-aware call count but did not preserve the
+protocol-specified normal-approximation one-sided 95% lower bound, `mean(d) - z_0.95 * sd(d) / sqrt(n)`, was 14.8196. Deduplication
+by tactic head saved no calls. Equal-budget random
+pruning matched the endpoint call count but did not preserve the
 complete-case strict-endpoint union and matched the full per-root endpoint set
-on 47/63 roots, versus 63/63 for effect-aware selection.
+on 47/63 roots, versus 63/63 for endpoint selection.
 
 One miniF2F root was unevaluable for paired coverage after a Lean internal panic in three policy cells. Its launched calls remain included in efficiency, and its coverage outcome is neither replaced nor imputed. Full-sample coverage is therefore unavailable.
 
 The remaining 63 roots form a non-prespecified complete-case sensitivity set.
-Full and effect-aware selection each solved zero roots; paired coverage loss was
+Full and endpoint selection each solved zero roots; paired coverage loss was
 zero and its one-sided 95% Wilson score upper bound was 0.0411768. The strict-endpoint union
-and every per-root endpoint set were identical between full and effect-aware
+and every per-root endpoint set were identical between full and endpoint
 selection on these 63 roots. Because no root was solved and one frozen root
 was unevaluable, these observations do not establish theorem-solve-rate
 improvement or complete-sample coverage noninferiority.
@@ -245,31 +240,31 @@ This section states the scope of the reported measurements and their reuse. Fina
 | Endpoint abstraction | Textual and structural canonicalizers exclude proof terms, runtime, messages, internal traces, and selected metadata. Text-only and structure-only matches are both observed. The completed multi-step evaluation uses only `text48_v1`. | Prespecified endpoint equality is not proof-term identity, semantic equivalence, or cost equivalence. No completed same-root multi-step comparison yet measures the consequences of textual versus strict structural keys. |
 | Continuation information | The observed witness sample was all-concordant on its informative denominator, but realized witness, control, and repository support remained restricted. | The authoritative archive label remains `continuation_inconclusive`; the observed cells do not bound arbitrary unseen trajectories. |
 | Local branch selection | Representative selection reduced scheduled downstream calls by 25% and preserved the strict-endpoint union. Two side-specific witness--probe comparisons changed response multiplicity through generated local-instance display names. | The exact label remains `coverage_loss_detected`; Section S14 reports the coverage comparison. |
-| Hard-root efficiency | Effect-aware selection saved 1,056 actual Lean process calls. One root lacks the paired coverage outcome under the frozen no-retry rule, and no complete-case root was solved by either principal policy. | Process-call efficiency is measured on all 64 roots; coverage and theorem-solve-rate improvement are not established. Section S17 reports the complete-case sensitivity analysis. |
-| Oracle-assisted multi-step solvable search | Effect-aware selection solved 59/64 roots versus 58/64 for full expansion, with 0/64 full-only losses and 1,207 fewer tactic invocations. Every policy received the root's authored-witness actions. | The one-sided 95% Wilson upper bound was 0.04056 under the finite-frame working model. All savings occurred in depth-3--6 roots. The solve-count difference is not interpreted as superiority, and candidate acquisition was not evaluated. |
+| Hard-root efficiency | Endpoint selection saved 1,056 actual Lean process calls. One root lacks the paired coverage outcome under the frozen no-retry rule, and no complete-case root was solved by either principal policy. | Process-call efficiency is measured on all 64 roots; coverage and theorem-solve-rate improvement are not established. Section S17 reports the complete-case sensitivity analysis. |
+| Oracle-assisted multi-step solvable search | Endpoint selection solved 59/64 roots versus 58/64 for full expansion, with 0/64 full-only losses and 1,207 fewer tactic invocations. Every policy received the root's authored-witness actions. | The one-sided 95% Wilson upper bound was 0.04056 under a binomial working model. All savings occurred in depth-3--6 roots. The solve-count difference is not interpreted as superiority, and candidate acquisition was not evaluated. |
 | Reproducibility | Same-server re-execution changes implementation, order, and process isolation. Second-machine re-execution covers 16 frozen roots and 368 attempts. | Exact prespecified-content agreement is established only on the re-executed scopes. |
-| Public availability | The release candidate contains immutable bundles, manifests, licence records, and reproduction instructions. Public DOI and GitHub placeholders remain until deposition and clean-download verification are complete. | Final submission requires replacing the placeholders and rerunning the release verification gate. |
+| Public availability | Zenodo version 1.22.2 contains eleven unchanged archives, a source snapshot, manifests, licence records, and the final correction layer; access details appear in the Artifact Manifest. | Archive integrity and corrected-analysis reconstruction are separate checks. Neither adds a new scientific execution. |
 
 ## S19. Oracle-assisted known-solvable multi-step branch-selection confirmation
 
-The immutable archive and protocol use the historical label `witness-injected`; the manuscript-facing description is oracle-assisted because every policy receives disclosed authored-witness actions. The frozen candidate frame contained 192 roots, and live qualification wrote 192/192 receipts. There were 142 qualification passes and 50 failures, including one operational failure. The qualified confirmation pool contained 38 authored-depth-2 roots and 55 authored-depth-3--6 roots. The frozen confirmation used 32 roots from each stratum and did not replace any root manually. This balanced 64-root total was a pre-outcome computational budget; no power or precision calculation for the sample size is recorded. The 16-root pilot completed all 64 jobs without operational failure, and full expansion produced 13 multi-step solves before confirmation was frozen.
+The immutable archive and protocol use the historical label `witness-injected`; the main manuscript describes this as search with supplied actions because every policy receives disclosed authored-witness actions. This is also called oracle-assisted search in the supplementary methods. The frozen candidate frame contained 192 roots, and live qualification wrote 192/192 receipts. There were 142 qualification passes and 50 failures, including one operational failure. The qualified confirmation pool contained 38 authored-depth-2 roots and 55 authored-depth-3--6 roots. The frozen confirmation used 32 roots from each stratum and did not replace any root manually. This balanced 64-root total was a pre-outcome computational budget; no power or precision calculation for the sample size is recorded. The 16-root pilot completed all 64 jobs without operational failure, and full expansion produced 13 multi-step solves before confirmation was frozen.
 
 Confirmation completed 256/256 root--policy jobs. All 64 roots had four policy receipts, every attempt ordinal was one, and operational failures, scientific retries, and manual reconciliations were all zero. Every reported solve used at least two external tactic invocations.
 
 | Policy | Multi-step solved roots | Solve rate | Tactic invocations | Expanded nodes | Observed endpoint union | Median time to first proof (s) | Wall clock (s), descriptive |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Full expansion | 58/64 | 90.625% | 10,147 | 417 | 772 | 5.182 | 1,772.36 |
-| Effect-aware selection | 59/64 | 92.188% | 8,940 | 373 | 836 | 5.168 | 1,604.95 |
-| Head-based deduplication | 56/64 | 87.500% | 10,019 | 411 | 809 | 5.093 | 1,731.78 |
-| Node-local matched-child-count random control (`fixed_budget_random`) | 40/64 | 62.500% | 14,269 | 563 | 1,025 | 4.556 | 2,238.03 |
+| Endpoint selection | 59/64 | 92.188% | 8,940 | 373 | 836 | 5.168 | 1,604.95 |
+| Deduplication by tactic head | 56/64 | 87.500% | 10,019 | 411 | 809 | 5.093 | 1,731.78 |
+| Random control matching child counts at each node (`fixed_budget_random`) | 40/64 | 62.500% | 14,269 | 563 | 1,025 | 4.556 | 2,238.03 |
 
-For the prespecified paired coverage estimand, effect-aware selection had zero losses and one gain relative to full expansion. There were no operationally incomplete pairs to count under the worst-case rule. The full-only loss fraction was therefore 0/64, with a one-sided 95% Wilson score upper bound of 0.0405595. This value is a protocol-defined finite-frame summary under a binomial working model; it is not a population bound for mathlib, other repositories, or other canonicalizers. The 59/64 versus 58/64 solve counts are not interpreted as evidence of superiority. Full and effect-aware per-root endpoint sets were exactly equal on 58/64 roots (90.625%); this diagnostic was not a universal endpoint-preservation result.
+For the prespecified paired coverage estimand, endpoint selection had zero losses and one gain relative to full expansion. There were no operationally incomplete pairs to count under the worst-case rule. The full-only loss fraction was therefore 0/64, with a one-sided 95% Wilson score upper bound of 0.0405595. This value is a Wilson uncertainty summary under the specified binomial working model; it is not a population bound for mathlib, other repositories, or other canonicalizers. The 59/64 versus 58/64 solve counts are not interpreted as evidence of superiority. Full and endpoint per-root endpoint sets were exactly equal on 58/64 roots (90.625%); this diagnostic was not a universal endpoint-preservation result.
 
-Effect-aware selection used 1,207 fewer tactic invocations than full expansion, an 11.895% reduction. The counter includes every candidate executed to observe and classify an endpoint, including candidates whose children are not retained. The paired mean full-minus-effect-aware saving was 18.859 invocations per root, with standard deviation 49.090. The authored-depth-stratified 20,000-replicate percentile-bootstrap 95% interval was [8.828,30.703]. The separately frozen normal-approximation one-sided 95% lower bound, `mean(d) - z_0.95 * sd(d) / sqrt(n)`, was 8.766.
+Endpoint selection used 1,207 fewer tactic invocations than full expansion, an 11.895% reduction. The counter includes every candidate executed to observe and classify an endpoint, including candidates whose children are not retained. The paired mean full-minus-endpoint saving was 18.859 invocations per root, with standard deviation 49.090. The authored-depth-stratified 20,000-replicate percentile-bootstrap 95% interval was [8.828,30.703]. The separately frozen normal-approximation one-sided 95% lower bound, `mean(d) - z_0.95 * sd(d) / sqrt(n)`, was 8.766. Here d is the paired saving in invocations, n is the number of roots, and z_0.95 is the 95th percentile of the standard normal distribution.
 
-The per-root saving distribution was concentrated: 13/64 roots had positive savings, 51/64 had zero savings, and none had negative savings; the minimum, first quartile, median, and third quartile were all 0, and the maximum was 234 invocations. In the 32 authored-depth-2 roots, both policies executed 1,184 invocations and solved 32/32 roots, so the observed saving was 0. In the 32 authored-depth-3--6 roots, full expansion executed 8,963 invocations and solved 26/32 roots, whereas effect-aware selection executed 7,756 invocations and solved 27/32. The 1,207-invocation difference is 13.466% of the full-policy total in that stratum and accounts for the entire aggregate saving. These are exact descriptive strata, not post hoc inferential subgroups.
+The per-root saving distribution was concentrated: 13/64 roots had positive savings, 51/64 had zero savings, and none had negative savings; the minimum, first quartile, median, and third quartile were all 0, and the maximum was 234 invocations. In the 32 authored-depth-2 roots, both policies executed 1,184 invocations and solved 32/32 roots, so the observed saving was 0. In the 32 authored-depth-3--6 roots, full expansion executed 8,963 invocations and solved 26/32 roots, whereas endpoint selection executed 7,756 invocations and solved 27/32. The 1,207-invocation difference is 13.466% of the full-policy total in that stratum and accounts for the entire aggregate saving. These are exact descriptive strata, not post hoc inferential subgroups.
 
-Endpoint collisions were observed by the effect-aware policy on 52/64 roots: 22/32 depth-2 roots contributed 79 collisions, and 30/32 depth-3--6 roots contributed 681. The depth-2 stratum therefore contained endpoint collisions without call savings. All observed savings occurred in the deeper stratum, a pattern consistent with greater opportunities to avoid subsequent branch expansion; depth was not experimentally manipulated.
+Endpoint collisions were observed by the endpoint policy on 52/64 roots: 22/32 depth-2 roots contributed 79 collisions, and 30/32 depth-3--6 roots contributed 681. The depth-2 stratum therefore contained endpoint collisions without call savings. All observed savings occurred in the deeper stratum, a pattern consistent with greater opportunities to avoid subsequent branch expansion; depth was not experimentally manipulated.
 
 The independent audit reconstructed every policy's solve, invocation, expanded-node, and operational-failure totals from immutable receipts. It verified all 256 job identities, exact transition-to-invocation accounting, all attempt ordinals equal to one, zero scientific retries, and zero manual reconciliation. The Artifact Manifest identifies the exact result bundle and protocol.
 
@@ -283,7 +278,7 @@ A post-outcome sensitivity resampled all 63 source-file clusters, retained every
 
 The zero-scientific-tactic recruitment stage exhausted its 52-repository frozen frame. Thirty-three repositories passed qualification, four were definitively ineligible, and 15 were operationally unresolved; lineage analysis retained 32 lineage-deduplicated representatives. The strict external replication froze all 32 representatives and 16 authored-replay-qualified roots per repository before scientific execution. Every one of the 512 roots produced a worker receipt, all 512 were evaluable, and all 11,776 requested candidate invocations were recorded. There was no missing-root imputation, scientific repository replacement, or manual reconciliation.
 
-| Repository | Full-panel frequency | Genealogy-deduplicated frequency | Cross-family roots | Nonterminal roots |
+| Repository | Full-panel frequency | Frequency after genealogy deduplication | Cross-family roots | Nonterminal roots |
 |---|---:|---:|---:|---:|
 | `Paraxiom/scheming-proofs` | 62.50% | 31.25% | 5/16 | 8/16 |
 | `NethermindEth/poseidon2-fv` | 68.75% | 37.50% | 7/16 | 11/16 |

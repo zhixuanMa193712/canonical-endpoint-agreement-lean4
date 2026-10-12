@@ -11,7 +11,7 @@
 - Root-state SHA-256: `8d1bb10a527ddb6f2cd51cd9fa42debdceaed627dc47ae623797361f3ec0595a`
 - Authored tactic: `rwa [AbsoluteValue.pos_iff] at hv ⊢`
 
-## Exact displayed pre-state
+## Displayed starting state with normalized identifiers
 
 ```text
 F : Type u_1
@@ -32,7 +32,7 @@ hv : 0 < v a
 | `simp` | `simp` | simplification | Yes | No | `88572d5b854271f6a975b9a6a17fb4c7d6ff37787256c73f69c6a035eff1bece` |
 | `norm_num` | `norm_num` | arithmetic normalization | Yes | No | `88572d5b854271f6a975b9a6a17fb4c7d6ff37787256c73f69c6a035eff1bece` |
 
-Both branches produced:
+Both branches produced the following displayed state. Generated instance identifiers use the frozen textual normalization; the universe levels remain explicit.
 
 ```text
 F : Type u_1
@@ -46,7 +46,7 @@ hv : 0 < v a
 ⊢ ¬a = 0
 ```
 
-The endpoint differs from the initial state, retains one goal, and has equal textual content in the two branches. It is therefore a cross-head, cross-family, non-initial, nonterminal witness under the untouched-confirmation definition. The row also contains other terminal same-endpoint pairs; those are not needed for this example.
+The endpoint differs from the initial state, retains one goal, and has equal textual content in the two branches. It is therefore a witness with different tactic heads and families, a changed endpoint, and one remaining goal under the confirmation definition. The row also contains other terminal same-endpoint pairs; those are not needed for this example.
 
 The example does not compare proof terms, messages, time, or future trajectories. It should never be described as a global replacement rule for `simp` and `norm_num`.
 

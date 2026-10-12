@@ -2,7 +2,9 @@
 
 ## Archive verification
 
-Download the eleven versioned bundles identified in the Artifact Manifest. Verify their byte counts and SHA-256 hashes, then check the internal manifests and export receipts. The published numbers are reconstructed from these immutable bundles; a new execution is a reproduction, not a replacement source for the reported results. Original protocol and execution histories remain in the archives.
+Download and extract the version 1.22.2 ZIP and embedded source snapshot from the DOI above. Verify the outer checksum, both release manifests, and the eleven archive identities. Original protocols and execution histories remain unchanged.
+
+With Python 3.11 or later and NumPy 2.3.5, run `python3 reproduce_correction.py --artifacts /absolute/path/to/zenodo/artifacts` from the extracted `github/` directory. This verifies three input archives and compares five reconstructed correction and cluster-sensitivity outputs byte for byte. It makes no Lean calls. A fresh public download on 21 September 2026 passed both release manifests, all eleven archive checksums, this five-output reconstruction, and the six historical portable-audit workers. This verifies those offline scopes, not full experimental re-execution.
 
 ## Offline reconstruction by research theme
 
@@ -10,7 +12,7 @@ Download the eleven versioned bundles identified in the Artifact Manifest. Verif
 2. **External recurrence.** First reproduce the original 12-repository and 32-repository indicators as archive checks, then apply the v1.21 lexical-label correction to the stored scientific executions. Use the corrected head and family labels with the unchanged structural endpoints to reconstruct the revised macro estimates, resampling intervals, root-level distributions, source-file sensitivity, and recurring pairs. For the strict frame, also verify all 52 qualification receipts, 33 passing repositories, 32 lineage representatives, 512 scientific roots, and 11,776 invocations. The old audit alone cannot certify corrected labels.
 3. **Reproducibility.** Verify same-server M0–M5 content equality using the fields in S6, the second-machine 16-root/368-attempt comparison, and the byte-exact offline tables. These checks validate their frozen scopes rather than add independent recurrence samples.
 4. **Bounded branch selection.** Reconstruct continuation selection and response denominators; the local 896-cell comparison, 128-call reduction, endpoint unions and side-specific differences; and the hard-root 64-root/256-job/14,688-call comparison. Count all launched calls while leaving the unavailable hard-root coverage outcome missing.
-5. **Oracle-assisted multi-step selection.** Reconstruct the pilot-disjoint 64-root confirmation and all 256 jobs. Verify full/effect-aware solve counts of 58/59, invocation counts of 10,147/8,940, zero full-only losses, the Wilson bound, paired saving interval, and authored-depth strata.
+5. **Oracle-assisted multi-step selection.** Reconstruct the pilot-disjoint 64-root confirmation and all 256 jobs. Verify full/endpoint solve counts of 58/59, invocation counts of 10,147/8,940, zero full-only losses, the Wilson bound, paired saving interval, and authored-depth strata.
 
 ## Optional execution reproduction
 
