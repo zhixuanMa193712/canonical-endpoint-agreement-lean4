@@ -1,7 +1,10 @@
 # Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4
 
-Reproducibility package accompanying manuscript v1.22. Dataset DOI (reserved):
-https://doi.org/10.5281/zenodo.22110052. See RELEASE_STATUS.md for publication status.
+Code packaging **1.22.3**, synchronized with the English manuscript and supplement
+editorial revision of **8 October 2026**. The published evidence dataset remains
+**1.22.2**: https://doi.org/10.5281/zenodo.22110052.
+This update does not modify that deposit or its eleven original archives.
+See RELEASE_STATUS.md and CHANGELOG.md for code/data version distinctions.
 
 ## Results and data
 
@@ -23,6 +26,8 @@ corrected numbers. The multi-step comparison is oracle-assisted and known-solvab
 - `docs/supplement/`: study map, variables, claims, manifests and reproduction order.
 - `docs/`: licence references and a 52-candidate provenance inventory.
 - `reproduce_correction.py`: temporary-directory reproduction of final corrections.
+- `figures_20261008/`: final figure assets, unchanged plotting sources and numerical inputs.
+- `reproduce_figures.py`: portable wrapper for the four figures and Figure S1.
 
 ## Quick offline reproduction
 
@@ -38,8 +43,9 @@ three input archive hashes, executes the unchanged correction script in a new
 temporary workspace, compares five JSON/JSONL outputs with the bundled final
 outputs, and writes a receipt. Input archives and bundled results are not modified.
 The eleven archive checksums are independently listed in the dataset manifest.
-Figure 4 regeneration additionally requires matplotlib; `figure4.py` expects a
-`paper_v1.21/latex` output directory. It is not part of the default audit.
+The historical `paper_v1.21/figure4.py` is not the current manuscript figure pipeline.
+For current figures, see figures_20261008/README.md. Their order is method,
+confirmation, external replication, and sensitivity/repeat execution.
 
 ## Optional full execution
 
@@ -54,7 +60,8 @@ Full execution has not been rerun for this packaging task.
 ## Licence and citation
 
 See `LICENSE_STATUS.md`. No blanket third-party relicensing is intended.
-Author metadata is in `CITATION.cff`; DOI and public release URL remain pending.
+Author metadata is in `CITATION.cff`. The dataset DOI is published; it is not a
+separately assigned software DOI. Cite the exact Git commit for this code revision.
 Technical archive labels are provenance identifiers, not additional experiments.
 
 ## Licence supplement 1.22.1

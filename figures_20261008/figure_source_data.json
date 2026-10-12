@@ -1,0 +1,463 @@
+{
+  "width_mm": 119,
+  "archive_sources": [
+    {
+      "archive": "experiment49_candidate_endpoint_robustness_results.zip",
+      "member": "artifacts/analysis/summary.json",
+      "sha256": "f57f6938c5de6d32339f2ca9e8cb2789ceed1dd2263feb7155ee76b35caefdc2"
+    },
+    {
+      "archive": "experiment50_independent_reexecution_fix1_results.zip",
+      "member": "artifacts/analysis_fix1/summary.json",
+      "sha256": "111e3e2e9b0686dc18240120ee065953a3d28cf09f3dd39ac3515c5542a8f78f"
+    }
+  ],
+  "confirmation": {
+    "repositories": [
+      {
+        "repository": "Carleson",
+        "positive": 17,
+        "roots": 24,
+        "nonterminal": 11,
+        "cross_family": 10,
+        "pairs": 65
+      },
+      {
+        "repository": "FLT",
+        "positive": 13,
+        "roots": 24,
+        "nonterminal": 7,
+        "cross_family": 8,
+        "pairs": 56
+      },
+      {
+        "repository": "Sphere Packing",
+        "positive": 16,
+        "roots": 24,
+        "nonterminal": 12,
+        "cross_family": 12,
+        "pairs": 65
+      },
+      {
+        "repository": "Brownian Motion",
+        "positive": 11,
+        "roots": 24,
+        "nonterminal": 6,
+        "cross_family": 6,
+        "pairs": 56
+      }
+    ],
+    "breadth_counts": [
+      8,
+      1,
+      16,
+      46
+    ],
+    "macro": 0.59375,
+    "interval": [
+      0.5,
+      0.6875
+    ]
+  },
+  "external": {
+    "repositories": [
+      {
+        "repository": "alexoltean61/msphml-lean",
+        "roots": 16,
+        "full": 100.0,
+        "diverse": 37.5
+      },
+      {
+        "repository": "ilyasergey/lean-move",
+        "roots": 16,
+        "full": 100.0,
+        "diverse": 31.25
+      },
+      {
+        "repository": "KitaKen1/bezier-bernstein-voronovskaja-lean",
+        "roots": 16,
+        "full": 100.0,
+        "diverse": 18.75
+      },
+      {
+        "repository": "MaskoMys/Collatz-Binary-Topology",
+        "roots": 16,
+        "full": 100.0,
+        "diverse": 12.5
+      },
+      {
+        "repository": "mirajcs/IsoperimetricInequality",
+        "roots": 16,
+        "full": 100.0,
+        "diverse": 37.5
+      },
+      {
+        "repository": "TPColor/bastien-khormali-conjecture",
+        "roots": 16,
+        "full": 100.0,
+        "diverse": 31.25
+      },
+      {
+        "repository": "danuaemx/lean-257-2",
+        "roots": 16,
+        "full": 93.75,
+        "diverse": 37.5
+      },
+      {
+        "repository": "ericmerle3789/collatz-conditional-cycles",
+        "roots": 16,
+        "full": 93.75,
+        "diverse": 50.0
+      },
+      {
+        "repository": "mkwatson/unique-sums-notes",
+        "roots": 16,
+        "full": 93.75,
+        "diverse": 56.25
+      },
+      {
+        "repository": "YijunYuan/HarderNarasimhan",
+        "roots": 16,
+        "full": 93.75,
+        "diverse": 43.75
+      },
+      {
+        "repository": "abcrtzyn/sudoku_prover",
+        "roots": 16,
+        "full": 87.5,
+        "diverse": 12.5
+      },
+      {
+        "repository": "AxiomMath/erdos-public",
+        "roots": 16,
+        "full": 81.25,
+        "diverse": 31.25
+      },
+      {
+        "repository": "fc0web/lean-d-fumt8",
+        "roots": 16,
+        "full": 81.25,
+        "diverse": 81.25
+      },
+      {
+        "repository": "LoganEvans/litlib4",
+        "roots": 16,
+        "full": 81.25,
+        "diverse": 12.5
+      },
+      {
+        "repository": "beowulf127/wowii144-lean",
+        "roots": 16,
+        "full": 75.0,
+        "diverse": 25.0
+      },
+      {
+        "repository": "primateria/erdos608",
+        "roots": 16,
+        "full": 75.0,
+        "diverse": 18.75
+      },
+      {
+        "repository": "galvusdamor/lean4-search-algorithms",
+        "roots": 16,
+        "full": 68.75,
+        "diverse": 12.5
+      },
+      {
+        "repository": "NethermindEth/poseidon2-fv",
+        "roots": 16,
+        "full": 68.75,
+        "diverse": 37.5
+      },
+      {
+        "repository": "Robertboy18/aint26-lean-solutions",
+        "roots": 16,
+        "full": 68.75,
+        "diverse": 25.0
+      },
+      {
+        "repository": "tobiasosborne/ProjSeminorm",
+        "roots": 16,
+        "full": 68.75,
+        "diverse": 43.75
+      },
+      {
+        "repository": "grenewode/LeanServer",
+        "roots": 16,
+        "full": 62.5,
+        "diverse": 37.5
+      },
+      {
+        "repository": "Jostamon/erdos274-hs-abelian",
+        "roots": 16,
+        "full": 62.5,
+        "diverse": 43.75
+      },
+      {
+        "repository": "korbexmachina/GlimpseOfLean",
+        "roots": 16,
+        "full": 62.5,
+        "diverse": 31.25
+      },
+      {
+        "repository": "pablo-vs/discrete-game-theory",
+        "roots": 16,
+        "full": 62.5,
+        "diverse": 6.25
+      },
+      {
+        "repository": "Paraxiom/scheming-proofs",
+        "roots": 16,
+        "full": 62.5,
+        "diverse": 31.25
+      },
+      {
+        "repository": "repowazdogz-droid/omega-lean-proof",
+        "roots": 16,
+        "full": 37.5,
+        "diverse": 12.5
+      },
+      {
+        "repository": "katydid/paper-2026-verified-filter-lean",
+        "roots": 16,
+        "full": 31.25,
+        "diverse": 18.75
+      },
+      {
+        "repository": "qscqesze/graffiti-pc-conjecture-141",
+        "roots": 16,
+        "full": 31.25,
+        "diverse": 6.25
+      },
+      {
+        "repository": "rupakm/leslie",
+        "roots": 16,
+        "full": 31.25,
+        "diverse": 12.5
+      },
+      {
+        "repository": "Pjotr5/IndependentTransversals",
+        "roots": 16,
+        "full": 18.75,
+        "diverse": 6.25
+      },
+      {
+        "repository": "paolino/keri-lean",
+        "roots": 16,
+        "full": 12.5,
+        "diverse": 12.5
+      },
+      {
+        "repository": "scidonia/vericode",
+        "roots": 16,
+        "full": 12.5,
+        "diverse": 6.25
+      }
+    ],
+    "source_sha256": "0587ef419b9c539315edeb38cb301578b3b83654daf05fdf6545b1d9b079610a",
+    "aggregate_source_sha256": "6e1e912811ace87cd3f10216305809104cd1df74861b5b733e719289b1421b05",
+    "aggregate": {
+      "full": {
+        "mean": 0.693359375,
+        "ci": [
+          0.591796875,
+          0.7890625
+        ]
+      },
+      "diverse": {
+        "mean": 0.275390625,
+        "ci": [
+          0.208984375,
+          0.34765625
+        ]
+      }
+    }
+  },
+  "sensitivity": {
+    "views": [
+      {
+        "key": "L0",
+        "label": "Full panel",
+        "cross_family_repo_macro_mean": 0.4583333333333333,
+        "nonterminal_repo_macro_mean": 0.5729166666666666,
+        "primary_repo_bootstrap_95ci": [
+          0.6041666666666666,
+          0.8541666666666666
+        ],
+        "primary_repo_macro_mean": 0.7291666666666666,
+        "primary_repo_median": 0.7291666666666666,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.7916666666666666,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.5416666666666666
+        ]
+      },
+      {
+        "key": "L-no-question",
+        "label": "No heads\nending in ?",
+        "cross_family_repo_macro_mean": 0.4375,
+        "nonterminal_repo_macro_mean": 0.5208333333333334,
+        "primary_repo_bootstrap_95ci": [
+          0.4791666666666667,
+          0.8541666666666666
+        ],
+        "primary_repo_macro_mean": 0.6666666666666666,
+        "primary_repo_median": 0.6666666666666666,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.6666666666666666,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-aesop",
+        "label": "No aesop",
+        "cross_family_repo_macro_mean": 0.4583333333333333,
+        "nonterminal_repo_macro_mean": 0.5208333333333334,
+        "primary_repo_bootstrap_95ci": [
+          0.48958333333333337,
+          0.8541666666666666
+        ],
+        "primary_repo_macro_mean": 0.6770833333333334,
+        "primary_repo_median": 0.6875,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.7083333333333334,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-aesop-question",
+        "label": "No aesop?",
+        "cross_family_repo_macro_mean": 0.4583333333333333,
+        "nonterminal_repo_macro_mean": 0.5208333333333334,
+        "primary_repo_bootstrap_95ci": [
+          0.48958333333333337,
+          0.8541666666666666
+        ],
+        "primary_repo_macro_mean": 0.6770833333333334,
+        "primary_repo_median": 0.6875,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.7083333333333334,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-aesop-pair",
+        "label": "No aesop +\naesop?",
+        "cross_family_repo_macro_mean": 0.34375,
+        "nonterminal_repo_macro_mean": 0.4895833333333333,
+        "primary_repo_bootstrap_95ci": [
+          0.4791666666666667,
+          0.8333333333333333
+        ],
+        "primary_repo_macro_mean": 0.6458333333333334,
+        "primary_repo_median": 0.625,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.6666666666666666,
+          0.5833333333333334,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-direct-wrapper",
+        "label": "No direct\nsuggestions/\ncontrol wrappers",
+        "cross_family_repo_macro_mean": 0.4375,
+        "nonterminal_repo_macro_mean": 0.5208333333333334,
+        "primary_repo_bootstrap_95ci": [
+          0.4791666666666667,
+          0.8541666666666666
+        ],
+        "primary_repo_macro_mean": 0.6666666666666666,
+        "primary_repo_median": 0.6666666666666666,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.6666666666666666,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-mechanism-diverse",
+        "label": "After genealogy\ndeduplication",
+        "cross_family_repo_macro_mean": 0.34375,
+        "nonterminal_repo_macro_mean": 0.17708333333333334,
+        "primary_repo_bootstrap_95ci": [
+          0.25,
+          0.4375
+        ],
+        "primary_repo_macro_mean": 0.34375,
+        "primary_repo_median": 0.3541666666666667,
+        "repositories_with_cross_family": 4,
+        "repositories_with_nonterminal": 4,
+        "repositories_with_primary": 4,
+        "repository_primary_rates": [
+          0.2916666666666667,
+          0.4583333333333333,
+          0.4166666666666667,
+          0.20833333333333334
+        ]
+      }
+    ],
+    "pair_confusion": {
+      "both_negative": 23622,
+      "both_positive": 590,
+      "left_only": 4,
+      "right_only": 72
+    },
+    "modes": [
+      [
+        "M0_source",
+        "Historical"
+      ],
+      [
+        "M1",
+        "Reverse"
+      ],
+      [
+        "M2",
+        "Shuffle 1"
+      ],
+      [
+        "M3",
+        "Shuffle 2"
+      ],
+      [
+        "M4",
+        "Shuffle 3"
+      ],
+      [
+        "M5",
+        "Fresh"
+      ]
+    ],
+    "successful_endpoints": 514,
+    "candidate_statuses": 2208
+  },
+  "new_lean_executions": 0,
+  "data_exclusions": 0
+}

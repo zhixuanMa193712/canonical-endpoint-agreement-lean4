@@ -7,6 +7,21 @@
       "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
     },
     {
+      "path": "figures_20261008/make_figures.py",
+      "sha256": "1284c5ae2584b6ca1e78843134bc03339bc4686540ffa1d308e25cce6b5033b6",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "figures_20261008/make_supplement_figure.py",
+      "sha256": "0c52a1804d091d24d2aa3ff6c4e563887780ddf01e34d819e3d5b3473e753e2d",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "figures_20261008/reference_style.py",
+      "sha256": "b7eb2ec3b30e07cbb8ad0f22685b7bdd36b7cf52309290ba689d28fdada69bc0",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
       "path": "historical_code/exp48/experiment48_analysis.py",
       "sha256": "ed2a8bbecc6c1b9902ac9e8e6cc75d03399d0c98fcc9c964ce7622e169c9b4c5",
       "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
@@ -679,6 +694,11 @@
     {
       "path": "reproduce_correction.py",
       "sha256": "85c9ef2f5dc688343a4f0f4bb5b28b2abdb263d38ff80457e623119b094f2c47",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "reproduce_figures.py",
+      "sha256": "9769fa3c89ab6754901b9933794023168b5c3f03b034bd7532f5856c69cceb36",
       "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
     },
     {

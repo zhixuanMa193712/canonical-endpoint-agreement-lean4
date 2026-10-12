@@ -2,6 +2,10 @@
 
 Effective release date: 2026-09-21. Packaging version: 1.22.2.
 
+Code packaging 1.22.3 (2026-10-11) also lists the authors' original plotting
+contributions in figures_20261008/ and reproduce_figures.py under the same grant
+and exclusions. The original licensing date is unchanged.
+
 Copyright 2026 Zhixuan Ma (马梽轩) and Zhengwei Shen (沈政伟).
 
 Zhixuan Ma and Zhengwei Shen license their original software contributions in
