@@ -8,6 +8,6 @@ artifacts/
 external_repos/
 .lake/
 *.zip
-reproduction_receipt.json
 !third_party/source/LegendreQF_original_source.zip
 .mplcache/
+reproduction_receipt.json
