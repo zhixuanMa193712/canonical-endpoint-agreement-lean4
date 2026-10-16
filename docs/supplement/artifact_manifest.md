@@ -1,6 +1,6 @@
 # Artifact Manifest
 
-The following eleven unchanged experiment bundles are distributed in the Zenodo dataset, version 1.22.2, at https://doi.org/10.5281/zenodo.22110052. Byte counts and SHA-256 hashes identify the individual archives inside the deposited ZIP.
+The following eleven unchanged experiment bundles are distributed in the Zenodo dataset, version 1.22.3, at https://doi.org/10.5281/zenodo.23311105. This release retains the original version 1.22.2 data ZIP and adds a separate updated code package. Byte counts and SHA-256 hashes identify the individual experiment archives inside the data ZIP.
 
 | Archive ID | Local bundle | Bytes | SHA-256 | Evidential role |
 |---|---|---:|---|---|
@@ -24,9 +24,11 @@ The confirmation audit verifies 220 manifest-listed payloads and reconstructs 19
 
 ## Public access and licensing
 
-Dataset citation: Ma, Zhixuan and Shen, Zhengwei (2026). Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: Evidence and Reproducibility Artifacts. Version 1.22.2. Zenodo. https://doi.org/10.5281/zenodo.22110052.
+Dataset citation: Ma, Zhixuan and Shen, Zhengwei (2026). Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: Evidence and Reproducibility Artifacts. Version 1.22.3. Zenodo. https://doi.org/10.5281/zenodo.23311105.
 
 The public ZIP `zenodo_upload_v1.22.2_licensed.zip` contains `zenodo/artifacts/` and `github_source_v1.22.2.zip`. Its SHA-256 is `38d6c7c69256b03299128aec4c4f25b5903d8807b97ed88e3c325d4882de7932`. Source development is at https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4.
+
+The separate `GitHub_release_v1.22.3_20261011.zip` provides the updated code, figure reproduction scripts, and supplementary documentation. Its SHA-256 is `b05a48ed79ed080f1161a47d3287d0c4aef118ba72710c44324a4a1262b66ab4`. Use this package for current reproduction entry points; the source snapshot embedded in the original data ZIP remains available as historical evidence. Original archive names, hashes, protocols, and scientific results are unchanged.
 
 Original software is licensed under Apache-2.0; original data organization and documentation under CC BY 4.0. Third-party content retains upstream terms, documented in `LICENSE_STATUS.md`, `SOFTWARE_LICENSE_SCOPE.md`, and the accompanying notices and source attribution. A licence-supporting LegendreQF source archive is included; toolchains and compiled dependencies are not.
 

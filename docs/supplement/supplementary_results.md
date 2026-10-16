@@ -80,6 +80,8 @@ Raw and `text48` agreed exactly in the archived comparisons. The confusion table
 
 All six modes matched the prespecified endpoint content exactly. Comparison used the content fields defined in Section S6, with zero content mismatches and zero manual reconciliation.
 
+The first automated comparison of M0 with the archived robustness rows hashed the complete raw-endpoint container rather than its content. It reported 706 differences: 514 candidate endpoints, 96 authored-replay endpoints, and 96 initial endpoints. All arose because the two runners wrote different recorder schema labels (`exp49-raw-endpoint-v1` and `exp50-raw-endpoint-v1`) into otherwise identical containers. Statuses, ordered raw state bytes, goal counts, terminal flags, textual endpoints, and strict endpoints already matched, and the order and process comparisons (M1--M5 against M0) matched from the start. A versioned analysis-only amendment, which executed no Lean process and modified no execution row, reproduced all 706 original differences and then compared container content while validating each runner's container hash separately. The original analysis, its mismatch ledger, and the amendment are preserved with their hashes in the archive.
+
 ## S11. External-frame repository rates
 
 | Repository | `L0` rate | Frequency after genealogy deduplication |
@@ -97,7 +99,7 @@ All six modes matched the prespecified endpoint content exactly. Comparison used
 | `AmosNico/validator` | 83.33% | 39.58% |
 | `spectra-research/asymptotic-tensor-rank-semicontinuity` | 50.00% | 18.75% |
 
-Following the lexical-label correction described in Section S3, the full-panel macro mean is 60.7639% (350/576 roots), with a descriptive two-level bootstrap interval [49.1319%, 72.2222%]. The genealogy-deduplicated macro mean remains 24.6528% (142/576), with a recomputed interval [13.8889%, 37.6736%]. The correction uses stored executions and adds no new Lean calls.
+Following the lexical-label correction described in Section S3, the full-panel macro mean is 60.7639% (350/576 roots), with a descriptive two-level bootstrap interval [49.1319%, 72.2222%]. The genealogy-deduplicated macro mean remains 24.6528% (142/576), with a recomputed interval [13.8889%, 37.6736%]. The correction uses stored executions and adds no new Lean calls. The prespecified primary criteria for this frame required a lower interval bound above 20%, nonzero frequencies in at least 75% of repositories, and an interval half-width of at most 10 percentage points. The first two were met. The half-width criterion was not met by the archived interval [31.08%, 59.90%] or by the corrected interval, so the archived decision label remains `inconclusive` and this frame is reported descriptively.
 
 ## S12. Bounded-continuation responses
 
@@ -243,7 +245,7 @@ This section states the scope of the reported measurements and their reuse. Fina
 | Hard-root efficiency | Endpoint selection saved 1,056 actual Lean process calls. One root lacks the paired coverage outcome under the frozen no-retry rule, and no complete-case root was solved by either principal policy. | Process-call efficiency is measured on all 64 roots; coverage and theorem-solve-rate improvement are not established. Section S17 reports the complete-case sensitivity analysis. |
 | Oracle-assisted multi-step solvable search | Endpoint selection solved 59/64 roots versus 58/64 for full expansion, with 0/64 full-only losses and 1,207 fewer tactic invocations. Every policy received the root's authored-witness actions. | The one-sided 95% Wilson upper bound was 0.04056 under a binomial working model. All savings occurred in depth-3--6 roots. The solve-count difference is not interpreted as superiority, and candidate acquisition was not evaluated. |
 | Reproducibility | Same-server re-execution changes implementation, order, and process isolation. Second-machine re-execution covers 16 frozen roots and 368 attempts. | Exact prespecified-content agreement is established only on the re-executed scopes. |
-| Public availability | Zenodo version 1.22.2 contains eleven unchanged archives, a source snapshot, manifests, licence records, and the final correction layer; access details appear in the Artifact Manifest. | Archive integrity and corrected-analysis reconstruction are separate checks. Neither adds a new scientific execution. |
+| Public availability | Zenodo version 1.22.3 retains the original data ZIP with eleven unchanged experiment archives, manifests, licence records, and the correction layer, and adds an updated code package; access details appear in the Artifact Manifest. | Archive integrity and corrected-analysis reconstruction are separate checks. Neither adds a new scientific execution. |
 
 ## S19. Oracle-assisted known-solvable multi-step branch-selection confirmation
 

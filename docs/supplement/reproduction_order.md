@@ -2,9 +2,9 @@
 
 ## Archive verification
 
-Download and extract the version 1.22.2 ZIP and embedded source snapshot from the DOI above. Verify the outer checksum, both release manifests, and the eleven archive identities. Original protocols and execution histories remain unchanged.
+From the version 1.22.3 DOI above, download both `zenodo_upload_v1.22.2_licensed.zip` and `GitHub_release_v1.22.3_20261011.zip`. Extract the data ZIP to obtain `zenodo/artifacts/`, and extract the updated code package separately. Verify both outer checksums against the Artifact Manifest, the internal release manifests, and the eleven experiment archive identities. Preserve the embedded version 1.22.2 source snapshot as historical evidence; original protocols and execution histories remain unchanged.
 
-With Python 3.11 or later and NumPy 2.3.5, run `python3 reproduce_correction.py --artifacts /absolute/path/to/zenodo/artifacts` from the extracted `github/` directory. This verifies three input archives and compares five reconstructed correction and cluster-sensitivity outputs byte for byte. It makes no Lean calls. A fresh public download on 21 September 2026 passed both release manifests, all eleven archive checksums, this five-output reconstruction, and the six historical portable-audit workers. This verifies those offline scopes, not full experimental re-execution.
+With Python 3.11 or later and NumPy 2.3.5, run `python3 reproduce_correction.py --artifacts /absolute/path/to/zenodo/artifacts` from the extracted version 1.22.3 code directory containing that script. This verifies three input archives and compares five reconstructed correction and cluster-sensitivity outputs byte for byte. It makes no Lean calls. The updated package also provides `reproduce_figures.py`; its README specifies dependencies and commands. A fresh public download of version 1.22.2 on 21 September 2026 passed both release manifests, all eleven archive checksums, this five-output reconstruction, and the six historical portable-audit workers. That check verifies those historical offline scopes, not full experimental re-execution or a new audit of every later release.
 
 ## Offline reconstruction by research theme
 

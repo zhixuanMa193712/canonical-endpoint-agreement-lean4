@@ -4,7 +4,7 @@
 **Journal:** Journal of Automated Reasoning  
 **Authors:** Zhixuan Ma and Zhengwei Shen  
 **Affiliation:** University of Science and Technology Beijing, Beijing, China  
-**Corresponding author:** Zhengwei Shen, 2534965506@qq.com
+**Corresponding author:** Zhengwei Shen, ijwmip@ustb.edu.cn
 
 ## Supplementary Material Index
 
