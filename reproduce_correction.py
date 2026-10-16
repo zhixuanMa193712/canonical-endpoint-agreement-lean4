@@ -1,6 +1,15 @@
 """Run unchanged final correction in a temporary workspace, without Lean."""
 from pathlib import Path
 import argparse, hashlib, json, shutil, subprocess, sys, tempfile
+from importlib import metadata
+
+def same_except_numpy_version(a,b):
+    """True when two JSON objects differ at most in their top-level numpy_version field."""
+    if a.suffix!='.json': return False
+    x=json.loads(a.read_text());y=json.loads(b.read_text())
+    if not isinstance(x,dict) or not isinstance(y,dict): return False
+    x.pop('numpy_version',None);y.pop('numpy_version',None)
+    return x==y
 
 def main():
     parser=argparse.ArgumentParser()
@@ -20,11 +29,16 @@ def main():
         shutil.copytree(root/'experiment51_external_repository_replication',work/'experiment51_external_repository_replication')
         result=subprocess.run([sys.executable,str(work/'paper_v1.21/reanalyze_heads.py')],capture_output=True,text=True)
         if result.returncode: raise SystemExit(result.stderr)
-        checks={}
+        checks={};byte_identical={}
         for n in ['exp51_correction.json','exp64_correction.json','exp51_corrected_rows.jsonl','exp64_corrected_rows.jsonl','multistep_file_cluster.json']:
             a=work/'paper_v1.21/analysis'/n;b=root/'paper_v1.21/analysis'/n
-            checks[n]=a.read_bytes()==b.read_bytes()
-        receipt=dict(checks=checks,passed=all(checks.values()),new_lean_executions=0,input_sha256=expected,scope='post-outcome correction and cluster sensitivity, not every historical audit')
+            byte_identical[n]=a.read_bytes()==b.read_bytes()
+            checks[n]=byte_identical[n] or same_except_numpy_version(a,b)
+        try: numpy_version=metadata.version('numpy')
+        except metadata.PackageNotFoundError: numpy_version=None
+        receipt=dict(checks=checks,byte_identical=byte_identical,passed=all(checks.values()),numpy_version=numpy_version,
+                     comparison='byte-identical, or identical except the recorded numpy_version field',
+                     new_lean_executions=0,input_sha256=expected,scope='post-outcome correction and cluster sensitivity, not every historical audit')
         args.receipt.write_text(json.dumps(receipt,indent=2)+'\n')
         print(json.dumps(receipt,indent=2))
         if not receipt['passed']: raise SystemExit('Reconstruction differs; check NumPy version before publishing')

@@ -6,18 +6,18 @@
   },
   {
     "path": "CHANGELOG.md",
-    "bytes": 1428,
-    "sha256": "360133b00ff56636910e355864f8affe14c3be23e08065c34ebb9eb50e97de39"
+    "bytes": 3041,
+    "sha256": "7461c4053f2a0e9771ac5ddb22c4f71a01e3adb8869f45715b9440e785b88d66"
   },
   {
     "path": "CITATION.cff",
-    "bytes": 883,
-    "sha256": "0459d697bd0609b1e25c0e6fd18d3b914f6e9584f155cd5d5f32f9ad9dc833d1"
+    "bytes": 1533,
+    "sha256": "89478397b269fdcd87fee7b4a52618c418258baa5e686adcabc81327207b4851"
   },
   {
     "path": "CITATION_DATASET.txt",
-    "bytes": 367,
-    "sha256": "7ad1f2d3b9a05db5cbbe0ad4b8f7c1a706336f61f0e6407577e23b79fe361a0d"
+    "bytes": 429,
+    "sha256": "3e2aff3d73f0c18212bd8dd9b17986ce147e3a31488d01e8240756d559de2fb3"
   },
   {
     "path": "LICENSE",
@@ -36,18 +36,18 @@
   },
   {
     "path": "README.md",
-    "bytes": 4330,
-    "sha256": "3e4a9246f71c0e75826a5e27d4bc717061cdbcbd7ba5dfd375449af4c954c46a"
+    "bytes": 5733,
+    "sha256": "0f360a0d3d0ea58583b92b5d1b1de1b83cd176212637ba7d40a4c950626a2bca"
   },
   {
     "path": "RELEASE_STATUS.md",
-    "bytes": 1080,
-    "sha256": "8d5e81a5112bc5c0222087c5f9fd21473676a97d2dab2aa38d26d6a71378a34d"
+    "bytes": 1078,
+    "sha256": "42a8dc6e4e0c5a44b1705ab4c30fc4891787b4434be0fad6b72d37ab4d61e3fc"
   },
   {
     "path": "SOFTWARE_FILES.json",
     "bytes": 117576,
-    "sha256": "2ce99e1ec16e59c216a171273106ba75482f076e4dba1276e4c3e55b8bd21a74"
+    "sha256": "1507e35ea39f482addde0830f831331ca9c9f5342b92657074a1c9035fa8af4e"
   },
   {
     "path": "SOFTWARE_LICENSE_SCOPE.md",
@@ -161,13 +161,13 @@
   },
   {
     "path": "docs/supplement/README.md",
-    "bytes": 2273,
-    "sha256": "65d33a1ca249fe42e65ad40bd8c43e4e6fd55e41e09e07e7c890b9bc290cc889"
+    "bytes": 2274,
+    "sha256": "4410869180593e01712f343fc757b12caa1f4aa3dc4e5306f0371ad4390c2bd2"
   },
   {
     "path": "docs/supplement/artifact_manifest.md",
-    "bytes": 5046,
-    "sha256": "fc87bbe5e7251c255c68a14ec68e83d266b9ed133b73a33543f60a5afb31e9a8"
+    "bytes": 5609,
+    "sha256": "43e90d7e8ca1dfcb18adf5a29cc6b0a56f34ff8f0d643a50733927d876147991"
   },
   {
     "path": "docs/supplement/claim_to_evidence_table.md",
@@ -186,23 +186,23 @@
   },
   {
     "path": "docs/supplement/literature_gap_matrix.md",
-    "bytes": 7227,
-    "sha256": "674045f4a0017b5a371563c71cd41f1c0391012a36026753704db89e2c47725d"
+    "bytes": 7348,
+    "sha256": "6d0560d1bb347506c5c56b59b0af1d71d547c34b64612ecf5e32d9879603332c"
   },
   {
     "path": "docs/supplement/reproduction_order.md",
-    "bytes": 3587,
-    "sha256": "2d24b983d922bc090f3e4c1944e00b2cb6c3fd00c34d76c7a8f0d479003371ce"
+    "bytes": 4064,
+    "sha256": "8d5d90ec7c7b324aa054315dea6257f3cbe38a96037d1de5b37f2d132a643338"
   },
   {
     "path": "docs/supplement/supplementary_methods.md",
-    "bytes": 26609,
-    "sha256": "fc6ad48b6ccdd0b7bb4fea0e1a64cb48c19b9ae2d2f8170a74f42afd9e50af6c"
+    "bytes": 26850,
+    "sha256": "798c4a8f2d5cd48b0c0952a109c82c29fdb6d228fd73f7fb4f0841468ab011e8"
   },
   {
     "path": "docs/supplement/supplementary_results.md",
-    "bytes": 31441,
-    "sha256": "dab3d4dc289867d5c740487ab3e9ca2975f7435cf59cb08a79befdd2db746f2d"
+    "bytes": 32881,
+    "sha256": "34163f0144bc4d56e4cef6688b9309efbd8a26437ba60b2f0b54da0f73424b6c"
   },
   {
     "path": "docs/supplement/worked_example.md",
@@ -1260,6 +1260,11 @@
     "sha256": "dba0bf9bf4abf136129b9ef2fc2b8f6ed26eeecf3d36e3b05fd726bcd41c7ae6"
   },
   {
+    "path": "paper_v1.21/CORRECTION_NOTE.md",
+    "bytes": 2919,
+    "sha256": "d6f844486fac8eb10edef1b56d454df0f7424d9e57f5a41666a41f2428085353"
+  },
+  {
     "path": "paper_v1.21/REVISION_NOTES.md",
     "bytes": 5406,
     "sha256": "5ae1b9aa12f2457d819c4f39310e3ee190dc5d9f6a800a6befb255e913918f8a"
@@ -1341,8 +1346,8 @@
   },
   {
     "path": "reproduce_correction.py",
-    "bytes": 2366,
-    "sha256": "85c9ef2f5dc688343a4f0f4bb5b28b2abdb263d38ff80457e623119b094f2c47"
+    "bytes": 3173,
+    "sha256": "c0c79022d2f2414f33660944dda690b42fd9ef116aafd62d01880d38c9806059"
   },
   {
     "path": "reproduce_figures.py",

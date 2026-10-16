@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "Please cite the versioned dataset and this source release."
+message: "If you use this software, please cite the archived dataset and code release below, and identify the exact Git commit used."
 title: "Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: reproducibility code"
 type: software
-version: "1.22.3"
-date-released: "2026-10-11"
+version: "1.22.4"
+date-released: "2026-10-16"
 authors:
   - family-names: Ma
     given-names: Zhixuan
@@ -12,10 +12,30 @@ authors:
   - family-names: Shen
     given-names: Zhengwei
     affiliation: University of Science and Technology Beijing
-# Code version differs from the unchanged archived dataset version 1.22.2.
-
 repository-code: "https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4"
-# Related dataset DOI (not a separately assigned software DOI): 10.5281/zenodo.22110052
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23311105
+    description: "Zenodo version 1.22.3: evidence archives and the code package identical to tag v1.22.3"
+  - type: doi
+    value: 10.5281/zenodo.22110050
+    description: "Zenodo concept DOI, resolving to the latest version"
 
 # Applies to original software contributions only; see SOFTWARE_LICENSE_SCOPE.md.
 license: Apache-2.0
+
+preferred-citation:
+  type: data
+  title: "Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: Evidence and Reproducibility Artifacts"
+  authors:
+    - family-names: Ma
+      given-names: Zhixuan
+      orcid: "https://orcid.org/0009-0006-9513-6745"
+    - family-names: Shen
+      given-names: Zhengwei
+  version: "1.22.3"
+  doi: 10.5281/zenodo.23311105
+  url: "https://doi.org/10.5281/zenodo.23311105"
+  publisher:
+    name: Zenodo
+  year: 2026

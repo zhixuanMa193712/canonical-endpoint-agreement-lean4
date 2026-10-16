@@ -1,29 +1,53 @@
 # Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4
 
-Code packaging **1.22.3**, synchronized with the English manuscript and supplement
-editorial revision of **8 October 2026**. The published evidence dataset remains
-**1.22.2**: https://doi.org/10.5281/zenodo.22110052.
-This update does not modify that deposit or its eleven original archives.
-See RELEASE_STATUS.md and CHANGELOG.md for code/data version distinctions.
+Source code, correction layer and documentation for the manuscript
+"Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4" by
+Zhixuan Ma and Zhengwei Shen.
 
-## Results and data
+Repository revision **1.22.4** (16 October 2026) synchronizes the documentation
+with the manuscript and Online Resource 1, editorial revision of 16 October 2026.
+Frozen experiment implementations, corrected analysis outputs and figures are
+unchanged from 1.22.3. The only code change relaxes one comparison in
+`reproduce_correction.py`; see CHANGELOG.md.
 
-Data DOI: https://doi.org/10.5281/zenodo.22110052. Code repository: https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4.
-The Zenodo dataset contains eleven immutable evidence archives and a matching
-source snapshot. Original execution archives are not rewritten. The additional
-`paper_v1.21` correction layer is required for the final external-study values:
-355/512 (69.34%) full-panel roots and 141/512 (27.54%) genealogy-deduplicated
-roots in the 32-repository frame. Original archived summaries contain the old
-lexical-head labels; reproducing their audit alone does not validate these
-corrected numbers. The multi-step comparison is oracle-assisted and known-solvable.
+## Archived release
+
+Evidence and the matching code package are archived in Zenodo, **version 1.22.3**:
+https://doi.org/10.5281/zenodo.23311105 (concept DOI for all versions:
+https://doi.org/10.5281/zenodo.22110050). The deposit contains two packages:
+
+- `zenodo_upload_v1.22.2_licensed.zip`: the eleven original experiment archives,
+  the correction layer, licence and attribution records, and the earlier source
+  snapshot, unchanged since version 1.22.2;
+- `GitHub_release_v1.22.3_20261011.zip`: the code package, identical to tag
+  `v1.22.3` of this repository (commit `152c608`).
+
+Cite the Zenodo version DOI for the data and the exact tag or Git commit for code.
+Revision 1.22.4 is documentation-only and is not separately archived.
+
+## Results and correction layer
+
+Original execution archives are not rewritten. The additional `paper_v1.21`
+correction layer is required for the final external-study values: 355/512
+(69.34%) full-panel roots and 141/512 (27.54%) genealogy-deduplicated roots in
+the 32-repository frame. Original archived summaries contain the old
+lexical-head labels (277/512 under the full panel); reproducing their audit alone
+does not validate the corrected numbers. See
+[`paper_v1.21/CORRECTION_NOTE.md`](paper_v1.21/CORRECTION_NOTE.md). The multistep
+comparison supplies the authored witness actions to every policy on roots with
+known proofs; it does not evaluate autonomous tactic generation.
 
 ## Layout
 
-- `paper_v1.21/`: exact correction script, corrected root rows, summaries and figure source.
+- `paper_v1.21/`: exact correction script, corrected root rows, summaries, figure
+  source, and an English correction note. `REVISION_NOTES.md` there and
+  `docs/v1.22_changes.md` are historical internal notes in Chinese, kept unchanged
+  for provenance.
 - `source_packages/`: original-name execution modules, including final Exp62 fix1 and Exp63/64.
 - `historical_code/`: earlier execution/analysis modules retained for provenance.
 - `portable_audit/`: older path-portability layer; its audit is not the corrected analysis.
-- `docs/supplement/`: study map, variables, claims, manifests and reproduction order.
+- `docs/supplement/`: Markdown sources of Online Resource 1 (study map, variables,
+  claims, manifests and reproduction order), synchronized with the 16 October 2026 revision.
 - `docs/`: licence references and a 52-candidate provenance inventory.
 - `reproduce_correction.py`: temporary-directory reproduction of final corrections.
 - `figures_20261008/`: final figure assets, unchanged plotting sources and numerical inputs.
@@ -38,10 +62,15 @@ Install `requirements-analysis.txt` in a separate environment, then run:
 python3 reproduce_correction.py --artifacts /absolute/path/to/zenodo/artifacts
 ```
 
-This launches no Lean processes and downloads no repositories. It checks the
-three input archive hashes, executes the unchanged correction script in a new
-temporary workspace, compares five JSON/JSONL outputs with the bundled final
-outputs, and writes a receipt. Input archives and bundled results are not modified.
+`zenodo/artifacts/` is obtained by extracting `zenodo_upload_v1.22.2_licensed.zip`
+from the Zenodo record above. The script launches no Lean processes and downloads
+no repositories. It checks the three input archive hashes, executes the unchanged
+correction script in a new temporary workspace, compares five JSON/JSONL outputs
+with the bundled final outputs, and writes a receipt. Outputs must be
+byte-identical, except that the recorded `numpy_version` field may differ when a
+NumPy version other than 2.3.5 is used; the receipt records which comparison
+applied. Input archives and bundled results are not modified.
+
 The eleven archive checksums are independently listed in the dataset manifest.
 The historical `paper_v1.21/figure4.py` is not the current manuscript figure pipeline.
 For current figures, see figures_20261008/README.md. Their order is method,
@@ -60,8 +89,8 @@ Full execution has not been rerun for this packaging task.
 ## Licence and citation
 
 See `LICENSE_STATUS.md`. No blanket third-party relicensing is intended.
-Author metadata is in `CITATION.cff`. The dataset DOI is published; it is not a
-separately assigned software DOI. Cite the exact Git commit for this code revision.
+Author metadata, the archived DOIs and the preferred citation are in `CITATION.cff`;
+the dataset citation is also in `CITATION_DATASET.txt`.
 Technical archive labels are provenance identifiers, not additional experiments.
 
 ## Licence supplement 1.22.1

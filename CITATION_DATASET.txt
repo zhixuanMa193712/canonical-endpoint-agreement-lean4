@@ -1,4 +1,5 @@
-Ma, Zhixuan; Shen, Zhengwei (2026). Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: Evidence and Reproducibility Artifacts. Version 1.22.2. Zenodo. https://doi.org/10.5281/zenodo.22110052
+Ma, Zhixuan; Shen, Zhengwei (2026). Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: Evidence and Reproducibility Artifacts. Version 1.22.3. Zenodo. https://doi.org/10.5281/zenodo.23311105
 
-This is the published dataset citation. Code packaging 1.22.3 is a later
-documentation/figure synchronization and does not change the dataset version or DOI.
+Version 1.22.3 retains the version 1.22.2 data ZIP unchanged and adds the code
+package identical to tag v1.22.3 of this repository. The concept DOI
+https://doi.org/10.5281/zenodo.22110050 resolves to the latest version.

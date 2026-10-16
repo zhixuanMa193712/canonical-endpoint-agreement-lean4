@@ -1,17 +1,19 @@
 # Release status
 
-Code packaging version **1.22.3**, prepared 11 October 2026, synchronized with the
-English manuscript/supplement editorial revision of 8 October 2026. It restores
-the missing fixed-commit source attachment and updates documentation and figures.
-Scientific results and eleven original experiment ZIPs are unchanged.
-Published dataset **1.22.2**: https://doi.org/10.5281/zenodo.22110052 .
-The Zenodo source snapshot predates this update. This GitHub revision does not
-replace that deposit and has no new software DOI. Historical paths are preserved.
-GitHub source: https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4
-Anonymous cloning of the preceding commit was verified on 11 October 2026.
-A packaging version label does not assert that a GitHub Release/tag exists;
-use the exact Git commit to identify this source revision.
+Repository revision **1.22.4**, prepared 16 October 2026. It synchronizes the
+supplementary documentation with the manuscript and Online Resource 1 editorial
+revision of 16 October 2026, updates archive citations to Zenodo version 1.22.3,
+adds an English summary of the lexical-label correction, and relaxes one
+comparison in `reproduce_correction.py` (see CHANGELOG.md). Frozen experiment
+implementations, corrected analysis outputs, figures and the eleven original
+experiment ZIPs are unchanged. No new scientific execution is claimed.
 
-The software grant is recorded in LICENSE and SOFTWARE_LICENSE_SCOPE.md. Frozen
-experiment implementations and corrected analysis outputs are unchanged. No new
-scientific execution is claimed by this packaging update.
+Archived release: Zenodo version **1.22.3**, https://doi.org/10.5281/zenodo.23311105 ,
+published 12 October 2026. Its code package `GitHub_release_v1.22.3_20261011.zip`
+is identical to tag `v1.22.3`, commit `152c6081796c0a252b1fac0e92c416c49cfbaa73`.
+Revision 1.22.4 is not separately archived; cite the exact Git commit for it.
+
+GitHub source: https://github.com/zhixuanMa193712/canonical-endpoint-agreement-lean4
+
+The software grant is recorded in LICENSE and SOFTWARE_LICENSE_SCOPE.md.
+Historical paths are preserved.
