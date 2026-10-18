@@ -1,0 +1,20 @@
+{
+ "case_series_text": {
+  "roots": 96,
+  "changed_nonterminal_records": 175,
+  "with_mark": 0,
+  "witness_classes_nonterminal": 51,
+  "witness_classes_with_mark": 0,
+  "nonterminal_positive_roots": 36,
+  "roots_only_via_marked_classes": 0
+ },
+ "strict_text": {
+  "roots": 512,
+  "changed_nonterminal_records": 1071,
+  "with_mark": 42,
+  "witness_classes_nonterminal": 358,
+  "witness_classes_with_mark": 14,
+  "nonterminal_positive_roots": 255,
+  "roots_only_via_marked_classes": 8
+ }
+}

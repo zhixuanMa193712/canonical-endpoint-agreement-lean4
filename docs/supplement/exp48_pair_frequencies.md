@@ -1,6 +1,6 @@
-# Supplementary Table S3. Untouched-Confirmation Cross-Head Pair Frequencies
+# Supplementary Table S3. Case-Series Cross-Head Pair Frequencies
 
-Root occurrence is the sum of theorem-local occurrences across the four untouched confirmation repositories. Repository breadth is the number of those repositories containing at least one occurrence. The table is reconstructed from the four archived repository summaries and contains all 71 observed pairs.
+Root occurrence is the sum of theorem-local occurrences across the four case-series repositories. Repository breadth is the number of those repositories containing at least one occurrence. The table is reconstructed from the four archived repository summaries and contains all 71 observed pairs.
 
 | Pair | Root occurrences | Repository breadth |
 |---|---:|---:|

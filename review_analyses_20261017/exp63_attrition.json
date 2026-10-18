@@ -1,0 +1,279 @@
+{
+ "summary_by_outcome": {
+  "definitive_ineligible": {
+   "repositories": 4,
+   "median_stars": 0.0,
+   "median_static_tactic_roots": 214.0,
+   "median_lean_files": 110.0,
+   "median_checkout_mb": 94.3,
+   "median_created": "2026-03-22"
+  },
+  "operationally_unresolved": {
+   "repositories": 15,
+   "median_stars": 2,
+   "median_static_tactic_roots": 910,
+   "median_lean_files": 115,
+   "median_checkout_mb": 4.2,
+   "median_created": "2026-05-19"
+  },
+  "qualified": {
+   "repositories": 33,
+   "median_stars": 0,
+   "median_static_tactic_roots": 128,
+   "median_lean_files": 16,
+   "median_checkout_mb": 0.9,
+   "median_created": "2026-03-12"
+  },
+  "static_gate_failed": {
+   "repositories": 35,
+   "median_stars": 0,
+   "median_static_tactic_roots": 0,
+   "median_lean_files": 9,
+   "median_checkout_mb": 0.5,
+   "median_created": "2026-02-10"
+  }
+ },
+ "qualification_gates": [
+  {
+   "classification": "qualified",
+   "first_failed_gate": null,
+   "repositories": 33
+  },
+  {
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "repositories": 7
+  },
+  {
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "repositories": 7
+  },
+  {
+   "classification": "definitive_ineligible",
+   "first_failed_gate": "unmodified_build",
+   "repositories": 3
+  },
+  {
+   "classification": "definitive_ineligible",
+   "first_failed_gate": "minimum_pre_replay_frame",
+   "repositories": 1
+  },
+  {
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_root_enumeration",
+   "repositories": 1
+  }
+ ],
+ "not_qualified": [
+  {
+   "slug": "AIDoctrine/CollatzLayerA",
+   "classification": "definitive_ineligible",
+   "first_failed_gate": "minimum_pre_replay_frame",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 181,
+   "checkout_bytes": 540672,
+   "lean_files": 3,
+   "created": "2026-02-18"
+  },
+  {
+   "slug": "GasStationManager/ArtificialAlgorithms",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 12,
+   "static_tactic_roots": 509,
+   "checkout_bytes": 2387968,
+   "lean_files": 38,
+   "created": "2025-07-15"
+  },
+  {
+   "slug": "Kuberwastaken/wowii-63-85-counterexample",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 24,
+   "checkout_bytes": 299008,
+   "lean_files": 3,
+   "created": "2026-07-23"
+  },
+  {
+   "slug": "LoganEvans/chiral-gauge-dynamics",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 1,
+   "static_tactic_roots": 957,
+   "checkout_bytes": 4202496,
+   "lean_files": 115,
+   "created": "2026-04-13"
+  },
+  {
+   "slug": "MechMath/MechGeoBench",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 8,
+   "static_tactic_roots": 805,
+   "checkout_bytes": 3313664,
+   "lean_files": 120,
+   "created": "2026-08-01"
+  },
+  {
+   "slug": "RobertoZunino/ITPCourse",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 6,
+   "static_tactic_roots": 36,
+   "checkout_bytes": 868352,
+   "lean_files": 19,
+   "created": "2025-04-24"
+  },
+  {
+   "slug": "Shashi456/erdos-formalizations",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 1,
+   "static_tactic_roots": 5028,
+   "checkout_bytes": 11210752,
+   "lean_files": 122,
+   "created": "2026-05-03"
+  },
+  {
+   "slug": "VTrelat/BEer",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 6,
+   "static_tactic_roots": 1804,
+   "checkout_bytes": 10620928,
+   "lean_files": 132,
+   "created": "2025-10-21"
+  },
+  {
+   "slug": "akakabrian/WOW-146",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_root_enumeration",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 40,
+   "checkout_bytes": 995328,
+   "lean_files": 12,
+   "created": "2026-07-21"
+  },
+  {
+   "slug": "atvrager/Shoumei-RTL",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 1,
+   "static_tactic_roots": 910,
+   "checkout_bytes": 6676480,
+   "lean_files": 203,
+   "created": "2026-01-31"
+  },
+  {
+   "slug": "galvusdamor/lean4-planner",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 173,
+   "checkout_bytes": 790528,
+   "lean_files": 12,
+   "created": "2026-06-01"
+  },
+  {
+   "slug": "google-deepmind/alphaproof-nexus-results",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 292,
+   "static_tactic_roots": 2026,
+   "checkout_bytes": 6172672,
+   "lean_files": 64,
+   "created": "2026-05-13"
+  },
+  {
+   "slug": "manman4/LeanMathAtlas",
+   "classification": "definitive_ineligible",
+   "first_failed_gate": "unmodified_build",
+   "static_gate": null,
+   "stars": 4,
+   "static_tactic_roots": 247,
+   "checkout_bytes": 1982464,
+   "lean_files": 200,
+   "created": "2026-06-05"
+  },
+  {
+   "slug": "mathTensor/AI4Math-Putnam2025",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 16,
+   "static_tactic_roots": 219,
+   "checkout_bytes": 688128,
+   "lean_files": 25,
+   "created": "2026-05-19"
+  },
+  {
+   "slug": "mike1729/goedel-workbook-lean427",
+   "classification": "definitive_ineligible",
+   "first_failed_gate": "unmodified_build",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 29746,
+   "checkout_bytes": 186585088,
+   "lean_files": 29748,
+   "created": "2026-03-22"
+  },
+  {
+   "slug": "ronut01/erdos1002-lean",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 2,
+   "static_tactic_roots": 2800,
+   "checkout_bytes": 13426688,
+   "lean_files": 170,
+   "created": "2026-08-04"
+  },
+  {
+   "slug": "schmittj/prop51-formal",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_trace",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 2848,
+   "checkout_bytes": 8744960,
+   "lean_files": 129,
+   "created": "2026-06-20"
+  },
+  {
+   "slug": "taeyool/lean-flag-algebras-release",
+   "classification": "operationally_unresolved",
+   "first_failed_gate": "operational_checkout",
+   "static_gate": null,
+   "stars": 3,
+   "static_tactic_roots": 1875,
+   "checkout_bytes": 9424896,
+   "lean_files": 155,
+   "created": "2026-07-14"
+  },
+  {
+   "slug": "tamura70/lean_study",
+   "classification": "definitive_ineligible",
+   "first_failed_gate": "unmodified_build",
+   "static_gate": null,
+   "stars": 0,
+   "static_tactic_roots": 121,
+   "checkout_bytes": 534302720,
+   "lean_files": 20,
+   "created": "2026-01-30"
+  }
+ ]
+}

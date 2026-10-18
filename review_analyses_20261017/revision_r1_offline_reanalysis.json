@@ -1,0 +1,747 @@
+{
+  "confirmation": {
+    "alias_comparison": {
+      "aesop|aesop?|same": 96,
+      "ring|ring_nf|same": 96
+    },
+    "attempts": 2208,
+    "authored_endpoint": {
+      "authored_nonterminal_roots": 62,
+      "authored_terminal_roots": 34,
+      "nonterminal_authored_reproduced": 1,
+      "representation": "text",
+      "reproduced_by_some_candidate": 35
+    },
+    "candidate_outcomes": {
+      "aesop": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 28,
+        "successes": 49
+      },
+      "aesop?": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 28,
+        "successes": 49
+      },
+      "apply_assumption": {
+        "attempts": 11,
+        "nonterminal_changed_successes": 2,
+        "successes": 5
+      },
+      "assumption": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "constructor": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 15,
+        "successes": 22
+      },
+      "contradiction": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "decide": {
+        "attempts": 95,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "exact?": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 93
+      },
+      "ext": {
+        "attempts": 90,
+        "nonterminal_changed_successes": 20,
+        "successes": 20
+      },
+      "fun_prop": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 2
+      },
+      "linarith": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "native_decide": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 1
+      },
+      "nlinarith": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "norm_num": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 15,
+        "successes": 88
+      },
+      "omega": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "positivity": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "rfl": {
+        "attempts": 93,
+        "nonterminal_changed_successes": 0,
+        "successes": 4
+      },
+      "ring": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 16,
+        "successes": 41
+      },
+      "ring_nf": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 16,
+        "successes": 41
+      },
+      "simp": {
+        "attempts": 95,
+        "nonterminal_changed_successes": 15,
+        "successes": 31
+      },
+      "simp_all": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 20,
+        "successes": 41
+      },
+      "simpa": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 12
+      },
+      "solve_by_elim": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 7
+      },
+      "trivial": {
+        "attempts": 96,
+        "nonterminal_changed_successes": 0,
+        "successes": 8
+      }
+    },
+    "heartbeat_or_timeout_messages": 1,
+    "parse_failures_unknown_tactic": 44,
+    "roots": 96,
+    "source_files": 58,
+    "successes": 514,
+    "text_dedup": {
+      "distinct_head_pairs": 31,
+      "distinct_nonterminal_endpoints": 91,
+      "executions_per_endpoint": 1.22,
+      "nonterminal": 14,
+      "nonterminal_successful_executions": 111,
+      "positive": 30,
+      "repositories_with_nonterminal": 4,
+      "terminal_only": 16,
+      "top_pairs": [
+        [
+          "norm_num/simp",
+          22
+        ],
+        [
+          "aesop/simp",
+          18
+        ],
+        [
+          "aesop/norm_num",
+          17
+        ],
+        [
+          "solve_by_elim/trivial",
+          7
+        ],
+        [
+          "aesop/constructor",
+          7
+        ],
+        [
+          "aesop/trivial",
+          7
+        ],
+        [
+          "constructor/trivial",
+          7
+        ],
+        [
+          "aesop/solve_by_elim",
+          7
+        ]
+      ]
+    },
+    "text_full": {
+      "distinct_head_pairs": 71,
+      "distinct_nonterminal_endpoints": 99,
+      "executions_per_endpoint": 1.768,
+      "nonterminal": 36,
+      "nonterminal_successful_executions": 175,
+      "positive": 57,
+      "positive_without_exact?": 55,
+      "repositories_with_nonterminal": 4,
+      "terminal_only": 21,
+      "top_pairs": [
+        [
+          "aesop/aesop?",
+          48
+        ],
+        [
+          "aesop/simp_all",
+          24
+        ],
+        [
+          "aesop?/simp_all",
+          24
+        ],
+        [
+          "simp/simp_all",
+          23
+        ],
+        [
+          "norm_num/simp",
+          22
+        ],
+        [
+          "norm_num/simp_all",
+          21
+        ],
+        [
+          "aesop/exact?",
+          20
+        ],
+        [
+          "aesop?/exact?",
+          20
+        ]
+      ]
+    }
+  },
+  "confirmation_discordant_pairs": {
+    "structure_only_instance_names_only": 38,
+    "structure_only_printed_state_unchanged_from_start": 34,
+    "text_only": 4
+  },
+  "exp49_dedup_struct_macros": {
+    "cross_family_repo_macro_mean": 0.34375,
+    "nonterminal_repo_macro_mean": 0.17708333333333334,
+    "primary_repo_bootstrap_95ci": [
+      0.25,
+      0.4375
+    ],
+    "primary_repo_macro_mean": 0.34375,
+    "primary_repo_median": 0.3541666666666667,
+    "repositories_with_cross_family": 4,
+    "repositories_with_nonterminal": 4,
+    "repositories_with_primary": 4,
+    "repository_primary_rates": [
+      0.2916666666666667,
+      0.4583333333333333,
+      0.4166666666666667,
+      0.20833333333333334
+    ]
+  },
+  "exp49_rarefaction_struct": {
+    "12": {
+      "replicates": 1000,
+      "struct_primary_repo_macro_mean": 0.45397916666666666,
+      "subset_95_interval": [
+        0.3854166666666667,
+        0.5208333333333334
+      ]
+    },
+    "16": {
+      "replicates": 1000,
+      "struct_primary_repo_macro_mean": 0.5701875,
+      "subset_95_interval": [
+        0.5104166666666666,
+        0.625
+      ]
+    },
+    "23": {
+      "replicates": 1000,
+      "struct_primary_repo_macro_mean": 0.7291666666666666,
+      "subset_95_interval": [
+        0.7291666666666666,
+        0.7291666666666666
+      ]
+    },
+    "4": {
+      "replicates": 1000,
+      "struct_primary_repo_macro_mean": 0.11512499999999999,
+      "subset_95_interval": [
+        0.0625,
+        0.16666666666666666
+      ]
+    },
+    "8": {
+      "replicates": 1000,
+      "struct_primary_repo_macro_mean": 0.3031770833333333,
+      "subset_95_interval": [
+        0.23958333333333334,
+        0.375
+      ]
+    }
+  },
+  "inputs": {
+    "exp48": {
+      "file": "experiment48_fix1_mac_analysis_bundle.zip",
+      "sha256": "fb5b08d9b6ef73ec7530f06f9d4f28af26a9d23dd7a1dd89f21788774cd34fd3"
+    },
+    "exp49": {
+      "file": "experiment49_candidate_endpoint_robustness_results.zip",
+      "sha256": "f57f6938c5de6d32339f2ca9e8cb2789ceed1dd2263feb7155ee76b35caefdc2"
+    },
+    "exp62": {
+      "file": "experiment62_multistep_solvable_search_fix1_results.zip",
+      "sha256": "b2960650f01811d333f0ed4beea422c00d9149eb1f5eac7c55f1333a75230f57"
+    },
+    "exp64": {
+      "file": "experiment64_strict_v427_external_replication_results.zip",
+      "sha256": "2aaebc31501b5946a6dcfb7a279d2dda0cdd4cf20160f7e49ec63674e5411130"
+    }
+  },
+  "multistep": {
+    "bounds": {
+      "clopper_pearson_0_of_32": 0.0893681989862648,
+      "clopper_pearson_0_of_64": 0.045729702330762456,
+      "wilson_0_of_32": 0.07795709805478197,
+      "wilson_0_of_64": 0.040559499465846936
+    },
+    "confirmation_depths": {
+      "2": {
+        "endpoint_invocations": 1184,
+        "endpoint_solved": 32,
+        "full_invocations": 1184,
+        "full_solved": 32,
+        "roots": 32
+      },
+      "3": {
+        "endpoint_invocations": 2356,
+        "endpoint_solved": 20,
+        "full_invocations": 3103,
+        "full_solved": 20,
+        "roots": 20
+      },
+      "4": {
+        "endpoint_invocations": 2892,
+        "endpoint_solved": 6,
+        "full_invocations": 3236,
+        "full_solved": 5,
+        "roots": 8
+      },
+      "5": {
+        "endpoint_invocations": 768,
+        "endpoint_solved": 0,
+        "full_invocations": 768,
+        "full_solved": 0,
+        "roots": 1
+      },
+      "6": {
+        "endpoint_invocations": 1740,
+        "endpoint_solved": 1,
+        "full_invocations": 1856,
+        "full_solved": 1,
+        "roots": 3
+      }
+    },
+    "depth2_expanded_nodes_endpoint": {
+      "2": 24,
+      "3": 7,
+      "4": 1
+    },
+    "depth2_expanded_nodes_full": {
+      "2": 24,
+      "3": 7,
+      "4": 1
+    },
+    "losses": {
+      "all": 0,
+      "deep": 0
+    },
+    "panel_sizes": {
+      "25": 6,
+      "26": 30,
+      "27": 16,
+      "28": 8,
+      "29": 2,
+      "30": 2
+    },
+    "qualification_failures_by_gate": {
+      "dojo_initialization_or_worker": 1,
+      "initial_state_identity": 25,
+      "live_witness_replay": 7,
+      "root_one_step_terminal": 17
+    },
+    "source_files": 63,
+    "stop": {
+      "effect_aware": {
+        "budget_768": 5,
+        "max_wall_clock_seconds": 184.4,
+        "unsolved": 5
+      },
+      "fixed_budget_random": {
+        "budget_768": 11,
+        "max_wall_clock_seconds": 175.7,
+        "unsolved": 24
+      },
+      "full": {
+        "budget_768": 6,
+        "max_wall_clock_seconds": 183.7,
+        "unsolved": 6
+      },
+      "head_dedup": {
+        "budget_768": 7,
+        "max_wall_clock_seconds": 182.2,
+        "unsolved": 8
+      }
+    }
+  },
+  "strict_frame": {
+    "alias_comparison": {
+      "aesop|aesop?|same": 512,
+      "ring|ring_nf|same": 512
+    },
+    "attempts": 11776,
+    "authored_endpoint": {
+      "authored_nonterminal_roots": 373,
+      "authored_terminal_roots": 139,
+      "nonterminal_authored_reproduced": 36,
+      "representation": "struct",
+      "reproduced_by_some_candidate": 170
+    },
+    "candidate_outcomes": {
+      "aesop": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 206,
+        "successes": 255
+      },
+      "aesop?": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 206,
+        "successes": 255
+      },
+      "apply_assumption": {
+        "attempts": 44,
+        "nonterminal_changed_successes": 3,
+        "successes": 24
+      },
+      "assumption": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "constructor": {
+        "attempts": 502,
+        "nonterminal_changed_successes": 124,
+        "successes": 165
+      },
+      "contradiction": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "decide": {
+        "attempts": 497,
+        "nonterminal_changed_successes": 0,
+        "successes": 17
+      },
+      "exact?": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 451
+      },
+      "ext": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 45,
+        "successes": 45
+      },
+      "fun_prop": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 0
+      },
+      "linarith": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 1
+      },
+      "native_decide": {
+        "attempts": 502,
+        "nonterminal_changed_successes": 0,
+        "successes": 26
+      },
+      "nlinarith": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 1
+      },
+      "norm_num": {
+        "attempts": 511,
+        "nonterminal_changed_successes": 73,
+        "successes": 278
+      },
+      "omega": {
+        "attempts": 509,
+        "nonterminal_changed_successes": 0,
+        "successes": 3
+      },
+      "positivity": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 1
+      },
+      "rfl": {
+        "attempts": 508,
+        "nonterminal_changed_successes": 0,
+        "successes": 37
+      },
+      "ring": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 161,
+        "successes": 161
+      },
+      "ring_nf": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 161,
+        "successes": 161
+      },
+      "simp": {
+        "attempts": 511,
+        "nonterminal_changed_successes": 113,
+        "successes": 137
+      },
+      "simp_all": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 170,
+        "successes": 205
+      },
+      "simpa": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 28
+      },
+      "solve_by_elim": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 52
+      },
+      "trivial": {
+        "attempts": 512,
+        "nonterminal_changed_successes": 0,
+        "successes": 54
+      }
+    },
+    "failure_categories": {
+      "parse": 1764,
+      "tactic_failure": 7655
+    },
+    "heartbeat_exhaustion_candidates": 23,
+    "heartbeat_exhaustion_roots": 6,
+    "parse_failure_repositories": 18,
+    "parse_failures_by_tactic": {
+      "aesop": 100,
+      "aesop?": 100,
+      "fun_prop": 128,
+      "linarith": 250,
+      "nlinarith": 250,
+      "norm_num": 233,
+      "positivity": 233,
+      "ring": 235,
+      "ring_nf": 235
+    },
+    "roots": 512,
+    "source_files": 213,
+    "struct_dedup": {
+      "distinct_head_pairs": 69,
+      "distinct_nonterminal_endpoints": 621,
+      "executions_per_endpoint": 1.167,
+      "nonterminal": 76,
+      "nonterminal_successful_executions": 725,
+      "positive": 141,
+      "repositories_with_nonterminal": 21,
+      "terminal_only": 65,
+      "top_pairs": [
+        [
+          "norm_num/simp",
+          70
+        ],
+        [
+          "aesop/simp",
+          58
+        ],
+        [
+          "solve_by_elim/trivial",
+          46
+        ],
+        [
+          "constructor/solve_by_elim",
+          41
+        ],
+        [
+          "constructor/trivial",
+          40
+        ],
+        [
+          "rfl/trivial",
+          37
+        ],
+        [
+          "rfl/solve_by_elim",
+          37
+        ],
+        [
+          "aesop/norm_num",
+          36
+        ]
+      ]
+    },
+    "struct_full": {
+      "distinct_head_pairs": 124,
+      "distinct_nonterminal_endpoints": 662,
+      "executions_per_endpoint": 1.906,
+      "nonterminal": 298,
+      "nonterminal_successful_executions": 1262,
+      "positive": 355,
+      "positive_without_exact?": 353,
+      "repositories_with_nonterminal": 30,
+      "terminal_only": 57,
+      "top_pairs": [
+        [
+          "aesop/aesop?",
+          255
+        ],
+        [
+          "ring/ring_nf",
+          161
+        ],
+        [
+          "aesop/simp_all",
+          117
+        ],
+        [
+          "aesop?/simp_all",
+          117
+        ],
+        [
+          "simp/simp_all",
+          104
+        ],
+        [
+          "norm_num/simp",
+          70
+        ],
+        [
+          "aesop/simp",
+          58
+        ],
+        [
+          "aesop?/simp",
+          58
+        ]
+      ]
+    },
+    "successes": 2357,
+    "text_dedup": {
+      "distinct_head_pairs": 70,
+      "distinct_nonterminal_endpoints": 545,
+      "executions_per_endpoint": 1.152,
+      "nonterminal": 68,
+      "nonterminal_successful_executions": 628,
+      "positive": 132,
+      "repositories_with_nonterminal": 19,
+      "terminal_only": 64,
+      "top_pairs": [
+        [
+          "norm_num/simp",
+          73
+        ],
+        [
+          "solve_by_elim/trivial",
+          46
+        ],
+        [
+          "constructor/solve_by_elim",
+          41
+        ],
+        [
+          "constructor/trivial",
+          40
+        ],
+        [
+          "rfl/trivial",
+          37
+        ],
+        [
+          "rfl/solve_by_elim",
+          37
+        ],
+        [
+          "constructor/rfl",
+          34
+        ],
+        [
+          "aesop/simp",
+          33
+        ]
+      ]
+    },
+    "text_full": {
+      "distinct_head_pairs": 130,
+      "distinct_nonterminal_endpoints": 602,
+      "executions_per_endpoint": 1.779,
+      "nonterminal": 255,
+      "nonterminal_successful_executions": 1071,
+      "positive": 321,
+      "positive_without_exact?": 318,
+      "repositories_with_nonterminal": 30,
+      "terminal_only": 66,
+      "top_pairs": [
+        [
+          "aesop/aesop?",
+          252
+        ],
+        [
+          "simp/simp_all",
+          99
+        ],
+        [
+          "ring/ring_nf",
+          79
+        ],
+        [
+          "norm_num/simp",
+          73
+        ],
+        [
+          "aesop/simp_all",
+          72
+        ],
+        [
+          "aesop?/simp_all",
+          72
+        ],
+        [
+          "norm_num/simp_all",
+          56
+        ],
+        [
+          "exact?/trivial",
+          53
+        ]
+      ]
+    }
+  }
+}

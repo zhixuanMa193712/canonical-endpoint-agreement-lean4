@@ -4,11 +4,14 @@ Source code, correction layer and documentation for the manuscript
 "Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4" by
 Zhixuan Ma and Zhengwei Shen.
 
-Repository revision **1.22.4** (16 October 2026) synchronizes the documentation
-with the manuscript and Online Resource 1, editorial revision of 16 October 2026.
-Frozen experiment implementations, corrected analysis outputs and figures are
-unchanged from 1.22.3. The only code change relaxes one comparison in
-`reproduce_correction.py`; see CHANGELOG.md.
+Repository revision **1.22.5** (17 October 2026) synchronizes the documentation
+with the manuscript and Online Resource 1 as revised on 17 October 2026.
+Frozen experiment implementations and corrected analysis outputs are unchanged
+from 1.22.3. Revision 1.22.4 relaxed one comparison in `reproduce_correction.py`;
+revision 1.22.5 adds `figures_20261016/`, the manuscript figures redrawn in a
+conventional plotting style from the same numerical inputs, and
+`review_analyses_20261017/`, the scripts, compact rows and outputs of the post hoc
+offline analyses reported in the revised manuscript. See CHANGELOG.md.
 
 ## Archived release
 
@@ -23,7 +26,7 @@ https://doi.org/10.5281/zenodo.22110050). The deposit contains two packages:
   `v1.22.3` of this repository (commit `152c608`).
 
 Cite the Zenodo version DOI for the data and the exact tag or Git commit for code.
-Revision 1.22.4 is documentation-only and is not separately archived.
+Revisions 1.22.4 and 1.22.5 are documentation-only and are not separately archived.
 
 ## Results and correction layer
 
@@ -34,8 +37,9 @@ the 32-repository frame. Original archived summaries contain the old
 lexical-head labels (277/512 under the full panel); reproducing their audit alone
 does not validate the corrected numbers. See
 [`paper_v1.21/CORRECTION_NOTE.md`](paper_v1.21/CORRECTION_NOTE.md). The multistep
-comparison supplies the authored witness actions to every policy on roots with
-known proofs; it does not evaluate autonomous tactic generation.
+comparison supplies the authored steps to every policy on roots with
+known proofs; it does not evaluate autonomous tactic generation. The post hoc
+analyses in `review_analyses_20261017/` (see its README) execute no Lean code.
 
 ## Layout
 
@@ -50,7 +54,9 @@ known proofs; it does not evaluate autonomous tactic generation.
   claims, manifests and reproduction order), synchronized with the 16 October 2026 revision.
 - `docs/`: licence references and a 52-candidate provenance inventory.
 - `reproduce_correction.py`: temporary-directory reproduction of final corrections.
-- `figures_20261008/`: final figure assets, unchanged plotting sources and numerical inputs.
+- `figures_20261016/`: current manuscript figures (redrawn 16 October 2026), their
+  scripts and a record of every plotted value; inputs identical to `figures_20261008/`.
+- `figures_20261008/`: the 8 October figure assets, plotting sources and numerical inputs.
 - `reproduce_figures.py`: portable wrapper for the four figures and Figure S1.
 
 ## Quick offline reproduction
@@ -73,8 +79,9 @@ applied. Input archives and bundled results are not modified.
 
 The eleven archive checksums are independently listed in the dataset manifest.
 The historical `paper_v1.21/figure4.py` is not the current manuscript figure pipeline.
-For current figures, see figures_20261008/README.md. Their order is method,
-confirmation, external replication, and sensitivity/repeat execution.
+For current figures, see figures_20261016/README.md; `reproduce_figures.py` rebuilds
+the numerical inputs and the 8 October drawings (figures_20261008/README.md). The
+order is method, confirmation, external replication, and sensitivity/repeat execution.
 
 ## Optional full execution
 

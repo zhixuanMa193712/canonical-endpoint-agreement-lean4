@@ -1,0 +1,99 @@
+{
+ "case_series": {
+  "counts": {
+   "roots": 96,
+   "any_option": 0,
+   "raised_heartbeats": 0
+  },
+  "option_names": [],
+  "heartbeat_failure_roots": [
+   {
+    "slug": "RemyDegenne/brownian-motion",
+    "full_name": "ContinuousBilinForm.isSymm_iff_isHermitian_toMatrix",
+    "options": {},
+    "raised_heartbeats": false
+   }
+  ]
+ },
+ "strict": {
+  "counts": {
+   "roots": 512,
+   "any_option": 61,
+   "raised_heartbeats": 9
+  },
+  "option_names": [
+   [
+    "linter.style.nativeDecide",
+    16
+   ],
+   [
+    "linter.style.whitespace",
+    16
+   ],
+   [
+    "linter.unusedSectionVars",
+    15
+   ],
+   [
+    "linter.style.longLine",
+    14
+   ],
+   [
+    "linter.unusedVariables",
+    13
+   ],
+   [
+    "maxHeartbeats",
+    9
+   ],
+   [
+    "linter.unusedSimpArgs",
+    6
+   ],
+   [
+    "linter.unnecessarySimpa",
+    1
+   ]
+  ],
+  "heartbeat_failure_roots": [
+   {
+    "slug": "NethermindEth/poseidon2-fv",
+    "full_name": "Poseidon2W16S7.PartialRound.add_partial_round_constants_equiv",
+    "options": {},
+    "raised_heartbeats": false
+   },
+   {
+    "slug": "NethermindEth/poseidon2-fv",
+    "full_name": "Poseidon2W16S7.PartialRound.apply_partial_round_sbox_equiv",
+    "options": {},
+    "raised_heartbeats": false
+   },
+   {
+    "slug": "NethermindEth/poseidon2-fv",
+    "full_name": "Poseidon2W16S7.Permuation.hash_equiv_of_constraints'",
+    "options": {},
+    "raised_heartbeats": false
+   },
+   {
+    "slug": "beowulf127/wowii144-lean",
+    "full_name": "WrittenOnTheWallII.GraphConjecture144.outsideComponentExclusionIndices_eq_empty_of_two_contacts",
+    "options": {
+     "linter.unusedSectionVars": "false"
+    },
+    "raised_heartbeats": false
+   },
+   {
+    "slug": "galvusdamor/lean4-search-algorithms",
+    "full_name": "NatGraph.dijkstra_shorter_path_via_head",
+    "options": {},
+    "raised_heartbeats": false
+   },
+   {
+    "slug": "korbexmachina/GlimpseOfLean",
+    "full_name": "GlimpseOfLean.Ideal.chineseMap_surjective",
+    "options": {},
+    "raised_heartbeats": false
+   }
+  ]
+ }
+}

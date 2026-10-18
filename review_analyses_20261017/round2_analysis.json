@@ -1,0 +1,3724 @@
+{
+ "case_series": {
+  "roots": 96,
+  "first_tactic_roots": 93,
+  "attr_roots": 15,
+  "first_roots": 93,
+  "first_exact_success": 92,
+  "first_exact_attempts": 93,
+  "first_authored_terminal": 34,
+  "first_text_full": {
+   "roots": 93,
+   "positive": 57,
+   "nonterminal": 36,
+   "terminal_only": 21
+  },
+  "first_struct_full": {
+   "roots": 93,
+   "positive": 68,
+   "nonterminal": 53,
+   "terminal_only": 15
+  },
+  "internal_roots": 3,
+  "internal_exact_success": 1,
+  "internal_exact_attempts": 3,
+  "internal_authored_terminal": 0,
+  "internal_text_full": {
+   "roots": 3,
+   "positive": 0,
+   "nonterminal": 0,
+   "terminal_only": 0
+  },
+  "internal_struct_full": {
+   "roots": 3,
+   "positive": 2,
+   "nonterminal": 2,
+   "terminal_only": 0
+  },
+  "root_position_kinds": {
+   "True|by": 93,
+   "False|by": 1,
+   "False|term": 2
+  },
+  "four_way_text": {
+   "rfl": {
+    "failed": 89,
+    "closed": 4
+   },
+   "assumption": {
+    "failed": 96
+   },
+   "trivial": {
+    "failed": 88,
+    "closed": 8
+   },
+   "contradiction": {
+    "failed": 96
+   },
+   "simp": {
+    "unchanged": 5,
+    "failed": 64,
+    "closed": 11,
+    "changed_nonterminal": 15
+   },
+   "simpa": {
+    "failed": 84,
+    "closed": 12
+   },
+   "simp_all": {
+    "changed_nonterminal": 20,
+    "closed": 17,
+    "failed": 55,
+    "unchanged": 4
+   },
+   "aesop": {
+    "changed_nonterminal": 28,
+    "closed": 20,
+    "failed": 47,
+    "unchanged": 1
+   },
+   "aesop?": {
+    "changed_nonterminal": 28,
+    "closed": 20,
+    "failed": 47,
+    "unchanged": 1
+   },
+   "norm_num": {
+    "unchanged": 62,
+    "closed": 11,
+    "failed": 8,
+    "changed_nonterminal": 15
+   },
+   "omega": {
+    "failed": 96
+   },
+   "linarith": {
+    "failed": 96
+   },
+   "nlinarith": {
+    "failed": 96
+   },
+   "ring": {
+    "failed": 55,
+    "unchanged": 25,
+    "changed_nonterminal": 16
+   },
+   "ring_nf": {
+    "failed": 55,
+    "unchanged": 25,
+    "changed_nonterminal": 16
+   },
+   "positivity": {
+    "failed": 96
+   },
+   "decide": {
+    "failed": 95
+   },
+   "native_decide": {
+    "failed": 95,
+    "closed": 1
+   },
+   "constructor": {
+    "failed": 74,
+    "changed_nonterminal": 15,
+    "closed": 7
+   },
+   "ext": {
+    "failed": 70,
+    "changed_nonterminal": 20
+   },
+   "fun_prop": {
+    "failed": 94,
+    "closed": 2
+   },
+   "solve_by_elim": {
+    "failed": 89,
+    "closed": 7
+   },
+   "exact?": {
+    "closed": 93,
+    "failed": 3
+   },
+   "apply_assumption": {
+    "failed": 6,
+    "changed_nonterminal": 2,
+    "closed": 3
+   }
+  },
+  "four_way_struct": {
+   "rfl": {
+    "failed": 89,
+    "closed": 4
+   },
+   "assumption": {
+    "failed": 96
+   },
+   "trivial": {
+    "failed": 88,
+    "closed": 8
+   },
+   "contradiction": {
+    "failed": 96
+   },
+   "simp": {
+    "changed_nonterminal": 20,
+    "failed": 64,
+    "closed": 11
+   },
+   "simpa": {
+    "failed": 84,
+    "closed": 12
+   },
+   "simp_all": {
+    "changed_nonterminal": 24,
+    "closed": 17,
+    "failed": 55
+   },
+   "aesop": {
+    "changed_nonterminal": 29,
+    "closed": 20,
+    "failed": 47
+   },
+   "aesop?": {
+    "changed_nonterminal": 29,
+    "closed": 20,
+    "failed": 47
+   },
+   "norm_num": {
+    "unchanged": 62,
+    "closed": 11,
+    "failed": 8,
+    "changed_nonterminal": 15
+   },
+   "omega": {
+    "failed": 96
+   },
+   "linarith": {
+    "failed": 96
+   },
+   "nlinarith": {
+    "failed": 96
+   },
+   "ring": {
+    "failed": 55,
+    "changed_nonterminal": 41
+   },
+   "ring_nf": {
+    "failed": 55,
+    "changed_nonterminal": 41
+   },
+   "positivity": {
+    "failed": 96
+   },
+   "decide": {
+    "failed": 95
+   },
+   "native_decide": {
+    "failed": 95,
+    "closed": 1
+   },
+   "constructor": {
+    "failed": 74,
+    "changed_nonterminal": 15,
+    "closed": 7
+   },
+   "ext": {
+    "failed": 70,
+    "changed_nonterminal": 20
+   },
+   "fun_prop": {
+    "failed": 94,
+    "closed": 2
+   },
+   "solve_by_elim": {
+    "failed": 89,
+    "closed": 7
+   },
+   "exact?": {
+    "closed": 93,
+    "failed": 3
+   },
+   "apply_assumption": {
+    "failed": 6,
+    "changed_nonterminal": 2,
+    "closed": 3
+   }
+  },
+  "text_full": {
+   "roots": 96,
+   "positive": 57,
+   "nonterminal": 36,
+   "terminal_only": 21
+  },
+  "text_dedup": {
+   "roots": 96,
+   "positive": 30,
+   "nonterminal": 14,
+   "terminal_only": 16
+  },
+  "text_engine_full": {
+   "roots": 96,
+   "positive": 24,
+   "nonterminal": 1,
+   "terminal_only": 23
+  },
+  "text_engine_dedup": {
+   "roots": 96,
+   "positive": 9,
+   "nonterminal": 1,
+   "terminal_only": 8
+  },
+  "text_conservative_full": {
+   "roots": 81,
+   "positive": 42,
+   "nonterminal": 36,
+   "terminal_only": 6
+  },
+  "text_conservative_dedup": {
+   "roots": 81,
+   "positive": 20,
+   "nonterminal": 14,
+   "terminal_only": 6
+  },
+  "text_internal_only_full": {
+   "roots": 3,
+   "positive": 0,
+   "nonterminal": 0,
+   "terminal_only": 0
+  },
+  "struct_full": {
+   "roots": 96,
+   "positive": 70,
+   "nonterminal": 55,
+   "terminal_only": 15
+  },
+  "struct_dedup": {
+   "roots": 96,
+   "positive": 33,
+   "nonterminal": 17,
+   "terminal_only": 16
+  },
+  "struct_engine_full": {
+   "roots": 96,
+   "positive": 23,
+   "nonterminal": 0,
+   "terminal_only": 23
+  },
+  "struct_engine_dedup": {
+   "roots": 96,
+   "positive": 8,
+   "nonterminal": 0,
+   "terminal_only": 8
+  },
+  "struct_conservative_full": {
+   "roots": 81,
+   "positive": 55,
+   "nonterminal": 52,
+   "terminal_only": 3
+  },
+  "struct_conservative_dedup": {
+   "roots": 81,
+   "positive": 23,
+   "nonterminal": 17,
+   "terminal_only": 6
+  },
+  "struct_internal_only_full": {
+   "roots": 3,
+   "positive": 2,
+   "nonterminal": 2,
+   "terminal_only": 0
+  },
+  "dedup_simp_representative_text": {
+   "simp": {
+    "positive": 30,
+    "nonterminal": 14
+   },
+   "simpa": {
+    "positive": 23,
+    "nonterminal": 7
+   },
+   "simp_all": {
+    "positive": 33,
+    "nonterminal": 12
+   }
+  },
+  "dedup_simp_representative_struct": {
+   "simp": {
+    "positive": 33,
+    "nonterminal": 17
+   },
+   "simpa": {
+    "positive": 24,
+    "nonterminal": 8
+   },
+   "simp_all": {
+    "positive": 41,
+    "nonterminal": 20
+   }
+  },
+  "struct_visible_full": {
+   "roots": 96,
+   "positive": 57,
+   "nonterminal": 36,
+   "terminal_only": 21
+  },
+  "struct_visible_dedup": {
+   "roots": 96,
+   "positive": 29,
+   "nonterminal": 13,
+   "terminal_only": 16
+  },
+  "nonterminal_pairs_struct_dedup": [
+   [
+    "aesop/simp",
+    14,
+    4
+   ],
+   [
+    "norm_num/simp",
+    11,
+    4
+   ],
+   [
+    "aesop/norm_num",
+    8,
+    3
+   ]
+  ],
+  "nonterminal_pairs_text_dedup": [
+   [
+    "norm_num/simp",
+    12,
+    4
+   ],
+   [
+    "aesop/simp",
+    7,
+    2
+   ],
+   [
+    "aesop/norm_num",
+    6,
+    1
+   ],
+   [
+    "norm_num/ring",
+    1,
+    1
+   ]
+  ],
+  "nonterminal_pairs_struct_full": [
+   [
+    "ring/ring_nf",
+    41,
+    4
+   ],
+   [
+    "aesop/aesop?",
+    29,
+    4
+   ],
+   [
+    "aesop/simp_all",
+    19,
+    4
+   ],
+   [
+    "aesop?/simp_all",
+    19,
+    4
+   ],
+   [
+    "simp/simp_all",
+    16,
+    4
+   ],
+   [
+    "aesop/simp",
+    14,
+    4
+   ],
+   [
+    "aesop?/simp",
+    14,
+    4
+   ],
+   [
+    "norm_num/simp",
+    11,
+    4
+   ],
+   [
+    "norm_num/simp_all",
+    9,
+    3
+   ],
+   [
+    "aesop/norm_num",
+    8,
+    3
+   ],
+   [
+    "aesop?/norm_num",
+    8,
+    3
+   ]
+  ],
+  "rarefaction_struct": {
+   "productive_programs": [
+    "aesop",
+    "aesop?",
+    "apply_assumption",
+    "constructor",
+    "exact?",
+    "ext",
+    "fun_prop",
+    "native_decide",
+    "norm_num",
+    "rfl",
+    "ring",
+    "ring_nf",
+    "simp",
+    "simp_all",
+    "simpa",
+    "solve_by_elim",
+    "trivial"
+   ],
+   "random_k18": {
+    "mean": 0.6192708333333333,
+    "p2.5": 0.5729166666666666,
+    "p97.5": 0.6666666666666666
+   },
+   "drop5_random_productive": {
+    "mean": 0.5674479166666666,
+    "p2.5": 0.5104166666666666,
+    "p97.5": 0.625
+   },
+   "dedup": {
+    "mean": 0.34375,
+    "p2.5": 0.34375,
+    "p97.5": 0.34375
+   },
+   "full": {
+    "mean": 0.7291666666666666,
+    "p2.5": 0.7291666666666666,
+    "p97.5": 0.7291666666666666
+   },
+   "label": "struct"
+  },
+  "rarefaction_text": {
+   "productive_programs": [
+    "aesop",
+    "aesop?",
+    "apply_assumption",
+    "constructor",
+    "exact?",
+    "ext",
+    "fun_prop",
+    "native_decide",
+    "norm_num",
+    "rfl",
+    "ring",
+    "ring_nf",
+    "simp",
+    "simp_all",
+    "simpa",
+    "solve_by_elim",
+    "trivial"
+   ],
+   "random_k18": {
+    "mean": 0.49913541666666666,
+    "p2.5": 0.4479166666666667,
+    "p97.5": 0.5416666666666666
+   },
+   "drop5_random_productive": {
+    "mean": 0.4574375,
+    "p2.5": 0.40625,
+    "p97.5": 0.5104166666666667
+   },
+   "dedup": {
+    "mean": 0.3125,
+    "p2.5": 0.3125,
+    "p97.5": 0.3125
+   },
+   "full": {
+    "mean": 0.59375,
+    "p2.5": 0.59375,
+    "p97.5": 0.59375
+   },
+   "label": "text"
+  }
+ },
+ "strict": {
+  "roots": 512,
+  "first_tactic_roots": 474,
+  "attr_roots": 18,
+  "first_roots": 474,
+  "first_exact_success": 437,
+  "first_exact_attempts": 474,
+  "first_authored_terminal": 130,
+  "first_text_full": {
+   "roots": 474,
+   "positive": 296,
+   "nonterminal": 234,
+   "terminal_only": 62
+  },
+  "first_struct_full": {
+   "roots": 474,
+   "positive": 325,
+   "nonterminal": 271,
+   "terminal_only": 54
+  },
+  "internal_roots": 38,
+  "internal_exact_success": 14,
+  "internal_exact_attempts": 38,
+  "internal_authored_terminal": 9,
+  "internal_text_full": {
+   "roots": 38,
+   "positive": 25,
+   "nonterminal": 21,
+   "terminal_only": 4
+  },
+  "internal_struct_full": {
+   "roots": 38,
+   "positive": 30,
+   "nonterminal": 27,
+   "terminal_only": 3
+  },
+  "root_position_kinds": {
+   "True|by": 474,
+   "False|by": 29,
+   "False|term": 6,
+   "False|none": 3
+  },
+  "four_way_text": {
+   "rfl": {
+    "failed": 471,
+    "closed": 37
+   },
+   "assumption": {
+    "failed": 512
+   },
+   "trivial": {
+    "failed": 458,
+    "closed": 54
+   },
+   "contradiction": {
+    "failed": 512
+   },
+   "simp": {
+    "failed": 374,
+    "changed_nonterminal": 104,
+    "unchanged": 9,
+    "closed": 24
+   },
+   "simpa": {
+    "failed": 484,
+    "closed": 28
+   },
+   "simp_all": {
+    "failed": 307,
+    "changed_nonterminal": 161,
+    "unchanged": 9,
+    "closed": 35
+   },
+   "aesop": {
+    "failed": 257,
+    "changed_nonterminal": 203,
+    "closed": 49,
+    "unchanged": 3
+   },
+   "aesop?": {
+    "failed": 257,
+    "changed_nonterminal": 203,
+    "closed": 49,
+    "unchanged": 3
+   },
+   "norm_num": {
+    "unchanged": 199,
+    "changed_nonterminal": 70,
+    "failed": 233,
+    "closed": 9
+   },
+   "omega": {
+    "failed": 506,
+    "closed": 3
+   },
+   "linarith": {
+    "failed": 511,
+    "closed": 1
+   },
+   "nlinarith": {
+    "failed": 511,
+    "closed": 1
+   },
+   "ring": {
+    "failed": 351,
+    "changed_nonterminal": 79,
+    "unchanged": 82
+   },
+   "ring_nf": {
+    "failed": 351,
+    "changed_nonterminal": 79,
+    "unchanged": 82
+   },
+   "positivity": {
+    "failed": 511,
+    "closed": 1
+   },
+   "decide": {
+    "failed": 480,
+    "closed": 17
+   },
+   "native_decide": {
+    "failed": 476,
+    "closed": 26
+   },
+   "constructor": {
+    "failed": 337,
+    "changed_nonterminal": 124,
+    "closed": 41
+   },
+   "ext": {
+    "failed": 467,
+    "changed_nonterminal": 45
+   },
+   "fun_prop": {
+    "failed": 512
+   },
+   "solve_by_elim": {
+    "failed": 460,
+    "closed": 52
+   },
+   "exact?": {
+    "closed": 451,
+    "failed": 61
+   },
+   "apply_assumption": {
+    "failed": 20,
+    "closed": 21,
+    "changed_nonterminal": 3
+   }
+  },
+  "four_way_struct": {
+   "rfl": {
+    "failed": 471,
+    "closed": 37
+   },
+   "assumption": {
+    "failed": 512
+   },
+   "trivial": {
+    "failed": 458,
+    "closed": 54
+   },
+   "contradiction": {
+    "failed": 512
+   },
+   "simp": {
+    "failed": 374,
+    "changed_nonterminal": 113,
+    "closed": 24
+   },
+   "simpa": {
+    "failed": 484,
+    "closed": 28
+   },
+   "simp_all": {
+    "failed": 307,
+    "changed_nonterminal": 170,
+    "closed": 35
+   },
+   "aesop": {
+    "failed": 257,
+    "changed_nonterminal": 206,
+    "closed": 49
+   },
+   "aesop?": {
+    "failed": 257,
+    "changed_nonterminal": 206,
+    "closed": 49
+   },
+   "norm_num": {
+    "unchanged": 196,
+    "changed_nonterminal": 73,
+    "failed": 233,
+    "closed": 9
+   },
+   "omega": {
+    "failed": 506,
+    "closed": 3
+   },
+   "linarith": {
+    "failed": 511,
+    "closed": 1
+   },
+   "nlinarith": {
+    "failed": 511,
+    "closed": 1
+   },
+   "ring": {
+    "failed": 351,
+    "changed_nonterminal": 161
+   },
+   "ring_nf": {
+    "failed": 351,
+    "changed_nonterminal": 161
+   },
+   "positivity": {
+    "failed": 511,
+    "closed": 1
+   },
+   "decide": {
+    "failed": 480,
+    "closed": 17
+   },
+   "native_decide": {
+    "failed": 476,
+    "closed": 26
+   },
+   "constructor": {
+    "failed": 337,
+    "changed_nonterminal": 124,
+    "closed": 41
+   },
+   "ext": {
+    "failed": 467,
+    "changed_nonterminal": 45
+   },
+   "fun_prop": {
+    "failed": 512
+   },
+   "solve_by_elim": {
+    "failed": 460,
+    "closed": 52
+   },
+   "exact?": {
+    "closed": 451,
+    "failed": 61
+   },
+   "apply_assumption": {
+    "failed": 20,
+    "closed": 21,
+    "changed_nonterminal": 3
+   }
+  },
+  "text_full": {
+   "roots": 512,
+   "positive": 321,
+   "nonterminal": 255,
+   "terminal_only": 66
+  },
+  "text_dedup": {
+   "roots": 512,
+   "positive": 132,
+   "nonterminal": 68,
+   "terminal_only": 64
+  },
+  "text_engine_full": {
+   "roots": 512,
+   "positive": 84,
+   "nonterminal": 4,
+   "terminal_only": 80
+  },
+  "text_engine_dedup": {
+   "roots": 512,
+   "positive": 65,
+   "nonterminal": 4,
+   "terminal_only": 61
+  },
+  "text_conservative_full": {
+   "roots": 494,
+   "positive": 300,
+   "nonterminal": 255,
+   "terminal_only": 45
+  },
+  "text_conservative_dedup": {
+   "roots": 494,
+   "positive": 118,
+   "nonterminal": 68,
+   "terminal_only": 50
+  },
+  "text_internal_only_full": {
+   "roots": 38,
+   "positive": 25,
+   "nonterminal": 21,
+   "terminal_only": 4
+  },
+  "struct_full": {
+   "roots": 512,
+   "positive": 355,
+   "nonterminal": 298,
+   "terminal_only": 57
+  },
+  "struct_dedup": {
+   "roots": 512,
+   "positive": 141,
+   "nonterminal": 76,
+   "terminal_only": 65
+  },
+  "struct_engine_full": {
+   "roots": 512,
+   "positive": 84,
+   "nonterminal": 4,
+   "terminal_only": 80
+  },
+  "struct_engine_dedup": {
+   "roots": 512,
+   "positive": 65,
+   "nonterminal": 4,
+   "terminal_only": 61
+  },
+  "struct_conservative_full": {
+   "roots": 494,
+   "positive": 335,
+   "nonterminal": 298,
+   "terminal_only": 37
+  },
+  "struct_conservative_dedup": {
+   "roots": 494,
+   "positive": 127,
+   "nonterminal": 76,
+   "terminal_only": 51
+  },
+  "struct_internal_only_full": {
+   "roots": 38,
+   "positive": 30,
+   "nonterminal": 27,
+   "terminal_only": 3
+  },
+  "dedup_simp_representative_text": {
+   "simp": {
+    "positive": 132,
+    "nonterminal": 68
+   },
+   "simpa": {
+    "positive": 86,
+    "nonterminal": 15
+   },
+   "simp_all": {
+    "positive": 154,
+    "nonterminal": 81
+   }
+  },
+  "dedup_simp_representative_struct": {
+   "simp": {
+    "positive": 141,
+    "nonterminal": 76
+   },
+   "simpa": {
+    "positive": 102,
+    "nonterminal": 31
+   },
+   "simp_all": {
+    "positive": 182,
+    "nonterminal": 108
+   }
+  },
+  "struct_visible_full": {
+   "roots": 512,
+   "positive": 321,
+   "nonterminal": 255,
+   "terminal_only": 66
+  },
+  "struct_visible_dedup": {
+   "roots": 512,
+   "positive": 138,
+   "nonterminal": 73,
+   "terminal_only": 65
+  },
+  "nonterminal_pairs_struct_dedup": [
+   [
+    "norm_num/simp",
+    61,
+    17
+   ],
+   [
+    "aesop/simp",
+    39,
+    16
+   ],
+   [
+    "aesop/norm_num",
+    27,
+    12
+   ],
+   [
+    "aesop/constructor",
+    3,
+    2
+   ],
+   [
+    "norm_num/ring",
+    1,
+    1
+   ],
+   [
+    "ring/simp",
+    1,
+    1
+   ]
+  ],
+  "nonterminal_pairs_text_dedup": [
+   [
+    "norm_num/simp",
+    64,
+    17
+   ],
+   [
+    "aesop/simp",
+    14,
+    9
+   ],
+   [
+    "aesop/norm_num",
+    12,
+    8
+   ],
+   [
+    "norm_num/ring",
+    3,
+    3
+   ],
+   [
+    "aesop/constructor",
+    2,
+    2
+   ],
+   [
+    "ring/simp",
+    2,
+    2
+   ],
+   [
+    "aesop/ring",
+    1,
+    1
+   ]
+  ],
+  "nonterminal_pairs_struct_full": [
+   [
+    "aesop/aesop?",
+    206,
+    26
+   ],
+   [
+    "ring/ring_nf",
+    161,
+    18
+   ],
+   [
+    "aesop/simp_all",
+    88,
+    21
+   ],
+   [
+    "aesop?/simp_all",
+    88,
+    21
+   ],
+   [
+    "simp/simp_all",
+    80,
+    28
+   ],
+   [
+    "norm_num/simp",
+    61,
+    17
+   ],
+   [
+    "norm_num/simp_all",
+    44,
+    17
+   ],
+   [
+    "aesop/simp",
+    39,
+    16
+   ],
+   [
+    "aesop?/simp",
+    39,
+    16
+   ],
+   [
+    "aesop/norm_num",
+    27,
+    12
+   ],
+   [
+    "aesop?/norm_num",
+    27,
+    12
+   ],
+   [
+    "aesop/constructor",
+    3,
+    2
+   ],
+   [
+    "aesop?/constructor",
+    3,
+    2
+   ],
+   [
+    "norm_num/ring",
+    1,
+    1
+   ],
+   [
+    "norm_num/ring_nf",
+    1,
+    1
+   ]
+  ],
+  "all_23_parse_roots": 260,
+  "all_parse_reps": 18,
+  "text_full_all_parse": {
+   "roots": 260,
+   "positive": 189,
+   "nonterminal": 173,
+   "terminal_only": 16
+  },
+  "text_dedup_all_parse": {
+   "roots": 260,
+   "positive": 78,
+   "nonterminal": 58,
+   "terminal_only": 20
+  },
+  "text_full_parse_failures": {
+   "roots": 252,
+   "positive": 132,
+   "nonterminal": 82,
+   "terminal_only": 50
+  },
+  "text_dedup_parse_failures": {
+   "roots": 252,
+   "positive": 54,
+   "nonterminal": 10,
+   "terminal_only": 44
+  },
+  "struct_full_all_parse": {
+   "roots": 260,
+   "positive": 220,
+   "nonterminal": 213,
+   "terminal_only": 7
+  },
+  "struct_dedup_all_parse": {
+   "roots": 260,
+   "positive": 83,
+   "nonterminal": 62,
+   "terminal_only": 21
+  },
+  "struct_full_parse_failures": {
+   "roots": 252,
+   "positive": 135,
+   "nonterminal": 85,
+   "terminal_only": 50
+  },
+  "struct_dedup_parse_failures": {
+   "roots": 252,
+   "positive": 58,
+   "nonterminal": 14,
+   "terminal_only": 44
+  },
+  "frame_conditional_struct_full": {
+   "estimate": 0.693359375,
+   "p2.5": 0.662109375,
+   "p97.5": 0.724609375,
+   "replicates": 20000,
+   "seed": 20260918
+  },
+  "frame_conditional_struct_dedup": {
+   "estimate": 0.275390625,
+   "p2.5": 0.240234375,
+   "p97.5": 0.3125,
+   "replicates": 20000,
+   "seed": 20260918
+  },
+  "ring_pair_roots_text_unchanged": 82,
+  "rarefaction_struct": {
+   "productive_programs": [
+    "aesop",
+    "aesop?",
+    "apply_assumption",
+    "constructor",
+    "decide",
+    "exact?",
+    "ext",
+    "linarith",
+    "native_decide",
+    "nlinarith",
+    "norm_num",
+    "omega",
+    "positivity",
+    "rfl",
+    "ring",
+    "ring_nf",
+    "simp",
+    "simp_all",
+    "simpa",
+    "solve_by_elim",
+    "trivial"
+   ],
+   "random_k18": {
+    "mean": 0.5772890625,
+    "p2.5": 0.552734375,
+    "p97.5": 0.603515625
+   },
+   "drop5_random_productive": {
+    "mean": 0.559041015625,
+    "p2.5": 0.533203125,
+    "p97.5": 0.583984375
+   },
+   "dedup": {
+    "mean": 0.275390625,
+    "p2.5": 0.275390625,
+    "p97.5": 0.275390625
+   },
+   "full": {
+    "mean": 0.693359375,
+    "p2.5": 0.693359375,
+    "p97.5": 0.693359375
+   },
+   "label": "struct"
+  },
+  "rarefaction_text": {
+   "productive_programs": [
+    "aesop",
+    "aesop?",
+    "apply_assumption",
+    "constructor",
+    "decide",
+    "exact?",
+    "ext",
+    "linarith",
+    "native_decide",
+    "nlinarith",
+    "norm_num",
+    "omega",
+    "positivity",
+    "rfl",
+    "ring",
+    "ring_nf",
+    "simp",
+    "simp_all",
+    "simpa",
+    "solve_by_elim",
+    "trivial"
+   ],
+   "random_k18": {
+    "mean": 0.512294921875,
+    "p2.5": 0.486328125,
+    "p97.5": 0.537109375
+   },
+   "drop5_random_productive": {
+    "mean": 0.49476953125,
+    "p2.5": 0.46875,
+    "p97.5": 0.51953125
+   },
+   "dedup": {
+    "mean": 0.2578125,
+    "p2.5": 0.2578125,
+    "p97.5": 0.2578125
+   },
+   "full": {
+    "mean": 0.626953125,
+    "p2.5": 0.626953125,
+    "p97.5": 0.626953125
+   },
+   "label": "text"
+  }
+ },
+ "multistep": {
+  "validation": {
+   "full_reproduced": 61,
+   "sibling_reproduces_ea": 58
+  },
+  "simulation": {
+   "full": {
+    "status_proved": 58,
+    "solved": 58,
+    "invocations": 7843,
+    "simulable": 61,
+    "status_unobserved": 3,
+    "status_budget": 3
+   },
+   "sibling": {
+    "status_proved": 58,
+    "solved": 58,
+    "invocations": 4536,
+    "simulable": 58,
+    "status_truncated_log": 5,
+    "status_unobserved": 1
+   },
+   "global": {
+    "status_proved": 59,
+    "solved": 59,
+    "invocations": 5730,
+    "simulable": 60,
+    "status_unobserved": 3,
+    "status_truncated_log": 1,
+    "status_budget": 1
+   }
+  },
+  "paired_global_vs_actual": {
+   "roots": 60,
+   "full_inv": 7075,
+   "ea_inv": 5868,
+   "global_inv": 5730,
+   "full_solved": 58,
+   "ea_solved": 59,
+   "global_solved": 59,
+   "global_lt_ea": 3
+  },
+  "collisions_by_pair": [
+   [
+    "ring/ring_nf",
+    195
+   ],
+   [
+    "aesop/aesop",
+    166
+   ],
+   [
+    "norm_num/ring",
+    82
+   ],
+   [
+    "norm_num/ring_nf",
+    77
+   ],
+   [
+    "norm_num/simp",
+    71
+   ],
+   [
+    "simp/simp_all",
+    60
+   ],
+   [
+    "constructor/constructor",
+    43
+   ],
+   [
+    "norm_num/simp_all",
+    24
+   ],
+   [
+    "aesop/simp_all",
+    7
+   ],
+   [
+    "aesop/simp",
+    7
+   ],
+   [
+    "aesop/norm_num",
+    6
+   ],
+   [
+    "norm_cast/ring_nf",
+    6
+   ],
+   [
+    "ring/simp",
+    2
+   ],
+   [
+    "ring_nf/simp",
+    2
+   ],
+   [
+    "aesop/simpa",
+    2
+   ]
+  ],
+  "collisions_total": 767,
+  "authored_child_pruned": {},
+  "collisions_complete_nodes": {
+   "total": 760,
+   "generic_generic": 741,
+   "discarded_is_registered_next_step": 0
+  },
+  "collisions_complete_by_pair": [
+   [
+    "ring/ring_nf",
+    194
+   ],
+   [
+    "aesop/aesop",
+    164
+   ],
+   [
+    "norm_num/ring",
+    80
+   ],
+   [
+    "norm_num/ring_nf",
+    76
+   ],
+   [
+    "norm_num/simp",
+    71
+   ],
+   [
+    "simp/simp_all",
+    60
+   ],
+   [
+    "constructor/constructor",
+    42
+   ],
+   [
+    "norm_num/simp_all",
+    24
+   ],
+   [
+    "aesop/simp_all",
+    7
+   ],
+   [
+    "aesop/simp",
+    7
+   ],
+   [
+    "aesop/norm_num",
+    6
+   ],
+   [
+    "norm_cast/ring_nf",
+    6
+   ],
+   [
+    "ring/simp",
+    2
+   ],
+   [
+    "ring_nf/simp",
+    2
+   ],
+   [
+    "aesop/simpa",
+    2
+   ]
+  ],
+  "key_adequacy_full_logs": {
+   "keys_expanded_more_than_once": 68,
+   "identical_outcomes": 68
+  },
+  "head_dedup_losses_vs_full": 2,
+  "head_dedup_gains_vs_full": 0,
+  "expanded_nodes": {
+   "full": 417,
+   "effect_aware": 373
+  },
+  "per_root": [
+   {
+    "target_id": "7f58841c272973d4f9b00b4b",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     46
+    ],
+    "actual_ea": [
+     true,
+     46
+    ],
+    "actual_head": [
+     true,
+     46
+    ],
+    "sim": {
+     "full": [
+      true,
+      46,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      46,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      46,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "2ba66285c9039f402d38840b",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "727e3a54d605a868fe6f8e35",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "cd246dfe01633614268eb35e",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "4266e8d38ef27b6eaaa5f56c",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     82
+    ],
+    "actual_ea": [
+     true,
+     82
+    ],
+    "actual_head": [
+     true,
+     82
+    ],
+    "sim": {
+     "full": [
+      true,
+      82,
+      4,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      82,
+      4,
+      "proved"
+     ],
+     "global": [
+      true,
+      82,
+      4,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "7a7113eda011b8fe2fd7d627",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     112
+    ],
+    "actual_ea": [
+     true,
+     85
+    ],
+    "actual_head": [
+     true,
+     85
+    ],
+    "sim": {
+     "full": [
+      true,
+      112,
+      5,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      85,
+      4,
+      "proved"
+     ],
+     "global": [
+      true,
+      85,
+      4,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "17e866bab06eabe4f70feeee",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "1e00ebb27cbce89312ba0867",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     57
+    ],
+    "actual_ea": [
+     true,
+     57
+    ],
+    "actual_head": [
+     true,
+     57
+    ],
+    "sim": {
+     "full": [
+      true,
+      57,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      57,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      57,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "5d1321bbf784a7e3f512c6e4",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     109
+    ],
+    "actual_ea": [
+     true,
+     109
+    ],
+    "actual_head": [
+     true,
+     109
+    ],
+    "sim": {
+     "full": [
+      true,
+      109,
+      5,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      109,
+      5,
+      "proved"
+     ],
+     "global": [
+      true,
+      109,
+      5,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "53508c71f083762bc8cb4faa",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "6662d44b700215b503d26cc2",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     82
+    ],
+    "actual_ea": [
+     true,
+     82
+    ],
+    "actual_head": [
+     true,
+     82
+    ],
+    "sim": {
+     "full": [
+      true,
+      82,
+      4,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      82,
+      4,
+      "proved"
+     ],
+     "global": [
+      true,
+      82,
+      4,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "5943f01131a098359144561f",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "f5ed1b6b84a88dbf42c94b01",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     29
+    ],
+    "actual_ea": [
+     true,
+     29
+    ],
+    "actual_head": [
+     true,
+     29
+    ],
+    "sim": {
+     "full": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      29,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "8d8cf3073a2c5e2cd4bd6b64",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "b91d1016aed5e126990d4df4",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "90805298967fd2cdbfc3c5cd",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "b2e764c9fbeee9a86fa4b018",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     false,
+     768
+    ],
+    "actual_ea": [
+     true,
+     564
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      null,
+      768,
+      29,
+      "unobserved"
+     ],
+     "sibling": [
+      null,
+      376,
+      14,
+      "truncated_log"
+     ],
+     "global": [
+      true,
+      508,
+      19,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "0843245d85bdd7c8844febe5",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "921f22cdf357e9645fd30c74",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     320
+    ],
+    "actual_ea": [
+     true,
+     204
+    ],
+    "actual_head": [
+     true,
+     204
+    ],
+    "sim": {
+     "full": [
+      true,
+      320,
+      12,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      204,
+      8,
+      "proved"
+     ],
+     "global": [
+      true,
+      204,
+      8,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "c706c33685d5a35d400c7fcf",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     602
+    ],
+    "actual_ea": [
+     true,
+     368
+    ],
+    "actual_head": [
+     true,
+     446
+    ],
+    "sim": {
+     "full": [
+      true,
+      602,
+      24,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      368,
+      15,
+      "proved"
+     ],
+     "global": [
+      true,
+      342,
+      14,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "d961a68486d0fb2de697b386",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "01d621e5377746400de4aea1",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     false,
+     768
+    ],
+    "actual_ea": [
+     false,
+     768
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      false,
+      768,
+      28,
+      "budget"
+     ],
+     "sibling": [
+      null,
+      532,
+      20,
+      "unobserved"
+     ],
+     "global": [
+      null,
+      616,
+      23,
+      "unobserved"
+     ]
+    }
+   },
+   {
+    "target_id": "681706ddd36d99d8113fee80",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     false,
+     768
+    ],
+    "actual_ea": [
+     false,
+     768
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      false,
+      768,
+      27,
+      "budget"
+     ],
+     "sibling": [
+      null,
+      738,
+      25,
+      "truncated_log"
+     ],
+     "global": [
+      null,
+      588,
+      20,
+      "truncated_log"
+     ]
+    }
+   },
+   {
+    "target_id": "01f6a61013a812b60d44259c",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "b570ca479c630815a09eaaea",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "b133af8d894aff136dbd43d5",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     143
+    ],
+    "actual_ea": [
+     true,
+     115
+    ],
+    "actual_head": [
+     true,
+     115
+    ],
+    "sim": {
+     "full": [
+      true,
+      143,
+      6,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      115,
+      5,
+      "proved"
+     ],
+     "global": [
+      true,
+      115,
+      5,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "a9cc2141a3532eb431db5896",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     false,
+     768
+    ],
+    "actual_ea": [
+     false,
+     768
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      false,
+      768,
+      28,
+      "budget"
+     ],
+     "sibling": [
+      null,
+      449,
+      16,
+      "truncated_log"
+     ],
+     "global": [
+      null,
+      768,
+      28,
+      "unobserved"
+     ]
+    }
+   },
+   {
+    "target_id": "a0f6bfbf68d396b35209d23e",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     355
+    ],
+    "actual_ea": [
+     true,
+     193
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      true,
+      355,
+      14,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      193,
+      8,
+      "proved"
+     ],
+     "global": [
+      true,
+      193,
+      8,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "cee2bfe0d731484f2e435516",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     139
+    ],
+    "actual_ea": [
+     true,
+     139
+    ],
+    "actual_head": [
+     true,
+     112
+    ],
+    "sim": {
+     "full": [
+      true,
+      139,
+      6,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      139,
+      6,
+      "proved"
+     ],
+     "global": [
+      true,
+      139,
+      6,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "f2c10967dd7ae58af6a6938a",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "afcf945a29a01c1816db8018",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "9ca08a37fe22e7f8847872e8",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     false,
+     768
+    ],
+    "actual_ea": [
+     false,
+     768
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      null,
+      768,
+      27,
+      "unobserved"
+     ],
+     "sibling": [
+      null,
+      648,
+      22,
+      "truncated_log"
+     ],
+     "global": [
+      null,
+      690,
+      24,
+      "unobserved"
+     ]
+    }
+   },
+   {
+    "target_id": "b8661ce1e17f1d9768fb9422",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "561d7224d3b69bcfe15c421d",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     220
+    ],
+    "actual_ea": [
+     true,
+     166
+    ],
+    "actual_head": [
+     true,
+     139
+    ],
+    "sim": {
+     "full": [
+      true,
+      220,
+      9,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      166,
+      7,
+      "proved"
+     ],
+     "global": [
+      true,
+      166,
+      7,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "234f6541f5d03ad7bcb27cd1",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "d5605daebe7d1b66d1ece7d3",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     463
+    ],
+    "actual_ea": [
+     true,
+     328
+    ],
+    "actual_head": [
+     true,
+     355
+    ],
+    "sim": {
+     "full": [
+      true,
+      463,
+      18,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      328,
+      13,
+      "proved"
+     ],
+     "global": [
+      true,
+      328,
+      13,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "58292b1e55b47d152d9cdbb3",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     172
+    ],
+    "actual_ea": [
+     true,
+     172
+    ],
+    "actual_head": [
+     false,
+     504
+    ],
+    "sim": {
+     "full": [
+      true,
+      172,
+      7,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      172,
+      7,
+      "proved"
+     ],
+     "global": [
+      true,
+      172,
+      7,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "6f0afd469c79b33ea68e7581",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     58
+    ],
+    "actual_ea": [
+     true,
+     58
+    ],
+    "actual_head": [
+     true,
+     58
+    ],
+    "sim": {
+     "full": [
+      true,
+      58,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      58,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      58,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "024a20486ea98e1dbc8b0e9c",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     105
+    ],
+    "actual_ea": [
+     true,
+     105
+    ],
+    "actual_head": [
+     true,
+     105
+    ],
+    "sim": {
+     "full": [
+      true,
+      105,
+      4,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      105,
+      4,
+      "proved"
+     ],
+     "global": [
+      true,
+      105,
+      4,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "4b15abab84a6ea9b042bf6c9",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "5d9714f9ab9ab06b89cc8cd6",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "d33fef5a13b8a8738dde07fe",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     220
+    ],
+    "actual_ea": [
+     true,
+     193
+    ],
+    "actual_head": [
+     true,
+     139
+    ],
+    "sim": {
+     "full": [
+      true,
+      220,
+      9,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      193,
+      8,
+      "proved"
+     ],
+     "global": [
+      true,
+      193,
+      8,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "38c5dc88e9c807f6536df046",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "7c4f785d5af616f4c81bfae4",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     28
+    ],
+    "actual_ea": [
+     true,
+     28
+    ],
+    "actual_head": [
+     true,
+     28
+    ],
+    "sim": {
+     "full": [
+      true,
+      28,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      28,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      28,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "efc2d7d3f1043621d15d59e3",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     29
+    ],
+    "actual_ea": [
+     true,
+     29
+    ],
+    "actual_head": [
+     true,
+     29
+    ],
+    "sim": {
+     "full": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      29,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "b4a7fbbcc15f0bda1500751c",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     58
+    ],
+    "actual_ea": [
+     true,
+     58
+    ],
+    "actual_head": [
+     true,
+     58
+    ],
+    "sim": {
+     "full": [
+      true,
+      58,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      58,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      58,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "65cc728d7a608a0c171e2f3d",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     28
+    ],
+    "actual_ea": [
+     true,
+     28
+    ],
+    "actual_head": [
+     true,
+     28
+    ],
+    "sim": {
+     "full": [
+      true,
+      28,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      28,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      28,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "e80b1dea28af087eda00f6ba",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     220
+    ],
+    "actual_ea": [
+     true,
+     139
+    ],
+    "actual_head": [
+     true,
+     193
+    ],
+    "sim": {
+     "full": [
+      true,
+      220,
+      9,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      139,
+      6,
+      "proved"
+     ],
+     "global": [
+      true,
+      139,
+      6,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "1d1673e066c5d3284694623a",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     43
+    ],
+    "actual_ea": [
+     true,
+     43
+    ],
+    "actual_head": [
+     true,
+     43
+    ],
+    "sim": {
+     "full": [
+      true,
+      43,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      43,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      43,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "88cc743bf373ff92ae298e66",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     312
+    ],
+    "actual_ea": [
+     true,
+     228
+    ],
+    "actual_head": [
+     true,
+     228
+    ],
+    "sim": {
+     "full": [
+      true,
+      312,
+      12,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      228,
+      9,
+      "proved"
+     ],
+     "global": [
+      true,
+      172,
+      7,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "1e9688dfb293a0337ff2ae4f",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     87
+    ],
+    "actual_ea": [
+     true,
+     87
+    ],
+    "actual_head": [
+     true,
+     60
+    ],
+    "sim": {
+     "full": [
+      true,
+      87,
+      4,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      87,
+      4,
+      "proved"
+     ],
+     "global": [
+      true,
+      87,
+      4,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "2c2eb699952d456cce428268",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     false,
+     768
+    ],
+    "actual_ea": [
+     false,
+     768
+    ],
+    "actual_head": [
+     false,
+     768
+    ],
+    "sim": {
+     "full": [
+      null,
+      768,
+      29,
+      "unobserved"
+     ],
+     "sibling": [
+      null,
+      656,
+      24,
+      "truncated_log"
+     ],
+     "global": [
+      false,
+      768,
+      28,
+      "budget"
+     ]
+    }
+   },
+   {
+    "target_id": "6b14416872a73412508d4684",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "3a64ed8a803dcc40c084462d",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "f2b6ee2deec740dd489df258",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     112
+    ],
+    "actual_ea": [
+     true,
+     85
+    ],
+    "actual_head": [
+     true,
+     85
+    ],
+    "sim": {
+     "full": [
+      true,
+      112,
+      5,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      85,
+      4,
+      "proved"
+     ],
+     "global": [
+      true,
+      85,
+      4,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "30f4001dfe19a479d95f7a70",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     200
+    ],
+    "actual_ea": [
+     true,
+     172
+    ],
+    "actual_head": [
+     true,
+     116
+    ],
+    "sim": {
+     "full": [
+      true,
+      200,
+      8,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      172,
+      7,
+      "proved"
+     ],
+     "global": [
+      true,
+      172,
+      7,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "6aef91b0094c1eb172c4cef3",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     29
+    ],
+    "actual_ea": [
+     true,
+     29
+    ],
+    "actual_head": [
+     true,
+     29
+    ],
+    "sim": {
+     "full": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      29,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "d5bd16bae7b48734a4836095",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "35138911d010e60ab8a2d311",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "61b1eca9550e0a43c1efd0e4",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     56
+    ],
+    "actual_ea": [
+     true,
+     56
+    ],
+    "actual_head": [
+     true,
+     56
+    ],
+    "sim": {
+     "full": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      56,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      56,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "7acc2d5a399b5dab027a7cc5",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     54
+    ],
+    "actual_ea": [
+     true,
+     54
+    ],
+    "actual_head": [
+     true,
+     54
+    ],
+    "sim": {
+     "full": [
+      true,
+      54,
+      3,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      54,
+      3,
+      "proved"
+     ],
+     "global": [
+      true,
+      54,
+      3,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "84b6ce5be3b19ad81024faed",
+    "stratum": "authored_depth_3_to_6",
+    "actual_full": [
+     true,
+     34
+    ],
+    "actual_ea": [
+     true,
+     34
+    ],
+    "actual_head": [
+     true,
+     34
+    ],
+    "sim": {
+     "full": [
+      true,
+      34,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      34,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      34,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "c28272a7785873ed17d98300",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     30
+    ],
+    "actual_ea": [
+     true,
+     30
+    ],
+    "actual_head": [
+     true,
+     30
+    ],
+    "sim": {
+     "full": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      30,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      30,
+      2,
+      "proved"
+     ]
+    }
+   },
+   {
+    "target_id": "ca0dda131390456b8ab21a44",
+    "stratum": "authored_depth_2",
+    "actual_full": [
+     true,
+     29
+    ],
+    "actual_ea": [
+     true,
+     29
+    ],
+    "actual_head": [
+     true,
+     29
+    ],
+    "sim": {
+     "full": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "sibling": [
+      true,
+      29,
+      2,
+      "proved"
+     ],
+     "global": [
+      true,
+      29,
+      2,
+      "proved"
+     ]
+    }
+   }
+  ]
+ }
+}

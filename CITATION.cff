@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the archived dataset and code release below, and identify the exact Git commit used."
 title: "Measuring State-Conditioned Canonical-Endpoint Agreement in Lean 4: reproducibility code"
 type: software
-version: "1.22.4"
-date-released: "2026-10-16"
+version: "1.22.5"
+date-released: "2026-10-17"
 authors:
   - family-names: Ma
     given-names: Zhixuan

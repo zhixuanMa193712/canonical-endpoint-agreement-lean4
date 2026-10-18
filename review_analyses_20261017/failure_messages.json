@@ -1,0 +1,354 @@
+{
+ "execution_failures_without_diagnostic": 0,
+ "by_program": {
+  "aesop": [
+   [
+    "tactic '_' failed, made no progress",
+    152
+   ],
+   [
+    "(deterministic) timeout at `_`, maximum number of heartbeats (N) has b",
+    4
+   ],
+   [
+    "",
+    1
+   ]
+  ],
+  "aesop?": [
+   [
+    "tactic '_' failed, made no progress",
+    152
+   ],
+   [
+    "(deterministic) timeout at `_`, maximum number of heartbeats (N) has b",
+    4
+   ],
+   [
+    "",
+    1
+   ]
+  ],
+  "apply_assumption": [
+   [
+    "`_` made no progress",
+    19
+   ],
+   [
+    "maximum recursion depth has been reached",
+    1
+   ]
+  ],
+  "assumption": [
+   [
+    "Tactic `_` failed",
+    512
+   ]
+  ],
+  "constructor": [
+   [
+    "Tactic `_` failed: no applicable constructor found",
+    185
+   ],
+   [
+    "Tactic `_` failed: target is not an inductive datatype",
+    148
+   ],
+   [
+    "(deterministic) timeout at `_`, maximum number of heartbeats (N) has b",
+    3
+   ],
+   [
+    "maximum recursion depth has been reached",
+    1
+   ]
+  ],
+  "contradiction": [
+   [
+    "Tactic `_` failed",
+    512
+   ]
+  ],
+  "decide": [
+   [
+    "Expected type must not contain free variables",
+    448
+   ],
+   [
+    "failed to synthesize",
+    20
+   ],
+   [
+    "Tactic `_` failed for proposition",
+    7
+   ],
+   [
+    "Tactic `_` proved that the proposition",
+    3
+   ]
+  ],
+  "exact?": [
+   [
+    "`_` could not close the goal. Try `_` to see partial suggestions.",
+    59
+   ],
+   [
+    "found a proof, but the corresponding tactic failed:",
+    2
+   ]
+  ],
+  "ext": [
+   [
+    "This extensionality tactic only applies to equalities, not",
+    319
+   ],
+   [
+    "No applicable extensionality theorem found for type",
+    148
+   ]
+  ],
+  "fun_prop": [
+   [
+    "`_` is not a `_` goal! Maybe you forgot marking `_` with `_`.",
+    170
+   ],
+   [
+    "`S.ncard =",
+    2
+   ],
+   [
+    "`charFun (\u2191(standardizedBinomialProbability n p)) t =",
+    2
+   ],
+   [
+    "`G.IsPartialIT",
+    2
+   ]
+  ],
+  "linarith": [
+   [
+    "linarith failed to find a contradiction",
+    261
+   ]
+  ],
+  "native_decide": [
+   [
+    "Expected type must not contain free variables",
+    448
+   ],
+   [
+    "failed to synthesize",
+    20
+   ],
+   [
+    "Tactic `_` failed. Error: failed to compile definition, compiler IR ch",
+    4
+   ],
+   [
+    "Tactic `_` evaluated that the proposition",
+    3
+   ]
+  ],
+  "nlinarith": [
+   [
+    "linarith failed to find a contradiction",
+    261
+   ]
+  ],
+  "omega": [
+   [
+    "omega could not prove the goal:",
+    504
+   ],
+   [
+    "unknown free variable `_`",
+    1
+   ],
+   [
+    "failed to synthesize",
+    1
+   ]
+  ],
+  "positivity": [
+   [
+    "not a positivity goal",
+    269
+   ],
+   [
+    "failed to synthesize",
+    4
+   ],
+   [
+    "failed to prove positivity/nonnegativity/nonzeroness",
+    3
+   ],
+   [
+    "failed to prove strict positivity, but it would be possible to prove n",
+    2
+   ]
+  ],
+  "rfl": [
+   [
+    "Tactic `_` failed: The left-hand side",
+    367
+   ],
+   [
+    "Tactic `_` failed: Expected the goal to be a binary relation",
+    100
+   ],
+   [
+    "(deterministic) timeout at `_`, maximum number of heartbeats (N) has b",
+    3
+   ],
+   [
+    "maximum recursion depth has been reached",
+    1
+   ]
+  ],
+  "ring": [
+   [
+    "ring_nf made no progress on goal",
+    116
+   ]
+  ],
+  "ring_nf": [
+   [
+    "ring_nf made no progress on goal",
+    116
+   ]
+  ],
+  "simp": [
+   [
+    "`_` made no progress",
+    374
+   ]
+  ],
+  "simp_all": [
+   [
+    "simp_all made no progress",
+    307
+   ]
+  ],
+  "simpa": [
+   [
+    "Tactic `_` failed",
+    484
+   ]
+  ],
+  "solve_by_elim": [
+   [
+    "failed",
+    455
+   ],
+   [
+    "(deterministic) timeout at `_`, maximum number of heartbeats (N) has b",
+    4
+   ],
+   [
+    "maximum recursion depth has been reached",
+    1
+   ]
+  ],
+  "trivial": [
+   [
+    "Tactic `_` failed",
+    453
+   ],
+   [
+    "(deterministic) timeout at `_`, maximum number of heartbeats (N) has b",
+    3
+   ],
+   [
+    "maximum recursion depth has been reached",
+    2
+   ]
+  ]
+ },
+ "execution_failures_by_program": {
+  "aesop": 157,
+  "aesop?": 157,
+  "apply_assumption": 20,
+  "assumption": 512,
+  "constructor": 337,
+  "contradiction": 512,
+  "decide": 480,
+  "exact?": 61,
+  "ext": 467,
+  "fun_prop": 384,
+  "linarith": 261,
+  "native_decide": 476,
+  "nlinarith": 261,
+  "omega": 506,
+  "positivity": 278,
+  "rfl": 471,
+  "ring": 116,
+  "ring_nf": 116,
+  "simp": 374,
+  "simp_all": 307,
+  "simpa": 484,
+  "solve_by_elim": 460,
+  "trivial": 458
+ },
+ "harness_related": [
+  [
+   "heartbeats",
+   "aesop",
+   5
+  ],
+  [
+   "heartbeats",
+   "aesop?",
+   5
+  ],
+  [
+   "heartbeats",
+   "constructor",
+   3
+  ],
+  [
+   "heartbeats",
+   "rfl",
+   3
+  ],
+  [
+   "heartbeats",
+   "solve_by_elim",
+   4
+  ],
+  [
+   "heartbeats",
+   "trivial",
+   3
+  ],
+  [
+   "recursion depth",
+   "apply_assumption",
+   1
+  ],
+  [
+   "recursion depth",
+   "constructor",
+   1
+  ],
+  [
+   "recursion depth",
+   "decide",
+   2
+  ],
+  [
+   "recursion depth",
+   "rfl",
+   1
+  ],
+  [
+   "recursion depth",
+   "solve_by_elim",
+   1
+  ],
+  [
+   "recursion depth",
+   "trivial",
+   2
+  ]
+ ]
+}

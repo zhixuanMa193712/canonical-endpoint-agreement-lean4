@@ -46,7 +46,7 @@ hv : 0 < v a
 ⊢ ¬a = 0
 ```
 
-The endpoint differs from the initial state, retains one goal, and has equal textual content in the two branches. It is therefore a witness with different tactic heads and families, a changed endpoint, and one remaining goal under the confirmation definition. The row also contains other terminal same-endpoint pairs; those are not needed for this example.
+The endpoint differs from the initial state, retains one goal, and has equal textual content in the two branches. It is therefore a witness with different tactic heads and families, a changed endpoint, and one remaining goal under the definition of main Section 2.3. The row also contains other terminal same-endpoint pairs; those are not needed for this example.
 
 The example does not compare proof terms, messages, time, or future trajectories. It should never be described as a global replacement rule for `simp` and `norm_num`.
 

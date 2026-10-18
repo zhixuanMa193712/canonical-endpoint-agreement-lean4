@@ -22,6 +22,16 @@
       "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
     },
     {
+      "path": "figures_20261016/Fig1.tex",
+      "sha256": "1a84af6e1053ed53a2f3a217f7acdd26995e85068f160637d48dc30c8484cd92",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "figures_20261016/make_figures_journal.py",
+      "sha256": "7ae016d7f48301fa61e33f2c58724c8b8e3c5401b091944025df06ef59fb9c04",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
       "path": "historical_code/exp48/experiment48_analysis.py",
       "sha256": "ed2a8bbecc6c1b9902ac9e8e6cc75d03399d0c98fcc9c964ce7622e169c9b4c5",
       "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
@@ -699,6 +709,61 @@
     {
       "path": "reproduce_figures.py",
       "sha256": "9769fa3c89ab6754901b9933794023168b5c3f03b034bd7532f5856c69cceb36",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/classify_roots.py",
+      "sha256": "6dabdb2b005323623b4e1a335e0b5f996b47b65a93cd9d846f2c562d1558af13",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/ellipsis_scan.py",
+      "sha256": "17d0e9f92242de6d711784c0eb8c259f7d795076fd2724e5d1213e224dc50f2c",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/exp63_attrition.py",
+      "sha256": "19c5ffe95e51a81b546c1b233b3e25f0ffff0b261af170ced5db92a9d730ffb1",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/export_compact_rows.py",
+      "sha256": "41f711345948823d46bce65ba0b63f0b005b04e653774bebe16a71497e79385b",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/failure_messages.py",
+      "sha256": "598573fc169e22c2c297b6e79c4c1ea825f69a080cb9120425feccbaa8d45d1b",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/fetch_sources.py",
+      "sha256": "49f05a6c0af53fe2975369d4d6a73761e05d4a21a0a0bcade97e2880f9b8fb6c",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/revision_r1_offline_reanalysis.py",
+      "sha256": "8c179b6baf8c9c87a508e3e4614763b7a352c4fa02f8853ce601eefe59507c90",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/round2_analysis.py",
+      "sha256": "8d456ead069c2f7e4d870d870bc8958d533741fccd9392e12cb734f3743981b2",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/round3_analysis.py",
+      "sha256": "b31e393333149cdbcb7b9cede650a2ff16a1295f97b4153a2db0270edae40c43",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/scan_dependencies.py",
+      "sha256": "95550d079703b367fa4cc3f31e26d2120ad738192cea1fbf4f54e53c99d81f5e",
+      "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
+    },
+    {
+      "path": "review_analyses_20261017/scan_options.py",
+      "sha256": "319fe518fa61de8b3b8806ebeab563b9cf81b3394530ef6b407cc7032176e6e8",
       "grant": "Apache-2.0 for original contributions controlled by the named licensors only; third-party notices and applicable upstream terms remain in force."
     },
     {

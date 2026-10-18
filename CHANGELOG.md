@@ -1,5 +1,42 @@
 # Changelog
 
+## 1.22.5 — 2026-10-17
+
+Synchronizes the supplementary documentation and the figures with the manuscript
+and Online Resource 1 as revised on 16 and 17 October 2026. Not separately
+archived in Zenodo.
+
+- Add `review_analyses_20261017/`: eleven scripts, compact rows (`data/`) and
+  outputs of the post hoc offline analyses added to the manuscript after three
+  rounds of blind review. These cover root position, four-way candidate
+  outcomes, implementation and alternative groupings, co-activity, the
+  conservative recount, Mathlib and parse strata, size controls, intervals,
+  printer elisions, failure messages, recruitment attrition, and replays of the
+  multistep search logs. No Lean execution; see its README.
+- `docs/supplement/`: all Markdown sources updated to Online Resource 1 as revised
+  on 17 October 2026 (the four-repository study is now called a case series;
+  execution context corrected; post hoc results in S1-S9 and S18-S20).
+
+- S19.2 (new): post hoc decomposition of the multistep invocation savings by
+  solve status (58 roots solved by both policies: 5,539 vs 4,536 invocations,
+  18.11% fewer; five roots solved by neither, both at the 768-invocation budget;
+  one root solved only by endpoint selection, 204 of the 1,207 saved invocations)
+  and the number of searches that reached the invocation budget under each policy.
+- S20: one sentence listing the most frequent head pairs in the strict external
+  frame, computed from `paper_v1.21/analysis/exp64_corrected_rows.jsonl`.
+- Add `figures_20261016/`: Figures 1-4 redrawn in a conventional plotting style
+  (Figure 1 in TikZ, Figures 2-4 with `make_figures_journal.py`). The script
+  checks the SHA-256 of the frozen inputs `figure_source_data.json` and
+  `external_source.csv` (identical to `figures_20261008/`), changes no value,
+  and records every plotted value in `figure_values_journal.json`.
+  `Fig1.tex` and `Fig1.pdf` include the one wording change made to Figure 1
+  during the review (stage 2: the endpoint of the replayed authored tactic must
+  equal kappa(s_q^+)), as in the manuscript revised on 17 October 2026.
+- `docs/supplement/figure_plan.md`: one sentence on the redrawn figures.
+- SOFTWARE_FILES.json and SOFTWARE_LICENSE_SCOPE.md list the two new figure
+  sources. Regenerate FILES.json and SHA256SUMS.txt. No data, numerical figure
+  input or frozen implementation changed.
+
 ## 1.22.4 — 2026-10-16
 
 Documentation synchronization with the manuscript and Online Resource 1 editorial

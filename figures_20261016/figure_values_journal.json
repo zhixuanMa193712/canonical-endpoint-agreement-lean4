@@ -1,0 +1,454 @@
+{
+  "Fig2": {
+    "repositories": [
+      {
+        "repository": "Carleson",
+        "positive": 17,
+        "nonterminal": 11,
+        "cross_family": 10,
+        "pairs": 65,
+        "roots": 24
+      },
+      {
+        "repository": "FLT",
+        "positive": 13,
+        "nonterminal": 7,
+        "cross_family": 8,
+        "pairs": 56,
+        "roots": 24
+      },
+      {
+        "repository": "Sphere Packing",
+        "positive": 16,
+        "nonterminal": 12,
+        "cross_family": 12,
+        "pairs": 65,
+        "roots": 24
+      },
+      {
+        "repository": "Brownian Motion",
+        "positive": 11,
+        "nonterminal": 6,
+        "cross_family": 6,
+        "pairs": 56,
+        "roots": 24
+      }
+    ],
+    "macro": 0.59375,
+    "interval": [
+      0.5,
+      0.6875
+    ],
+    "breadth_counts": [
+      8,
+      1,
+      16,
+      46
+    ],
+    "total_pairs": 71,
+    "recurring_pairs": 63
+  },
+  "Fig3": {
+    "repositories": [
+      {
+        "repository": "alexoltean61/msphml-lean",
+        "label": "msphml-lean",
+        "full": 100.0,
+        "diverse": 37.5,
+        "roots": 16
+      },
+      {
+        "repository": "ilyasergey/lean-move",
+        "label": "lean-move",
+        "full": 100.0,
+        "diverse": 31.25,
+        "roots": 16
+      },
+      {
+        "repository": "KitaKen1/bezier-bernstein-voronovskaja-lean",
+        "label": "bezier-bernstein",
+        "full": 100.0,
+        "diverse": 18.75,
+        "roots": 16
+      },
+      {
+        "repository": "MaskoMys/Collatz-Binary-Topology",
+        "label": "Collatz-Binary",
+        "full": 100.0,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "mirajcs/IsoperimetricInequality",
+        "label": "Isoperimetric",
+        "full": 100.0,
+        "diverse": 37.5,
+        "roots": 16
+      },
+      {
+        "repository": "TPColor/bastien-khormali-conjecture",
+        "label": "bastien-khormali",
+        "full": 100.0,
+        "diverse": 31.25,
+        "roots": 16
+      },
+      {
+        "repository": "danuaemx/lean-257-2",
+        "label": "lean-257-2",
+        "full": 93.75,
+        "diverse": 37.5,
+        "roots": 16
+      },
+      {
+        "repository": "ericmerle3789/collatz-conditional-cycles",
+        "label": "collatz-cycles",
+        "full": 93.75,
+        "diverse": 50.0,
+        "roots": 16
+      },
+      {
+        "repository": "mkwatson/unique-sums-notes",
+        "label": "unique-sums-notes",
+        "full": 93.75,
+        "diverse": 56.25,
+        "roots": 16
+      },
+      {
+        "repository": "YijunYuan/HarderNarasimhan",
+        "label": "HarderNarasimhan",
+        "full": 93.75,
+        "diverse": 43.75,
+        "roots": 16
+      },
+      {
+        "repository": "abcrtzyn/sudoku_prover",
+        "label": "sudoku_prover",
+        "full": 87.5,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "AxiomMath/erdos-public",
+        "label": "erdos-public",
+        "full": 81.25,
+        "diverse": 31.25,
+        "roots": 16
+      },
+      {
+        "repository": "fc0web/lean-d-fumt8",
+        "label": "lean-d-fumt8",
+        "full": 81.25,
+        "diverse": 81.25,
+        "roots": 16
+      },
+      {
+        "repository": "LoganEvans/litlib4",
+        "label": "litlib4",
+        "full": 81.25,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "beowulf127/wowii144-lean",
+        "label": "wowii144-lean",
+        "full": 75.0,
+        "diverse": 25.0,
+        "roots": 16
+      },
+      {
+        "repository": "primateria/erdos608",
+        "label": "erdos608",
+        "full": 75.0,
+        "diverse": 18.75,
+        "roots": 16
+      },
+      {
+        "repository": "galvusdamor/lean4-search-algorithms",
+        "label": "lean4-search",
+        "full": 68.75,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "NethermindEth/poseidon2-fv",
+        "label": "poseidon2-fv",
+        "full": 68.75,
+        "diverse": 37.5,
+        "roots": 16
+      },
+      {
+        "repository": "Robertboy18/aint26-lean-solutions",
+        "label": "aint26",
+        "full": 68.75,
+        "diverse": 25.0,
+        "roots": 16
+      },
+      {
+        "repository": "tobiasosborne/ProjSeminorm",
+        "label": "ProjSeminorm",
+        "full": 68.75,
+        "diverse": 43.75,
+        "roots": 16
+      },
+      {
+        "repository": "grenewode/LeanServer",
+        "label": "LeanServer",
+        "full": 62.5,
+        "diverse": 37.5,
+        "roots": 16
+      },
+      {
+        "repository": "Jostamon/erdos274-hs-abelian",
+        "label": "erdos274",
+        "full": 62.5,
+        "diverse": 43.75,
+        "roots": 16
+      },
+      {
+        "repository": "korbexmachina/GlimpseOfLean",
+        "label": "GlimpseOfLean",
+        "full": 62.5,
+        "diverse": 31.25,
+        "roots": 16
+      },
+      {
+        "repository": "pablo-vs/discrete-game-theory",
+        "label": "discrete-game",
+        "full": 62.5,
+        "diverse": 6.25,
+        "roots": 16
+      },
+      {
+        "repository": "Paraxiom/scheming-proofs",
+        "label": "scheming-proofs",
+        "full": 62.5,
+        "diverse": 31.25,
+        "roots": 16
+      },
+      {
+        "repository": "repowazdogz-droid/omega-lean-proof",
+        "label": "omega-lean-proof",
+        "full": 37.5,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "katydid/paper-2026-verified-filter-lean",
+        "label": "verified-filter",
+        "full": 31.25,
+        "diverse": 18.75,
+        "roots": 16
+      },
+      {
+        "repository": "qscqesze/graffiti-pc-conjecture-141",
+        "label": "graffiti-141",
+        "full": 31.25,
+        "diverse": 6.25,
+        "roots": 16
+      },
+      {
+        "repository": "rupakm/leslie",
+        "label": "leslie",
+        "full": 31.25,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "Pjotr5/IndependentTransversals",
+        "label": "IndependentTransv.",
+        "full": 18.75,
+        "diverse": 6.25,
+        "roots": 16
+      },
+      {
+        "repository": "paolino/keri-lean",
+        "label": "keri-lean",
+        "full": 12.5,
+        "diverse": 12.5,
+        "roots": 16
+      },
+      {
+        "repository": "scidonia/vericode",
+        "label": "vericode",
+        "full": 12.5,
+        "diverse": 6.25,
+        "roots": 16
+      }
+    ],
+    "aggregate": {
+      "full": {
+        "mean": 0.693359375,
+        "ci": [
+          0.591796875,
+          0.7890625
+        ]
+      },
+      "diverse": {
+        "mean": 0.275390625,
+        "ci": [
+          0.208984375,
+          0.34765625
+        ]
+      }
+    }
+  },
+  "Fig4": {
+    "views": [
+      {
+        "key": "L0",
+        "mean": 0.7291666666666666,
+        "ci": [
+          0.6041666666666666,
+          0.8541666666666666
+        ],
+        "repository_rates": [
+          0.7916666666666666,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.5416666666666666
+        ]
+      },
+      {
+        "key": "L-no-question",
+        "mean": 0.6666666666666666,
+        "ci": [
+          0.4791666666666667,
+          0.8541666666666666
+        ],
+        "repository_rates": [
+          0.6666666666666666,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-aesop",
+        "mean": 0.6770833333333334,
+        "ci": [
+          0.48958333333333337,
+          0.8541666666666666
+        ],
+        "repository_rates": [
+          0.7083333333333334,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-aesop-question",
+        "mean": 0.6770833333333334,
+        "ci": [
+          0.48958333333333337,
+          0.8541666666666666
+        ],
+        "repository_rates": [
+          0.7083333333333334,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-aesop-pair",
+        "mean": 0.6458333333333334,
+        "ci": [
+          0.4791666666666667,
+          0.8333333333333333
+        ],
+        "repository_rates": [
+          0.6666666666666666,
+          0.5833333333333334,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-no-direct-wrapper",
+        "mean": 0.6666666666666666,
+        "ci": [
+          0.4791666666666667,
+          0.8541666666666666
+        ],
+        "repository_rates": [
+          0.6666666666666666,
+          0.6666666666666666,
+          0.9166666666666666,
+          0.4166666666666667
+        ]
+      },
+      {
+        "key": "L-mechanism-diverse",
+        "mean": 0.34375,
+        "ci": [
+          0.25,
+          0.4375
+        ],
+        "repository_rates": [
+          0.2916666666666667,
+          0.4583333333333333,
+          0.4166666666666667,
+          0.20833333333333334
+        ]
+      }
+    ],
+    "pair_matrix": {
+      "text_and_struct": 590,
+      "text_only": 4,
+      "struct_only": 72,
+      "neither": 23622,
+      "total": 24288
+    },
+    "positive_roots_for_caption": {
+      "textual": 57,
+      "textual_macro": 0.59375,
+      "structural": 70,
+      "structural_macro": 0.7291666666666666
+    },
+    "modes": [
+      [
+        "M0_source",
+        "Historical"
+      ],
+      [
+        "M1",
+        "Reverse"
+      ],
+      [
+        "M2",
+        "Shuffle 1"
+      ],
+      [
+        "M3",
+        "Shuffle 2"
+      ],
+      [
+        "M4",
+        "Shuffle 3"
+      ],
+      [
+        "M5",
+        "Fresh"
+      ]
+    ],
+    "checks": [
+      [
+        "Roots",
+        96
+      ],
+      [
+        "Statuses",
+        2208
+      ],
+      [
+        "Endpoints",
+        514
+      ]
+    ]
+  },
+  "inputs_sha256": {
+    "figure_source_data.json": "c6f39596f948752965405edc0678603c0e6de7699ff8cbcd05da03d6a7b50d74",
+    "external_source.csv": "50461bae1d8f78c75045216f751fd7a7b4f125e86b3a4a50f450e6e64ebb8142"
+  }
+}

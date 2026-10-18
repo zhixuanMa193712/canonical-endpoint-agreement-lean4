@@ -1,0 +1,847 @@
+{
+ "alternative_groupings": {
+  "implementation|case_series|text": {
+   "full": {
+    "roots": 96,
+    "positive": 24,
+    "nonterminal": 1,
+    "terminal_only": 23
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 9,
+    "nonterminal": 1,
+    "terminal_only": 8
+   }
+  },
+  "implementation|case_series|struct": {
+   "full": {
+    "roots": 96,
+    "positive": 23,
+    "nonterminal": 0,
+    "terminal_only": 23
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 8,
+    "nonterminal": 0,
+    "terminal_only": 8
+   }
+  },
+  "implementation|strict|text": {
+   "full": {
+    "roots": 512,
+    "positive": 84,
+    "nonterminal": 4,
+    "terminal_only": 80
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 65,
+    "nonterminal": 4,
+    "terminal_only": 61
+   }
+  },
+  "implementation|strict|struct": {
+   "full": {
+    "roots": 512,
+    "positive": 84,
+    "nonterminal": 4,
+    "terminal_only": 80
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 65,
+    "nonterminal": 4,
+    "terminal_only": 61
+   }
+  },
+  "aesop_separate|case_series|text": {
+   "full": {
+    "roots": 96,
+    "positive": 31,
+    "nonterminal": 8,
+    "terminal_only": 23
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 24,
+    "nonterminal": 8,
+    "terminal_only": 16
+   }
+  },
+  "aesop_separate|case_series|struct": {
+   "full": {
+    "roots": 96,
+    "positive": 42,
+    "nonterminal": 19,
+    "terminal_only": 23
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 30,
+    "nonterminal": 14,
+    "terminal_only": 16
+   }
+  },
+  "aesop_separate|strict|text": {
+   "full": {
+    "roots": 512,
+    "positive": 129,
+    "nonterminal": 46,
+    "terminal_only": 83
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 87,
+    "nonterminal": 17,
+    "terminal_only": 70
+   }
+  },
+  "aesop_separate|strict|struct": {
+   "full": {
+    "roots": 512,
+    "positive": 174,
+    "nonterminal": 91,
+    "terminal_only": 83
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 113,
+    "nonterminal": 43,
+    "terminal_only": 70
+   }
+  },
+  "norm_num_separate|case_series|text": {
+   "full": {
+    "roots": 96,
+    "positive": 35,
+    "nonterminal": 13,
+    "terminal_only": 22
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 28,
+    "nonterminal": 13,
+    "terminal_only": 15
+   }
+  },
+  "norm_num_separate|case_series|struct": {
+   "full": {
+    "roots": 96,
+    "positive": 33,
+    "nonterminal": 11,
+    "terminal_only": 22
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 26,
+    "nonterminal": 11,
+    "terminal_only": 15
+   }
+  },
+  "norm_num_separate|strict|text": {
+   "full": {
+    "roots": 512,
+    "positive": 141,
+    "nonterminal": 66,
+    "terminal_only": 75
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 127,
+    "nonterminal": 66,
+    "terminal_only": 61
+   }
+  },
+  "norm_num_separate|strict|struct": {
+   "full": {
+    "roots": 512,
+    "positive": 140,
+    "nonterminal": 64,
+    "terminal_only": 76
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 126,
+    "nonterminal": 64,
+    "terminal_only": 62
+   }
+  },
+  "both_separate|case_series|text": {
+   "full": {
+    "roots": 96,
+    "positive": 36,
+    "nonterminal": 14,
+    "terminal_only": 22
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 30,
+    "nonterminal": 14,
+    "terminal_only": 16
+   }
+  },
+  "both_separate|case_series|struct": {
+   "full": {
+    "roots": 96,
+    "positive": 44,
+    "nonterminal": 22,
+    "terminal_only": 22
+   },
+   "dedup": {
+    "roots": 96,
+    "positive": 33,
+    "nonterminal": 17,
+    "terminal_only": 16
+   }
+  },
+  "both_separate|strict|text": {
+   "full": {
+    "roots": 512,
+    "positive": 169,
+    "nonterminal": 94,
+    "terminal_only": 75
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 132,
+    "nonterminal": 68,
+    "terminal_only": 64
+   }
+  },
+  "both_separate|strict|struct": {
+   "full": {
+    "roots": 512,
+    "positive": 195,
+    "nonterminal": 119,
+    "terminal_only": 76
+   },
+   "dedup": {
+    "roots": 512,
+    "positive": 141,
+    "nonterminal": 76,
+    "terminal_only": 65
+   }
+  }
+ },
+ "coactivity": {
+  "case_series|text": {
+   "roots_with_coactive_cross_group_pair": 21,
+   "roots_with_cross_group_agreement": 1,
+   "coactive_pairs": 116,
+   "agreeing_pairs": 2,
+   "top_coactive": [
+    [
+     "aesop/ring",
+     9
+    ],
+    [
+     "aesop/ring_nf",
+     9
+    ],
+    [
+     "aesop?/ring",
+     9
+    ],
+    [
+     "aesop?/ring_nf",
+     9
+    ],
+    [
+     "norm_num/ring",
+     9
+    ],
+    [
+     "norm_num/ring_nf",
+     9
+    ],
+    [
+     "ring/simp_all",
+     9
+    ],
+    [
+     "ring_nf/simp_all",
+     9
+    ],
+    [
+     "ring/simp",
+     8
+    ],
+    [
+     "ring_nf/simp",
+     8
+    ]
+   ],
+   "agreeing": [
+    [
+     "norm_num/ring",
+     1
+    ],
+    [
+     "norm_num/ring_nf",
+     1
+    ]
+   ]
+  },
+  "case_series|struct": {
+   "roots_with_coactive_cross_group_pair": 37,
+   "roots_with_cross_group_agreement": 0,
+   "coactive_pairs": 204,
+   "agreeing_pairs": 0,
+   "top_coactive": [
+    [
+     "aesop/ring",
+     16
+    ],
+    [
+     "aesop/ring_nf",
+     16
+    ],
+    [
+     "aesop?/ring",
+     16
+    ],
+    [
+     "aesop?/ring_nf",
+     16
+    ],
+    [
+     "ring/simp_all",
+     16
+    ],
+    [
+     "ring_nf/simp_all",
+     16
+    ],
+    [
+     "norm_num/ring",
+     13
+    ],
+    [
+     "norm_num/ring_nf",
+     13
+    ],
+    [
+     "ring/simp",
+     13
+    ],
+    [
+     "ring_nf/simp",
+     13
+    ]
+   ],
+   "agreeing": []
+  },
+  "strict|text": {
+   "roots_with_coactive_cross_group_pair": 122,
+   "roots_with_cross_group_agreement": 4,
+   "coactive_pairs": 653,
+   "agreeing_pairs": 20,
+   "top_coactive": [
+    [
+     "aesop/constructor",
+     61
+    ],
+    [
+     "aesop?/constructor",
+     61
+    ],
+    [
+     "aesop/ring",
+     44
+    ],
+    [
+     "aesop/ring_nf",
+     44
+    ],
+    [
+     "aesop?/ring",
+     44
+    ],
+    [
+     "aesop?/ring_nf",
+     44
+    ],
+    [
+     "constructor/simp_all",
+     43
+    ],
+    [
+     "ring/simp_all",
+     38
+    ],
+    [
+     "ring_nf/simp_all",
+     38
+    ],
+    [
+     "constructor/simp",
+     29
+    ]
+   ],
+   "agreeing": [
+    [
+     "norm_num/ring",
+     3
+    ],
+    [
+     "norm_num/ring_nf",
+     3
+    ],
+    [
+     "aesop/constructor",
+     2
+    ],
+    [
+     "aesop?/constructor",
+     2
+    ],
+    [
+     "ring/simp",
+     2
+    ],
+    [
+     "ring_nf/simp",
+     2
+    ],
+    [
+     "aesop/ring",
+     1
+    ],
+    [
+     "aesop/ring_nf",
+     1
+    ],
+    [
+     "aesop?/ring",
+     1
+    ],
+    [
+     "aesop?/ring_nf",
+     1
+    ]
+   ]
+  },
+  "strict|struct": {
+   "roots_with_coactive_cross_group_pair": 168,
+   "roots_with_cross_group_agreement": 4,
+   "coactive_pairs": 1007,
+   "agreeing_pairs": 10,
+   "top_coactive": [
+    [
+     "aesop/ring",
+     83
+    ],
+    [
+     "aesop/ring_nf",
+     83
+    ],
+    [
+     "aesop?/ring",
+     83
+    ],
+    [
+     "aesop?/ring_nf",
+     83
+    ],
+    [
+     "ring/simp_all",
+     68
+    ],
+    [
+     "ring_nf/simp_all",
+     68
+    ],
+    [
+     "aesop/constructor",
+     62
+    ],
+    [
+     "aesop?/constructor",
+     62
+    ],
+    [
+     "constructor/simp_all",
+     48
+    ],
+    [
+     "norm_num/ring",
+     47
+    ]
+   ],
+   "agreeing": [
+    [
+     "aesop/constructor",
+     3
+    ],
+    [
+     "aesop?/constructor",
+     3
+    ],
+    [
+     "norm_num/ring",
+     1
+    ],
+    [
+     "norm_num/ring_nf",
+     1
+    ],
+    [
+     "ring/simp",
+     1
+    ],
+    [
+     "ring_nf/simp",
+     1
+    ]
+   ]
+  }
+ },
+ "strict_views": {
+  "text": {
+   "full": {
+    "positive": 321,
+    "nonterminal": 255
+   },
+   "no_question": {
+    "positive": 226,
+    "nonterminal": 165
+   },
+   "no_aesop": {
+    "positive": 231,
+    "nonterminal": 165
+   },
+   "no_aesop_question": {
+    "positive": 231,
+    "nonterminal": 165
+   },
+   "no_aesop_pair": {
+    "positive": 213,
+    "nonterminal": 149
+   },
+   "no_direct": {
+    "positive": 226,
+    "nonterminal": 165
+   },
+   "deduplicated": {
+    "positive": 132,
+    "nonterminal": 68
+   }
+  },
+  "struct": {
+   "full": {
+    "positive": 355,
+    "nonterminal": 298
+   },
+   "no_question": {
+    "positive": 292,
+    "nonterminal": 238
+   },
+   "no_aesop": {
+    "positive": 295,
+    "nonterminal": 238
+   },
+   "no_aesop_question": {
+    "positive": 295,
+    "nonterminal": 238
+   },
+   "no_aesop_pair": {
+    "positive": 273,
+    "nonterminal": 217
+   },
+   "no_direct": {
+    "positive": 292,
+    "nonterminal": 238
+   },
+   "deduplicated": {
+    "positive": 141,
+    "nonterminal": 76
+   }
+  }
+ },
+ "strict_cluster_only_bootstrap": {
+  "full": {
+   "p2.5": 0.59765625,
+   "p97.5": 0.78515625,
+   "replicates": 20000,
+   "seed": 20260918
+  },
+  "dedup": {
+   "p2.5": 0.21875,
+   "p97.5": 0.337890625,
+   "replicates": 20000,
+   "seed": 20260918
+  }
+ },
+ "strict_mathlib_strata": {
+  "mathlib": {
+   "representatives": 26,
+   "text_full": {
+    "roots": 416,
+    "positive": 283,
+    "nonterminal": 245,
+    "terminal_only": 38
+   },
+   "text_dedup": {
+    "roots": 416,
+    "positive": 105,
+    "nonterminal": 68,
+    "terminal_only": 37
+   },
+   "struct_full": {
+    "roots": 416,
+    "positive": 317,
+    "nonterminal": 288,
+    "terminal_only": 29
+   },
+   "struct_dedup": {
+    "roots": 416,
+    "positive": 114,
+    "nonterminal": 76,
+    "terminal_only": 38
+   }
+  },
+  "no_mathlib": {
+   "representatives": 6,
+   "text_full": {
+    "roots": 96,
+    "positive": 38,
+    "nonterminal": 10,
+    "terminal_only": 28
+   },
+   "text_dedup": {
+    "roots": 96,
+    "positive": 27,
+    "nonterminal": 0,
+    "terminal_only": 27
+   },
+   "struct_full": {
+    "roots": 96,
+    "positive": 38,
+    "nonterminal": 10,
+    "terminal_only": 28
+   },
+   "struct_dedup": {
+    "roots": 96,
+    "positive": 27,
+    "nonterminal": 0,
+    "terminal_only": 27
+   }
+  }
+ },
+ "strict_within_rep_parse": {
+  "representatives_with_both_strata": 4,
+  "all_roots": 36,
+  "all_positive": 31,
+  "all_nonterminal": 31,
+  "fail_roots": 28,
+  "fail_positive": 17,
+  "fail_nonterminal": 14
+ },
+ "case_parse_failures": {
+  "by_tactic": {
+   "norm_num": 6,
+   "linarith": 8,
+   "nlinarith": 8,
+   "ring": 7,
+   "ring_nf": 7,
+   "positivity": 8
+  },
+  "roots": 9
+ },
+ "representatives": {
+  "non_first_roots": 17,
+  "attribute_roots": 6
+ },
+ "attributes_found": {
+  "case_series": [
+   [
+    "simp",
+    13
+   ],
+   [
+    "to_additive",
+    3
+   ],
+   [
+    "fun_prop",
+    2
+   ]
+  ],
+  "strict": [
+   [
+    "simp",
+    18
+   ],
+   [
+    "grind",
+    1
+   ]
+  ]
+ },
+ "multistep": {
+  "collision_types": {
+   "new_state": 449,
+   "equal_to_parent": 311
+  },
+  "collision_pairs_new_state": [
+   [
+    "aesop/aesop",
+    164
+   ],
+   [
+    "norm_num/simp",
+    70
+   ],
+   [
+    "simp/simp_all",
+    56
+   ],
+   [
+    "ring/ring_nf",
+    52
+   ],
+   [
+    "constructor/constructor",
+    42
+   ],
+   [
+    "norm_num/simp_all",
+    24
+   ],
+   [
+    "aesop/simp_all",
+    7
+   ],
+   [
+    "aesop/norm_num",
+    6
+   ],
+   [
+    "aesop/simp",
+    3
+   ],
+   [
+    "norm_num/ring_nf",
+    3
+   ],
+   [
+    "norm_num/ring",
+    3
+   ],
+   [
+    "ring/simp",
+    2
+   ],
+   [
+    "ring_nf/simp",
+    2
+   ],
+   [
+    "aesop/simpa",
+    2
+   ],
+   [
+    "assumption/simpa",
+    2
+   ]
+  ],
+  "supplied_step_collisions": {
+   "collisions_with_supplied_step": 19,
+   "supplied_kept": 1,
+   "kept_only_through_rank_four": 1
+  },
+  "full_expansion_invocations_in_duplicate_subtrees": {
+   "roots_reproduced": 61,
+   "aesop/aesop": 665,
+   "simp/simp_all": 219,
+   "constructor/constructor": 161,
+   "norm_num/simp": 165,
+   "ring/ring_nf": 240,
+   "norm_num/simp_all": 85,
+   "ring/simp": 27,
+   "ring_nf/simp": 27,
+   "aesop/simp_all": 27
+  },
+  "reduced_generic_panel_replay": {
+   "roots": 54,
+   "full_solved": 54,
+   "sibling_solved": 54,
+   "full_invocations": 3470,
+   "sibling_invocations": 3302,
+   "full_nodes": 190,
+   "sibling_nodes": 183,
+   "orig_full_invocations": 5134,
+   "orig_sibling_invocations": 4185,
+   "losses": 0
+  },
+  "reduced_generic_panel_dropped": [
+   "aesop (config := { maxRuleApplications := 16 })",
+   "constructor <;> try assumption",
+   "ring_nf"
+  ],
+  "global_replay_incomplete_roots": [
+   {
+    "target_id": "01d621e5377746400de4aea1",
+    "stratum": "authored_depth_3_to_6",
+    "status": "unobserved",
+    "invocations_before_stop": 616,
+    "nodes_before_stop": 23,
+    "full": [
+     false,
+     768
+    ],
+    "endpoint_selection": [
+     false,
+     768
+    ]
+   },
+   {
+    "target_id": "681706ddd36d99d8113fee80",
+    "stratum": "authored_depth_3_to_6",
+    "status": "truncated_log",
+    "invocations_before_stop": 588,
+    "nodes_before_stop": 20,
+    "full": [
+     false,
+     768
+    ],
+    "endpoint_selection": [
+     false,
+     768
+    ]
+   },
+   {
+    "target_id": "a9cc2141a3532eb431db5896",
+    "stratum": "authored_depth_3_to_6",
+    "status": "unobserved",
+    "invocations_before_stop": 768,
+    "nodes_before_stop": 28,
+    "full": [
+     false,
+     768
+    ],
+    "endpoint_selection": [
+     false,
+     768
+    ]
+   },
+   {
+    "target_id": "9ca08a37fe22e7f8847872e8",
+    "stratum": "authored_depth_3_to_6",
+    "status": "unobserved",
+    "invocations_before_stop": 690,
+    "nodes_before_stop": 24,
+    "full": [
+     false,
+     768
+    ],
+    "endpoint_selection": [
+     false,
+     768
+    ]
+   }
+  ]
+ }
+}

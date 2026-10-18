@@ -1,0 +1,256 @@
+{
+"AxiomMath/erdos-public": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"Jostamon/erdos274-hs-abelian": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"KitaKen1/bezier-bernstein-voronovskaja-lean": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"LoganEvans/litlib4": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"MaskoMys/Collatz-Binary-Topology": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"NethermindEth/poseidon2-fv": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"Paraxiom/scheming-proofs": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"Pjotr5/IndependentTransversals": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"Robertboy18/aint26-lean-solutions": {
+"mathlib": true,
+"aesop": false,
+"files": [
+"lakefile.toml"
+]
+},
+"TPColor/bastien-khormali-conjecture": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"YijunYuan/HarderNarasimhan": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"abcrtzyn/sudoku_prover": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"alexoltean61/msphml-lean": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"beowulf127/wowii144-lean": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"danuaemx/lean-257-2": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"ericmerle3789/collatz-conditional-cycles": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"fc0web/lean-d-fumt8": {
+"mathlib": false,
+"aesop": false,
+"files": [
+"lakefile.toml"
+]
+},
+"galvusdamor/lean4-search-algorithms": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"grenewode/LeanServer": {
+"mathlib": false,
+"aesop": false,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"ilyasergey/lean-move": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"katydid/paper-2026-verified-filter-lean": {
+"mathlib": false,
+"aesop": false,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"korbexmachina/GlimpseOfLean": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"mirajcs/IsoperimetricInequality": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"mkwatson/unique-sums-notes": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"pablo-vs/discrete-game-theory": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"paolino/keri-lean": {
+"mathlib": false,
+"aesop": false,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"primateria/erdos608": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"qscqesze/graffiti-pc-conjecture-141": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+},
+"repowazdogz-droid/omega-lean-proof": {
+"mathlib": false,
+"aesop": false,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"rupakm/leslie": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"scidonia/vericode": {
+"mathlib": false,
+"aesop": false,
+"files": [
+"lake-manifest.json",
+"lakefile.lean"
+]
+},
+"tobiasosborne/ProjSeminorm": {
+"mathlib": true,
+"aesop": true,
+"files": [
+"lake-manifest.json",
+"lakefile.toml"
+]
+}
+}

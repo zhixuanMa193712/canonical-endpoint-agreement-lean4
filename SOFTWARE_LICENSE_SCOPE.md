@@ -4,7 +4,10 @@ Effective release date: 2026-09-21. Packaging version: 1.22.2.
 
 Code packaging 1.22.3 (2026-10-11) also lists the authors' original plotting
 contributions in figures_20261008/ and reproduce_figures.py under the same grant
-and exclusions. The original licensing date is unchanged.
+and exclusions. Repository revision 1.22.5 (2026-10-16) adds
+figures_20261016/make_figures_journal.py and figures_20261016/Fig1.tex on the
+same terms, and the analysis scripts in review_analyses_20261017/ (the eleven
+.py files listed in SOFTWARE_FILES.json) on the same terms. The original licensing date is unchanged.
 
 Copyright 2026 Zhixuan Ma (马梽轩) and Zhengwei Shen (沈政伟).
 
